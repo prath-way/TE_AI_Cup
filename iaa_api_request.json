@@ -1,0 +1,30 @@
+{
+  "url": "https://live.messebackend.aws.corussoft.de/webservice/search",
+  "method": "POST",
+  "headers": {
+    "ec-client": "EventGuide/2.23.2-10682[52]",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://exhibitors.iaa-transportation.com/",
+    "accept-language": "en-US,en;q=0.9",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+    "sec-ch-ua-mobile": "?0",
+    "beconnectiontoken": "eyJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3NzA0NTQyMTAsImlzcyI6ImV2ZW50LWNsb3VkLmNvbSIsInN1YiI6IjExMTI0ODgxIiwidHlwZSI6ImJlQ29ubmVjdGlvbiJ9.0HORTdhMoxWbv_jVSoeFcxb0kwoc5bxtF9G4dI1plcxIcZRv3Z8--R4UdBPLFO0SGofjNnfWFkODgJBn-G6SSw",
+    "ec-client-branding": "2024_iaa_transportation",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "accept": "application/json",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    ":authority": "live.messebackend.aws.corussoft.de",
+    ":method": "POST",
+    ":path": "/webservice/search",
+    ":scheme": "https",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "cache-control": "max-age=0",
+    "content-length": "235",
+    "origin": "https://exhibitors.iaa-transportation.com",
+    "priority": "u=1, i",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "postData": "topic=2024_iaa_transportation&os=web&appUrl=https%3A%2F%2Fexhibitors.iaa-transportation.com&lang=en&apiVersion=52&timezoneOffset=0&numresultrows=27&startresultrow=0&filterlist=entity_orga&order=relevance&secondaryOrder=lexic&desc=false"
+}

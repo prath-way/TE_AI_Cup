@@ -1,0 +1,3150 @@
+{
+  "method": "selector_extraction",
+  "companies": [
+    {
+      "companyName": "Sl No\n                COMPANY NAME\n                Hall No\n                Stall No\n                Country\n                Website",
+      "selector": "table tr",
+      "index": 0
+    },
+    {
+      "companyName": "1\n                A INNOVATIVE INTERNATIONAL LTD\n                4\n                B116\n                India\n                www.ainnovative.com",
+      "selector": "table tr",
+      "index": 1
+    },
+    {
+      "companyName": "2\n                A.B. INDIA TOOLS\n                5\n                C132\n                India\n                https://abindiatools.in/",
+      "selector": "table tr",
+      "index": 2
+    },
+    {
+      "companyName": "3\n                AARKA LASER TECHNOLOGIES\n                4\n                A125\n                India\n                www.aarkalaser.com",
+      "selector": "table tr",
+      "index": 3
+    },
+    {
+      "companyName": "4\n                ABEXMATIC HYDRAULICS PVT. LTD\n                4\n                C124\n                India\n                www.abexmatichydraulics.com",
+      "selector": "table tr",
+      "index": 4
+    },
+    {
+      "companyName": "5\n                ABRO TECHNOLOGIES PVT. LTD\n                4\n                C136\n                India\n                www.abrobalancing.com",
+      "selector": "table tr",
+      "index": 5
+    },
+    {
+      "companyName": "6\n                ABV ENGINEERS & CONSULTANTS PVT. LTD\n                4\n                C120\n                India\n                www.abvindia.com",
+      "selector": "table tr",
+      "index": 6
+    },
+    {
+      "companyName": "7\n                AC MECA (M) SDN BHD\n                5\n                A143\n                Malaysia\n                www.actech.com",
+      "selector": "table tr",
+      "index": 7
+    },
+    {
+      "companyName": "8\n                ACCURATE GAUGING AND INSTRUMENTS PVT. LTD\n                3A\n                C123\n                India\n                www.accuratesales.co.in",
+      "selector": "table tr",
+      "index": 8
+    },
+    {
+      "companyName": "9\n                ACCURPRESS INDIA MACHINERY PVT. LTD\n                5\n                A101\n                India\n                www.accurpress.in",
+      "selector": "table tr",
+      "index": 9
+    },
+    {
+      "companyName": "10\n                ACONEX ENGINEERING SERVICES\n                5\n                B104\n                India\n                www.aconex.co.in",
+      "selector": "table tr",
+      "index": 10
+    },
+    {
+      "companyName": "11\n                ACUTE ANGLE ENGINEERING\n                4\n                C131\n                India\n                www.acuteangleengg.com",
+      "selector": "table tr",
+      "index": 11
+    },
+    {
+      "companyName": "12\n                ADDBLU INNOVATORS PVT. LTD\n                5\n                C153\n                India\n                www.addblu.com",
+      "selector": "table tr",
+      "index": 12
+    },
+    {
+      "companyName": "13\n                ADHVIKA FORGETECH PVT. LTD\n                2A\n                A115\n                India\n                www.advikaforgetech.com",
+      "selector": "table tr",
+      "index": 13
+    },
+    {
+      "companyName": "14\n                ADVANCE MECHANICAL SERVICES PVT. LTD (AMS INDIA)\n                5\n                A154\n                India\n                www.ams-india.co.in",
+      "selector": "table tr",
+      "index": 14
+    },
+    {
+      "companyName": "15\n                ADVANCED MACHINE TOOL TESTING FACILITY (AMTTF)\n                5\n                C161\n                India\n                www.amttf.in",
+      "selector": "table tr",
+      "index": 15
+    },
+    {
+      "companyName": "16\n                ADVANCED MANUFACTURING TECHNOLOGY DEVELOPMENT CENTRE (AMTDC), CHENNAI\n                5\n                C160\n                India\n                www.indianforging.org",
+      "selector": "table tr",
+      "index": 16
+    },
+    {
+      "companyName": "17\n                ADVANCED MICRO SERVICES PVT. LTD\n                3A\n                C140\n                India\n                www.amsindia.net",
+      "selector": "table tr",
+      "index": 17
+    },
+    {
+      "companyName": "18\n                AEON ENGINEERING SOLUTIONS\n                5\n                C107\n                India\n                https://aeon-eng.com/",
+      "selector": "table tr",
+      "index": 18
+    },
+    {
+      "companyName": "19\n                AGILE MACHINERIES PVT. LTD\n                4\n                B106\n                India\n                www.agilelaser.com",
+      "selector": "table tr",
+      "index": 19
+    },
+    {
+      "companyName": "20\n                AIDA INDIA PVT. LTD\n                5\n                A102\n                India\n                www.aida-asia.com",
+      "selector": "table tr",
+      "index": 20
+    },
+    {
+      "companyName": "21\n                AIRMAJOR CO., LTD\n                3A\n                B147\n                Korea\n                www.airmajor.co.kr",
+      "selector": "table tr",
+      "index": 21
+    },
+    {
+      "companyName": "22\n                AKYAPAK ULUSLARARASI DIS TICARET MAK. SAN. VE TIC A.S\n                5\n                B177\n                Turkey\n                www.akyapak.com",
+      "selector": "table tr",
+      "index": 22
+    },
+    {
+      "companyName": "23\n                AKYAPAK ULUSLARARASI DIS TICARET MAKINA SAN. VE TIC. A.S.\n                4\n                A114\n                Turkey\n                www.akyapak.com",
+      "selector": "table tr",
+      "index": 23
+    },
+    {
+      "companyName": "24\n                ALARVY TECHNOLOGIES PVT. LTD\n                5\n                A158\n                India\n                www.alarvy.com",
+      "selector": "table tr",
+      "index": 24
+    },
+    {
+      "companyName": "25\n                ALKON PLASTICS PVT. LTD\n                3A\n                B139\n                India\n                www.alkonplastics.com",
+      "selector": "table tr",
+      "index": 25
+    },
+    {
+      "companyName": "26\n                AMADA (INDIA) PVT. LTD. / AMADA WELD TECH INDIA PVT. LTD\n                5\n                B107\n                India\n                www.amadaindia.co.in",
+      "selector": "table tr",
+      "index": 26
+    },
+    {
+      "companyName": "27\n                AMOB MAQUINAS E FERRAMENTAS SA / AMOB INDIA\n                4\n                C111\n                Portugal\n                www.amobgroup.com",
+      "selector": "table tr",
+      "index": 27
+    },
+    {
+      "companyName": "28\n                AMPCO METAL INDIA PVT. LTD\n                3A\n                C133\n                India\n                www.ampcometal.com",
+      "selector": "table tr",
+      "index": 28
+    },
+    {
+      "companyName": "29\n                AMRUT ENGINEERING\n                2A\n                A117\n                India\n                www.amrutengineering.com",
+      "selector": "table tr",
+      "index": 29
+    },
+    {
+      "companyName": "30\n                AMT GROUP\n                3A\n                B146\n                India\n                www.amtplindia.com",
+      "selector": "table tr",
+      "index": 30
+    },
+    {
+      "companyName": "31\n                ANDRITZ SCHULER INDIA PRIVATE LIMITED\n                5\n                A103\n                India\n                www.schulergroup.com",
+      "selector": "table tr",
+      "index": 31
+    },
+    {
+      "companyName": "32\n                ANGEL INDIA CAD CAM PVT LTD\n                4\n                A135\n                India\n                www.angelindiaimpex.com",
+      "selector": "table tr",
+      "index": 32
+    },
+    {
+      "companyName": "33\n                ANHUI DONGHAI YUXIANG IMPORT & EXPORT CO., LTD\n                4\n                B121\n                China\n                www.adhmt.com",
+      "selector": "table tr",
+      "index": 33
+    },
+    {
+      "companyName": "34\n                ANSCO CO.,LTD\n                5\n                A122\n                Japan\n                www.ansco.co.jp/en/",
+      "selector": "table tr",
+      "index": 34
+    },
+    {
+      "companyName": "35\n                APM TECHNOLOGIES\n                5\n                B174\n                India\n                www.apmtech.in",
+      "selector": "table tr",
+      "index": 35
+    },
+    {
+      "companyName": "36\n                APMS.AI INNOVATIONS PVT. LTD\n                5\n                C139\n                India\n                www.apms.ai",
+      "selector": "table tr",
+      "index": 36
+    },
+    {
+      "companyName": "37\n                ARKU MASCHINENBAU GMBH\n                4\n                A113\n                Germany\n                www.arku.com",
+      "selector": "table tr",
+      "index": 37
+    },
+    {
+      "companyName": "38\n                ARTECH WELDERS PVT. LTD\n                3A\n                C115\n                India\n                www.artechwelders.com",
+      "selector": "table tr",
+      "index": 38
+    },
+    {
+      "companyName": "39\n                ASIA AUTOMOTIVE LTD\n                3A\n                A108\n                India\n                www.asiaautomotivelimited.com",
+      "selector": "table tr",
+      "index": 39
+    },
+    {
+      "companyName": "40\n                ASSOCIATION OF INDIAN FORGING INDUSTRY (AIFI), PUNE\n                5\n                C159\n                India\n                www.npo-aifi.org",
+      "selector": "table tr",
+      "index": 40
+    },
+    {
+      "companyName": "41\n                ATQ METRO PVT. LTD\n                3A\n                C106\n                India\n                www.atqmetro.com",
+      "selector": "table tr",
+      "index": 41
+    },
+    {
+      "companyName": "42\n                AUTOMOTIVE COMPONENT MANUFACTURERS ASSOCIATION (ACMA)\n                5\n                C165\n                India\n                www.acma.in",
+      "selector": "table tr",
+      "index": 42
+    },
+    {
+      "companyName": "43\n                B. R PRECISIONS\n                3A\n                A115\n                India\n                www.brprecision.com",
+      "selector": "table tr",
+      "index": 43
+    },
+    {
+      "companyName": "44\n                BAJAJ MACHINES INDIA PVT LTD\n                2A\n                C106\n                India\n                www.bmi-global.com",
+      "selector": "table tr",
+      "index": 44
+    },
+    {
+      "companyName": "45\n                BARANI HYDRAULICS INDIA PVT. LTD.\n                4\n                C117\n                India\n                www.bhipl.in",
+      "selector": "table tr",
+      "index": 45
+    },
+    {
+      "companyName": "46\n                BATLIBOI LTD | PROMAU S.R.L\n                4\n                B108\n                India\n                www.batliboi.com",
+      "selector": "table tr",
+      "index": 46
+    },
+    {
+      "companyName": "47\n                BAYKAL MAKINA SAN. VE TIC. A.S.\n                4\n                A114\n                Turkey",
+      "selector": "table tr",
+      "index": 47
+    },
+    {
+      "companyName": "48\n                BECKHOFF AUTOMATION PVT. LTD\n                5\n                B142\n                India\n                www.beckhoff.co.in",
+      "selector": "table tr",
+      "index": 48
+    },
+    {
+      "companyName": "49\n                BEMCO GROUP - BEMCO FLUIDTECHNIK LLP\n                4\n                C123\n                India\n                www.fluidik.co",
+      "selector": "table tr",
+      "index": 49
+    },
+    {
+      "companyName": "50\n                BENCO THERMAL TECHNOLOGIES PVT. LTD\n                2A\n                C107\n                India\n                www.bencoindia.com",
+      "selector": "table tr",
+      "index": 50
+    },
+    {
+      "companyName": "51\n                BENDFLEX MACHINERY INDIA PVT. LTD / MARKSMAN INDUSTRIES\n                5\n                C150\n                India\n                www.bendflexmachinery.com",
+      "selector": "table tr",
+      "index": 51
+    },
+    {
+      "companyName": "52\n                BERHT ROBOTICS\n                4\n                C147\n                India\n                www.berhtrobotics.com",
+      "selector": "table tr",
+      "index": 52
+    },
+    {
+      "companyName": "53\n                BHAGWATI FILTERS PVT. LTD\n                4\n                C165\n                India\n                www.bhagwati-filters.com",
+      "selector": "table tr",
+      "index": 53
+    },
+    {
+      "companyName": "54\n                BHARAT MACHINE TOOLS\n                5\n                A171\n                India\n                www.bharatmachines.in",
+      "selector": "table tr",
+      "index": 54
+    },
+    {
+      "companyName": "55\n                BHAVYA MACHINE TOOLS LLP\n                4\n                B104\n                India\n                www.bhavyamachinetools.com",
+      "selector": "table tr",
+      "index": 55
+    },
+    {
+      "companyName": "56\n                BIBUS INDIA PVT LTD\n                3A\n                C130\n                India\n                www.bibus.com",
+      "selector": "table tr",
+      "index": 56
+    },
+    {
+      "companyName": "57\n                BIG ZERO TECHNOLOGY LLP\n                3A\n                C114\n                India\n                www.bigzerotechnology.com",
+      "selector": "table tr",
+      "index": 57
+    },
+    {
+      "companyName": "58\n                BIOGREEN BIOTECH PVT. LTD\n                4\n                A161\n                India\n                www.biogreenbags.com",
+      "selector": "table tr",
+      "index": 58
+    },
+    {
+      "companyName": "59\n                BODYHARDCHEM\n                2A\n                A111\n                India\n                www.bodyhardchem.com",
+      "selector": "table tr",
+      "index": 59
+    },
+    {
+      "companyName": "60\n                BRISK INDUSTRIES PVT. LTD\n                3A\n                B152\n                India\n                www.brisk.co.in",
+      "selector": "table tr",
+      "index": 60
+    },
+    {
+      "companyName": "61\n                BRUDERER PRESSES (INDIA) PVT. LTD\n                2A\n                B108\n                India\n                www.bruderer.com",
+      "selector": "table tr",
+      "index": 61
+    },
+    {
+      "companyName": "62\n                BTB TRANSFER SPA\n                4\n                A114\n                Italy\n                www.btb-transfer.com",
+      "selector": "table tr",
+      "index": 62
+    },
+    {
+      "companyName": "63\n                C. P. AGENCIES\n                5\n                A125\n                India\n                www.cpagencies.co",
+      "selector": "table tr",
+      "index": 63
+    },
+    {
+      "companyName": "64\n                CAMFIL INDIA PVT. LTD\n                5\n                B160\n                India\n                www.camfil.com",
+      "selector": "table tr",
+      "index": 64
+    },
+    {
+      "companyName": "65\n                CANARES AUTOMATION PVT. LTD\n                4\n                A144\n                India\n                www.canares.com",
+      "selector": "table tr",
+      "index": 65
+    },
+    {
+      "companyName": "66\n                CANARES ENGINEERING CO\n                4\n                B151\n                India\n                www.canares.in",
+      "selector": "table tr",
+      "index": 66
+    },
+    {
+      "companyName": "67\n                CARMAC TECHNOLOGIES PVT. LTD\n                3A\n                C118\n                India\n                www.carmac.co.in",
+      "selector": "table tr",
+      "index": 67
+    },
+    {
+      "companyName": "68\n                CARVE TECH\n                5\n                A172\n                India\n                www.carvetech.in",
+      "selector": "table tr",
+      "index": 68
+    },
+    {
+      "companyName": "69\n                CENTRAL MANUFACTURING TECHNOLOGY INSTITUTE (CMTI)\n                2A\n                C102A\n                India\n                www.cmti.res.in",
+      "selector": "table tr",
+      "index": 69
+    },
+    {
+      "companyName": "70\n                CERAMED ENGINEERS LTD\n                2A\n                C109\n                India\n                www.ceramedengineers.com",
+      "selector": "table tr",
+      "index": 70
+    },
+    {
+      "companyName": "71\n                CHENGDU CRP ROBOT TECHNOLOGY CO. LTD\n                3A\n                B117\n                China\n                www.crobotp-robot.com",
+      "selector": "table tr",
+      "index": 71
+    },
+    {
+      "companyName": "72\n                CHENNAI METCO\n                3A\n                A127\n                India\n                www.chennaimetco.com",
+      "selector": "table tr",
+      "index": 72
+    },
+    {
+      "companyName": "73\n                CHIUTA HYDRAULIC MACHINE MFG. CO.,LTD\n                5\n                B113A\n                Taiwan\n                www.chiuta.com.tw",
+      "selector": "table tr",
+      "index": 73
+    },
+    {
+      "companyName": "74\n                CIMA SRI AIRJET SPARES\n                4\n                A150\n                India\n                www.compressorssolution.com",
+      "selector": "table tr",
+      "index": 74
+    },
+    {
+      "companyName": "75\n                CLEANTEK\n                4\n                B164\n                India\n                www.cleantekindia.com",
+      "selector": "table tr",
+      "index": 75
+    },
+    {
+      "companyName": "76\n                CLOOS INDIA WELDING TECHNOLOGY PVT LTD\n                3A\n                A124\n                India\n                www.cloos.in",
+      "selector": "table tr",
+      "index": 76
+    },
+    {
+      "companyName": "77\n                CNC AUTOMATION SOLUTION\n                4\n                B124\n                India\n                www.cncautomations.com",
+      "selector": "table tr",
+      "index": 77
+    },
+    {
+      "companyName": "78\n                COIND ANTI-POLLUTION SYSTEMS PVT. LTD (CORAL INDIA)\n                3A\n                B109\n                India\n                www.coral.eu",
+      "selector": "table tr",
+      "index": 78
+    },
+    {
+      "companyName": "79\n                COLTON WELDTEK PVT. LTD.\n                3A\n                A111\n                India\n                https://www.coltonweld.in/",
+      "selector": "table tr",
+      "index": 79
+    },
+    {
+      "companyName": "80\n                COMER PRECISE MACHINERY INDIA PVT. LTD\n                3A\n                C149\n                India\n                http://www.comer-india.com/",
+      "selector": "table tr",
+      "index": 80
+    },
+    {
+      "companyName": "81\n                CONFEDERATION OF INDIAN INDUSTRY (CII)\n                5\n                C158\n                India\n                www.cii.in",
+      "selector": "table tr",
+      "index": 81
+    },
+    {
+      "companyName": "82\n                CONVELINE SYSTEMS PVT. LTD\n                5\n                A149\n                India\n                www.conveline.com",
+      "selector": "table tr",
+      "index": 82
+    },
+    {
+      "companyName": "83\n                CRC INDIA MANUFACTURING AND DISTRIBUTORS PVT LTD\n                4\n                A160\n                India\n                www.crcind.com",
+      "selector": "table tr",
+      "index": 83
+    },
+    {
+      "companyName": "84\n                CREAFORM - AMETEK INSTRUMENTS INDIA PVT. LTD\n                3A\n                B124\n                India\n                www.creaform3d.com",
+      "selector": "table tr",
+      "index": 84
+    },
+    {
+      "companyName": "85\n                CRESCENT TECHNO SOLUTIONS PVT. LTD\n                3A\n                B115\n                India\n                www.crescenttechno.com",
+      "selector": "table tr",
+      "index": 85
+    },
+    {
+      "companyName": "86\n                CRIPPA SRL\n                5\n                A105\n                Italy\n                www.octagroup.com",
+      "selector": "table tr",
+      "index": 86
+    },
+    {
+      "companyName": "87\n                DAKSH QUALITY SYSTEMS\n                3A\n                B150\n                India\n                http://www.mydaksh.com/",
+      "selector": "table tr",
+      "index": 87
+    },
+    {
+      "companyName": "88\n                DARSHANA INDUSTRIES PVT. LTD.\n                3A\n                B126\n                India\n                www.darshanaindustries.com",
+      "selector": "table tr",
+      "index": 88
+    },
+    {
+      "companyName": "89\n                DAS PRECISION MACHINE TOOLS PVT. LTD\n                5\n                A146\n                India\n                www.daspmt.org",
+      "selector": "table tr",
+      "index": 89
+    },
+    {
+      "companyName": "90\n                DASHNODE / BENDABLE TECHNOLOGY SOLUTIONS PVT. LTD\n                5\n                C146\n                India\n                www.dashnode.ai",
+      "selector": "table tr",
+      "index": 90
+    },
+    {
+      "companyName": "91\n                DATA M SOFTWARE INDIA PVT. LTD\n                5\n                B114\n                India\n                www.datamindia.com",
+      "selector": "table tr",
+      "index": 91
+    },
+    {
+      "companyName": "92\n                DE STAR AUTOMATION SYSTEMS ENTERPRISES / DSC FAR EAST (SINGAPORE) PTE LTD\n                5\n                C110\n                India\n                https://dscfareast.com/",
+      "selector": "table tr",
+      "index": 92
+    },
+    {
+      "companyName": "93\n                DENER MACHINERY\n                4\n                A141\n                Turkey\n                www.dener.com",
+      "selector": "table tr",
+      "index": 93
+    },
+    {
+      "companyName": "94\n                DESIGNTECH SYSTEMS PVT. LTD\n                3A\n                B136\n                India\n                www.designtechsys.com",
+      "selector": "table tr",
+      "index": 94
+    },
+    {
+      "companyName": "95\n                DEWINTER OPTICAL INC\n                5\n                A145\n                India\n                www.dewintermicroscope.com",
+      "selector": "table tr",
+      "index": 95
+    },
+    {
+      "companyName": "96\n                DEXTEROUS ALUMINIUM PROFILE SYSTEM INDIA\n                5\n                C133\n                India\n                www.dexterousaluminiumprofile.com",
+      "selector": "table tr",
+      "index": 96
+    },
+    {
+      "companyName": "97\n                DIGIPAS TECHNOLOGIES INC\n                3A\n                A132\n                United States\n                www.digipas.com",
+      "selector": "table tr",
+      "index": 97
+    },
+    {
+      "companyName": "98\n                DIPER MAQUINARIA S.L\n                5\n                C106\n                Spain\n                www.diper.net",
+      "selector": "table tr",
+      "index": 98
+    },
+    {
+      "companyName": "99\n                DIVINE ENGINEERING\n                4\n                B139\n                India",
+      "selector": "table tr",
+      "index": 99
+    },
+    {
+      "companyName": "100\n                D-MARK LASERS INDIA PVT. LTD\n                5\n                B151\n                India\n                www.dmarklaser.com",
+      "selector": "table tr",
+      "index": 100
+    },
+    {
+      "companyName": "101\n                DOIT BHARAT PVT. LTD\n                4\n                B143\n                India\n                www.doitbharat.com",
+      "selector": "table tr",
+      "index": 101
+    },
+    {
+      "companyName": "102\n                DONALDSON INDIA FILTERS SYSTEM PVT LTD\n                4\n                A129\n                India\n                www.donaldson.com",
+      "selector": "table tr",
+      "index": 102
+    },
+    {
+      "companyName": "103\n                DONGGUAN SAMHOOR PRECISION MACHINERY CO. LTD\n                4\n                A145\n                China\n                www.samhoor.net",
+      "selector": "table tr",
+      "index": 103
+    },
+    {
+      "companyName": "104\n                DRUPE ENGINEERING PVT. LTD\n                3A\n                B106\n                India\n                www.drupeengg.com",
+      "selector": "table tr",
+      "index": 104
+    },
+    {
+      "companyName": "105\n                DRZYASHAKTI TRUST\n                5\n                C176\n                India",
+      "selector": "table tr",
+      "index": 105
+    },
+    {
+      "companyName": "106\n                DS MACHINERY MAKERS\n                4\n                B156\n                India\n                www.cncmetalspinningmachine.com",
+      "selector": "table tr",
+      "index": 106
+    },
+    {
+      "companyName": "107\n                DURMAZLAR MAKINA SAN.VE TIC A.S\n                5\n                B102\n                Turkey\n                www.durmazlar.com.tr",
+      "selector": "table tr",
+      "index": 107
+    },
+    {
+      "companyName": "108\n                DUTRON HEAVY DUTY MACHINERY\n                5\n                C111\n                India",
+      "selector": "table tr",
+      "index": 108
+    },
+    {
+      "companyName": "109\n                DYNASCAN INSPECTION SYSTEMS COMPANY\n                3A\n                C129\n                India\n                www.dynascan.info",
+      "selector": "table tr",
+      "index": 109
+    },
+    {
+      "companyName": "110\n                DYNAVAC INDIA PVT. LTD\n                3A\n                A120\n                India\n                www.dynavac.in",
+      "selector": "table tr",
+      "index": 110
+    },
+    {
+      "companyName": "111\n                DYNEMECH ANTI VIBRATION TECHNOLOGY\n                3A\n                A112\n                India\n                www.vibrationmountsindia.com",
+      "selector": "table tr",
+      "index": 111
+    },
+    {
+      "companyName": "112\n                EBYTS MOTION PVT. LTD\n                4\n                C132\n                India\n                www.ebyts.in",
+      "selector": "table tr",
+      "index": 112
+    },
+    {
+      "companyName": "113\n                ECAI\n                5\n                C104\n                France\n                www.ecai.fr",
+      "selector": "table tr",
+      "index": 113
+    },
+    {
+      "companyName": "114\n                ECOCLEAN MACHINES PVT. LTD\n                3A\n                B133\n                India\n                www.ecoclean-india.com",
+      "selector": "table tr",
+      "index": 114
+    },
+    {
+      "companyName": "115\n                EEPOS INDIA PVT. LTD\n                3A\n                B119\n                India\n                www.eeposcranes.co.in",
+      "selector": "table tr",
+      "index": 115
+    },
+    {
+      "companyName": "116\n                EFFEE INDUCTION PVT. LTD\n                2A\n                C110\n                India\n                www.effee-induction.com",
+      "selector": "table tr",
+      "index": 116
+    },
+    {
+      "companyName": "117\n                EHRT - MJ TRADING\n                4\n                A117\n                India",
+      "selector": "table tr",
+      "index": 117
+    },
+    {
+      "companyName": "118\n                ELECTRO PNEUMATICS AND HYDRAULICS (I) PVT. LTD.\n                2A\n                B105\n                India\n                www.electropneumatics.com",
+      "selector": "table tr",
+      "index": 118
+    },
+    {
+      "companyName": "119\n                ELECTRONICA FINANCE LTD\n                4\n                C148\n                India\n                www.electronicafinance.com",
+      "selector": "table tr",
+      "index": 119
+    },
+    {
+      "companyName": "120\n                ELECTRONICA MECHATRONIC SYSTEMS (I) PVT. LTD.\n                3A\n                C135\n                India\n                www.electronicaems.com",
+      "selector": "table tr",
+      "index": 120
+    },
+    {
+      "companyName": "121\n                ELEKTROMAG METHODS\n                3A\n                C134\n                India\n                www.elektomag.com",
+      "selector": "table tr",
+      "index": 121
+    },
+    {
+      "companyName": "122\n                ELESA AND GANTER INDIA PVT. LTD\n                3A\n                B118\n                India\n                www.elesa-ganter.in",
+      "selector": "table tr",
+      "index": 122
+    },
+    {
+      "companyName": "123\n                ELMEASURE INDIA PVT. LTD\n                4\n                B168\n                India\n                www.elmeasure.com",
+      "selector": "table tr",
+      "index": 123
+    },
+    {
+      "companyName": "124\n                EMPIRE MACHINE TOOLS\n                5\n                A136\n                India\n                www.empiremt.com",
+      "selector": "table tr",
+      "index": 124
+    },
+    {
+      "companyName": "125\n                ENCY SOFTWARE INDIA PVT. LTD\n                5\n                C151\n                India\n                www.encycam.com",
+      "selector": "table tr",
+      "index": 125
+    },
+    {
+      "companyName": "126\n                ENDEE INFRASTRUCTURE & ENGINEERING PVT. LTD\n                5\n                C155\n                India",
+      "selector": "table tr",
+      "index": 126
+    },
+    {
+      "companyName": "127\n                ENERGY MISSION MACHINERIES (INDIA) LTD.\n                4\n                C108\n                India\n                www.energymission.com",
+      "selector": "table tr",
+      "index": 127
+    },
+    {
+      "companyName": "128\n                ENOAH ISOLUTION INDIA PVT. LTD\n                5\n                C136\n                India\n                https://enoahisolution.com",
+      "selector": "table tr",
+      "index": 128
+    },
+    {
+      "companyName": "129\n                ENOMOTO MACHINE CO., LTD.\n                5\n                A126\n                Japan\n                www.enomt.co.jp",
+      "selector": "table tr",
+      "index": 129
+    },
+    {
+      "companyName": "130\n                EQOFLUIDS INDIA PVT. LTD\n                4\n                A134\n                India\n                www.eqofluids.com",
+      "selector": "table tr",
+      "index": 130
+    },
+    {
+      "companyName": "131\n                ERGO HANDLERS\n                3A\n                C146\n                India\n                www.ergohandlers.com",
+      "selector": "table tr",
+      "index": 131
+    },
+    {
+      "companyName": "132\n                ESAUTOMOTION CONTROLS\n                4\n                C112A\n                India\n                www.esautomotion.com",
+      "selector": "table tr",
+      "index": 132
+    },
+    {
+      "companyName": "133\n                ETA TECHNOLOGY PVT. LTD\n                2A\n                A107\n                India\n                www.etatechnology.in",
+      "selector": "table tr",
+      "index": 133
+    },
+    {
+      "companyName": "134\n                ETCHON MARKS CONTROL\n                5\n                C113\n                India\n                www.etchon.com",
+      "selector": "table tr",
+      "index": 134
+    },
+    {
+      "companyName": "135\n                EVOBEAM GMBH\n                4\n                A114\n                Germany\n                www.evobeam.com",
+      "selector": "table tr",
+      "index": 135
+    },
+    {
+      "companyName": "136\n                EXACTCUT S.R.O\n                5\n                B167\n                Czech Republic\n                www.exactcut-saws.com",
+      "selector": "table tr",
+      "index": 136
+    },
+    {
+      "companyName": "137\n                EXCEL ENGITECH\n                5\n                A164\n                India\n                www.excelengitech.in",
+      "selector": "table tr",
+      "index": 137
+    },
+    {
+      "companyName": "138\n                EXCEL MACHINARIES INDIA\n                4\n                A142\n                India",
+      "selector": "table tr",
+      "index": 138
+    },
+    {
+      "companyName": "139\n                EXXJET SYSTEM LLP\n                5\n                B139\n                India\n                www.exxjet.com",
+      "selector": "table tr",
+      "index": 139
+    },
+    {
+      "companyName": "140\n                FACCIN GROUP\n                4\n                C104\n                Italy\n                www.faccingroup.com",
+      "selector": "table tr",
+      "index": 140
+    },
+    {
+      "companyName": "141\n                FACT BASE INC.\n                5\n                B116\n                Japan",
+      "selector": "table tr",
+      "index": 141
+    },
+    {
+      "companyName": "142\n                FAGOR CONTROL SYSTEMS PVT. LTD\n                3A\n                B143\n                India\n                www.fagorautomation.com",
+      "selector": "table tr",
+      "index": 142
+    },
+    {
+      "companyName": "143\n                FAIR OAKS PRECISION MACHINERY (F) CO. LTD\n                5\n                B172\n                Taiwan\n                www.fairoaks-press.com",
+      "selector": "table tr",
+      "index": 143
+    },
+    {
+      "companyName": "144\n                FANUC INDIA PVT. LTD\n                4\n                C101\n                India\n                www.fanucindia.com",
+      "selector": "table tr",
+      "index": 144
+    },
+    {
+      "companyName": "145\n                FARO INDIA\n                3A\n                B122\n                India\n                www.faro.com",
+      "selector": "table tr",
+      "index": 145
+    },
+    {
+      "companyName": "146\n                FAROHAR ENGINEERING\n                4\n                A140\n                India\n                www.farohar.in",
+      "selector": "table tr",
+      "index": 146
+    },
+    {
+      "companyName": "147\n                FEIN POWER TOOLS INDIA PVT LTD\n                5\n                C122\n                India\n                www.fein.in",
+      "selector": "table tr",
+      "index": 147
+    },
+    {
+      "companyName": "148\n                FELSS SYSTEMS GMBH\n                5\n                C119\n                Germany\n                www.felss.com",
+      "selector": "table tr",
+      "index": 148
+    },
+    {
+      "companyName": "149\n                FEROHEAT INNOVATORS PVT. LTD\n                4\n                A155\n                India\n                www.feroheat.com",
+      "selector": "table tr",
+      "index": 149
+    },
+    {
+      "companyName": "150\n                FERRO TIGER\n                3A\n                B137\n                India\n                www.ferrotiger.com",
+      "selector": "table tr",
+      "index": 150
+    },
+    {
+      "companyName": "151\n                FICEP SPA\n                5\n                A132\n                Italy\n                www.ficepgroup.com",
+      "selector": "table tr",
+      "index": 151
+    },
+    {
+      "companyName": "152\n                FINE HANDLING AND AUTOMATION PVT. LTD\n                4\n                C116\n                India\n                www.fine-handling.com",
+      "selector": "table tr",
+      "index": 152
+    },
+    {
+      "companyName": "153\n                FINE WORTH ENGINEERS\n                5\n                A109\n                India\n                www.fineworth.com",
+      "selector": "table tr",
+      "index": 153
+    },
+    {
+      "companyName": "154\n                FINEARC SYSTEMS PVT. LTD\n                3A\n                C101\n                India\n                www.finearcsystems.com",
+      "selector": "table tr",
+      "index": 154
+    },
+    {
+      "companyName": "155\n                FIXTO\n                3A\n                B103\n                India\n                www.fixtowelding.com",
+      "selector": "table tr",
+      "index": 155
+    },
+    {
+      "companyName": "156\n                FLEDON MH & MORE\n                4\n                B120\n                India\n                www.mhmore.com",
+      "selector": "table tr",
+      "index": 156
+    },
+    {
+      "companyName": "157\n                FLOW ASIA CORPORATION\n                4\n                B141\n                Taiwan\n                www.flowwaterjet.com",
+      "selector": "table tr",
+      "index": 157
+    },
+    {
+      "companyName": "158\n                FOREMAN MACHINE TOOLS PVT. LTD\n                5\n                C108\n                India\n                www.foremanmachine.com",
+      "selector": "table tr",
+      "index": 158
+    },
+    {
+      "companyName": "159\n                FPM GROUP\n                5\n                C103\n                Italy\n                www.fpmgroup.it",
+      "selector": "table tr",
+      "index": 159
+    },
+    {
+      "companyName": "160\n                FRANCIS KLEIN & CO. PVT. LTD\n                4\n                A115\n                India\n                www.francisklein.in",
+      "selector": "table tr",
+      "index": 160
+    },
+    {
+      "companyName": "161\n                FREEDOM SOFTWARE SOLUTIONS PVT. LTD\n                5\n                A140\n                India\n                www.freedomsoft.co.in",
+      "selector": "table tr",
+      "index": 161
+    },
+    {
+      "companyName": "162\n                FRONIUS INDIA PVT. LTD\n                3A\n                A102\n                India\n                www.fronius.com",
+      "selector": "table tr",
+      "index": 162
+    },
+    {
+      "companyName": "163\n                FSID, IISC,. BENGALURU\n                5\n                C162\n                India\n                www.fsid-iisc.in",
+      "selector": "table tr",
+      "index": 163
+    },
+    {
+      "companyName": "164\n                FUJI DIE CO., LTD.\n                5\n                A124\n                Japan\n                www.fujidie.co.jp/tabid/180/Default.aspx",
+      "selector": "table tr",
+      "index": 164
+    },
+    {
+      "companyName": "165\n                GALAXY TECHNIQUES\n                5\n                C131\n                India\n                www.galaxytechniques.com",
+      "selector": "table tr",
+      "index": 165
+    },
+    {
+      "companyName": "166\n                GALLANT EQUIPMENT PVT. LTD\n                5\n                B154\n                India\n                www.thegallant.in",
+      "selector": "table tr",
+      "index": 166
+    },
+    {
+      "companyName": "167\n                GASPARINI S.P. A\n                5\n                A144\n                Italy\n                www.gasparini-spa.com",
+      "selector": "table tr",
+      "index": 167
+    },
+    {
+      "companyName": "168\n                GEM ORION MACHINERY PVT. LTD\n                4\n                C133\n                India\n                www.gemorion.in",
+      "selector": "table tr",
+      "index": 168
+    },
+    {
+      "companyName": "169\n                GERB VIBRATION CONTROL SYSTEMS PVT LTD\n                3A\n                A138\n                India\n                www.gerb.com",
+      "selector": "table tr",
+      "index": 169
+    },
+    {
+      "companyName": "170\n                GI INDIA AUTOMATION AND SYSTEMS PVT. LTD\n                4\n                C139\n                India\n                www.giindiaautomation.co.in",
+      "selector": "table tr",
+      "index": 170
+    },
+    {
+      "companyName": "171\n                GIVI MISURE PVT. LTD\n                3A\n                C126\n                India\n                www.givimisureindia.com",
+      "selector": "table tr",
+      "index": 171
+    },
+    {
+      "companyName": "172\n                GLAMA MASCHINENBAU GMBH\n                5\n                C145\n                Germany\n                www.glama.de",
+      "selector": "table tr",
+      "index": 172
+    },
+    {
+      "companyName": "173\n                GLOBAL BEAM TECHNOLOGIES - INDIA STEIGERWALD & PTR STRAHLTECHNIK  (A DIV. OF IGM ROBOTICSYSTEMS INDIA PVT.LTD)\n                3A\n                A105\n                India\n                www.gbt-ag.com",
+      "selector": "table tr",
+      "index": 173
+    },
+    {
+      "companyName": "174\n                GMATS MACHINERIES INDIA PVT. LTD\n                5\n                A160\n                India\n                www.gmats.in",
+      "selector": "table tr",
+      "index": 174
+    },
+    {
+      "companyName": "175\n                GMT SOLUTIONS\n                4\n                B161\n                India",
+      "selector": "table tr",
+      "index": 175
+    },
+    {
+      "companyName": "176\n                GOLDEN ELECTRONIC CONTROLS INDIA PVT. LTD\n                4\n                A131\n                India\n                www.goldenservo.com",
+      "selector": "table tr",
+      "index": 176
+    },
+    {
+      "companyName": "177\n                GOSTOL TST INDIA PVT.LTD\n                2A\n                C111\n                India\n                www.gostol-in.net",
+      "selector": "table tr",
+      "index": 177
+    },
+    {
+      "companyName": "178\n                GQ FORGE SYSTEMS AND ENGINEERS INDIA PVT. LTD\n                4\n                B142\n                India\n                www.gqforge.com",
+      "selector": "table tr",
+      "index": 178
+    },
+    {
+      "companyName": "179\n                GRAMPUS IMPEX PVT. LTD\n                4\n                C162\n                India\n                www.grampusimpex.com",
+      "selector": "table tr",
+      "index": 179
+    },
+    {
+      "companyName": "180\n                GRIND MASTER MACHINES PVT. LTD\n                4\n                A112\n                India\n                www.grindmaster.co.in",
+      "selector": "table tr",
+      "index": 180
+    },
+    {
+      "companyName": "181\n                GUANGDONG HUASHENG NANO TECHNOLOGY CO. LTD\n                3A\n                A145\n                China\n                www.hscoat.com",
+      "selector": "table tr",
+      "index": 181
+    },
+    {
+      "companyName": "182\n                GUANGDONG MAHATMA INTELLIGENT EQUIPMENT CO., LTD\n                5\n                B147\n                China\n                www.mahatma.com.cn/en",
+      "selector": "table tr",
+      "index": 182
+    },
+    {
+      "companyName": "183\n                GUANGZHOU BLUE SKY MACHINE CO. LTD\n                5\n                C102\n                China\n                www.bluesky-machine.com",
+      "selector": "table tr",
+      "index": 183
+    },
+    {
+      "companyName": "184\n                GUETHLE PRESSENSPANNEN GMBH\n                5\n                B115\n                Germany\n                www.guethle-swt.de.com",
+      "selector": "table tr",
+      "index": 184
+    },
+    {
+      "companyName": "185\n                GVK METALFORMS PVT LTD\n                4\n                A103\n                India\n                www.gvkmetalforms.com",
+      "selector": "table tr",
+      "index": 185
+    },
+    {
+      "companyName": "186\n                HACO MACHINERY PVT. LTD\n                5\n                A115\n                India\n                www.haco.com",
+      "selector": "table tr",
+      "index": 186
+    },
+    {
+      "companyName": "187\n                HAFI ELEKTRA PVT. LTD\n                3A\n                C142\n                India\n                www.hafielektra.in",
+      "selector": "table tr",
+      "index": 187
+    },
+    {
+      "companyName": "188\n                HAMD MACHINE / JINAOLAN MACHINE TOOLS\n                4\n                A111\n                India\n                www.hamdmachines.com",
+      "selector": "table tr",
+      "index": 188
+    },
+    {
+      "companyName": "189\n                HANN KUEN MACHINERY AND HARDWARE CO. LTD\n                5\n                C117\n                Taiwan\n                www.hardy-tw.com",
+      "selector": "table tr",
+      "index": 189
+    },
+    {
+      "companyName": "190\n                HARIHAR MACHINES PVT. LTD\n                2A\n                C117\n                India\n                www.hariharpress.com",
+      "selector": "table tr",
+      "index": 190
+    },
+    {
+      "companyName": "191\n                HEATROTHERM INDIA PVT. LTD\n                2A\n                C123\n                India\n                www.heatrotherm.com",
+      "selector": "table tr",
+      "index": 191
+    },
+    {
+      "companyName": "192\n                HELMUT - FISCHER MEASUREMENT TECHNOLOGIES INDIA PVT LTD\n                3A\n                A148\n                India\n                www.helmut-fischer.com",
+      "selector": "table tr",
+      "index": 192
+    },
+    {
+      "companyName": "193\n                HENKEL ADHESIVES TECHNOLOGIES INDIA\n                4\n                A135A\n                India\n                www.henkel.com",
+      "selector": "table tr",
+      "index": 193
+    },
+    {
+      "companyName": "194\n                HEXAGON METROLOGY (INDIA) PVT. LTD\n                3A\n                A126\n                India\n                www.hexagon.com/company/divisions/manufacturing-intelligence",
+      "selector": "table tr",
+      "index": 194
+    },
+    {
+      "companyName": "195\n                HFM NAHE\n                5\n                A157\n                China\n                www.hfpress.com",
+      "selector": "table tr",
+      "index": 195
+    },
+    {
+      "companyName": "196\n                HHG INDUSTRIES PVT. LTD\n                4\n                A110\n                India\n                www.hhgindia.com",
+      "selector": "table tr",
+      "index": 196
+    },
+    {
+      "companyName": "197\n                HIGH FORCE HYDRAULICS PVT. LTD\n                5\n                C140\n                India\n                https://highforcehydraulics.com/",
+      "selector": "table tr",
+      "index": 197
+    },
+    {
+      "companyName": "198\n                HIMMEL MACHINE TOOLS PVT. LTD\n                4\n                C105\n                India\n                www.himmelmachinetools.in",
+      "selector": "table tr",
+      "index": 198
+    },
+    {
+      "companyName": "199\n                HINDUSTAN HYDRAULICS PVT. LTD\n                4\n                A109\n                India\n                www.hindustanhydraulics.com",
+      "selector": "table tr",
+      "index": 199
+    },
+    {
+      "companyName": "200\n                HIRA AUTOMATION PVT. LTD\n                4\n                C134\n                India\n                www.hiraautomation.com",
+      "selector": "table tr",
+      "index": 200
+    },
+    {
+      "companyName": "201\n                HIRAOKA HYPER TOOLS INC.\n                5\n                C123\n                Japan\n                www.sg-loy.co.jp",
+      "selector": "table tr",
+      "index": 201
+    },
+    {
+      "companyName": "202\n                HITEQ METACORP PVT. LTD\n                4\n                C118\n                India\n                www.hiteqmetacorp.com",
+      "selector": "table tr",
+      "index": 202
+    },
+    {
+      "companyName": "203\n                HIWIN TECHNOLOGIES CORP\n                4\n                B113\n                Taiwan\n                www.hiwin.tw",
+      "selector": "table tr",
+      "index": 203
+    },
+    {
+      "companyName": "204\n                HOLMARC OPTO MECHATRONICS LTD\n                4\n                C161\n                India\n                www.holmarc.com",
+      "selector": "table tr",
+      "index": 204
+    },
+    {
+      "companyName": "205\n                HONG TENG ENGINEERING INDIA PVT. LTD\n                4\n                A101\n                India\n                www.hteengg.com",
+      "selector": "table tr",
+      "index": 205
+    },
+    {
+      "companyName": "206\n                HONSBERG / MUTEKI JAPAN\n                3A\n                A146\n                India\n                www.mutekijapan.com",
+      "selector": "table tr",
+      "index": 206
+    },
+    {
+      "companyName": "207\n                HOSUNG PRESS (HFM CO.,LTD.)\n                4\n                C119\n                India",
+      "selector": "table tr",
+      "index": 207
+    },
+    {
+      "companyName": "208\n                HOWFIT SCIENCE AND TECHNOLOGY CO. LTD\n                5\n                A162\n                China\n                www.howfit-press.com",
+      "selector": "table tr",
+      "index": 208
+    },
+    {
+      "companyName": "209\n                HP INC\n                5\n                A169\n                India\n                www.bizanekdotes.in",
+      "selector": "table tr",
+      "index": 209
+    },
+    {
+      "companyName": "210\n                HSG LASER / TMNL INDIA PVT. LTD\n                5\n                B122\n                India\n                www.hsglaser.com",
+      "selector": "table tr",
+      "index": 210
+    },
+    {
+      "companyName": "211\n                HTMT PVT. LTD\n                4\n                B110\n                India\n                www.hitechmachinetool.com",
+      "selector": "table tr",
+      "index": 211
+    },
+    {
+      "companyName": "212\n                HUMIFOGG SYSTEMS\n                3A\n                A137\n                India\n                www.homifoggsystem.com",
+      "selector": "table tr",
+      "index": 212
+    },
+    {
+      "companyName": "213\n                HYDRO MECH ENGINEERS\n                4\n                C160\n                India\n                www.hydromech.co.in",
+      "selector": "table tr",
+      "index": 213
+    },
+    {
+      "companyName": "214\n                HYDRO POWER TECH ENGINEERING\n                2A\n                C115\n                India\n                www.hptironworker.com",
+      "selector": "table tr",
+      "index": 214
+    },
+    {
+      "companyName": "215\n                HYTEK MARKETING\n                4\n                C114\n                India\n                www.hytekmarketing.biz",
+      "selector": "table tr",
+      "index": 215
+    },
+    {
+      "companyName": "216\n                ICONMOV TECHNOLOGIES PVT. LTD\n                4\n                C159\n                India\n                www.iconmov.in",
+      "selector": "table tr",
+      "index": 216
+    },
+    {
+      "companyName": "217\n                ICSOFT (INTOUCH SYSTEMS PVT. LTD)\n                5\n                C142\n                India\n                www.itspl.com",
+      "selector": "table tr",
+      "index": 217
+    },
+    {
+      "companyName": "218\n                IGUS INDIA PVT. LTD\n                3A\n                C128\n                India\n                www.igus.in",
+      "selector": "table tr",
+      "index": 218
+    },
+    {
+      "companyName": "219\n                IMPERIAL PRODUCTS OF INDIA\n                4\n                B153\n                India\n                www.imperialpartieveier.com",
+      "selector": "table tr",
+      "index": 219
+    },
+    {
+      "companyName": "220\n                IMTMA TECHNOLOGY INSTITUTE\n                2A\n                A101A\n                India\n                www.imtma.in",
+      "selector": "table tr",
+      "index": 220
+    },
+    {
+      "companyName": "221\n                INCREDIBLE MACHINES PVT. LTD\n                2A\n                B102\n                India\n                www.incrediblemachines.in",
+      "selector": "table tr",
+      "index": 221
+    },
+    {
+      "companyName": "222\n                INDABRATOR / NESCO LTD\n                4\n                B147\n                India\n                www.nesco.in",
+      "selector": "table tr",
+      "index": 222
+    },
+    {
+      "companyName": "223\n                INDEF MANUFACTURING LTD\n                3A\n                A134\n                India\n                www.indef.com",
+      "selector": "table tr",
+      "index": 223
+    },
+    {
+      "companyName": "224\n                INDITECH METALMAN AUTOMATION\n                4\n                C107\n                India\n                www.metalmanautomation.com",
+      "selector": "table tr",
+      "index": 224
+    },
+    {
+      "companyName": "225\n                INDOTECH INDUSTRIES (I) PVT. LTD\n                4\n                C137\n                India\n                www.indotechmachines.com",
+      "selector": "table tr",
+      "index": 225
+    },
+    {
+      "companyName": "226\n                INDUCTOTHERM (INDIA) PVT. LTD\n                2A\n                B107\n                India\n                www.inductothermindia.com",
+      "selector": "table tr",
+      "index": 226
+    },
+    {
+      "companyName": "227\n                INFINI / IND-SPHINX PRECISION LTD\n                3A\n                B125\n                India\n                www.axis-microtools.com",
+      "selector": "table tr",
+      "index": 227
+    },
+    {
+      "companyName": "228\n                INFINITE TOOLING\n                4\n                C126\n                India\n                www.infinitetooling.com",
+      "selector": "table tr",
+      "index": 228
+    },
+    {
+      "companyName": "229\n                INFION ADVANCED LASER SYSTEMS\n                2A\n                A109\n                India\n                www.infionlaser.com",
+      "selector": "table tr",
+      "index": 229
+    },
+    {
+      "companyName": "230\n                INNOVATIVE CONCEPTS\n                4\n                C158\n                India\n                www.iconceptsindia.com",
+      "selector": "table tr",
+      "index": 230
+    },
+    {
+      "companyName": "231\n                INSTAA PRECISION TOOLS LLP\n                4\n                C146\n                India",
+      "selector": "table tr",
+      "index": 231
+    },
+    {
+      "companyName": "232\n                INTECH ADDITIVE SOLUTIONS PVT. LTD\n                5\n                B171\n                India\n                www.intechadditive.com",
+      "selector": "table tr",
+      "index": 232
+    },
+    {
+      "companyName": "233\n                INTECH SYSTEMS CHENNAI PVT. LTD\n                2A\n                B119\n                India\n                www.intechchennai.com",
+      "selector": "table tr",
+      "index": 233
+    },
+    {
+      "companyName": "234\n                INTERFACE DESIGN ASSOCIATES PVT. LTD\n                5\n                A147\n                India\n                www.idapl.in",
+      "selector": "table tr",
+      "index": 234
+    },
+    {
+      "companyName": "235\n                INTERPOWER INDUCTION PVT. LTD\n                2A\n                B113\n                India\n                www.interpowerinduction.com",
+      "selector": "table tr",
+      "index": 235
+    },
+    {
+      "companyName": "236\n                INTERSENSE TECHNOLOGIES LLP\n                3A\n                A135\n                India\n                www.intersense.in",
+      "selector": "table tr",
+      "index": 236
+    },
+    {
+      "companyName": "237\n                IONBOND COATINGS PVT. LTD\n                3A\n                B130\n                India\n                www.ionbond.com",
+      "selector": "table tr",
+      "index": 237
+    },
+    {
+      "companyName": "238\n                IPG PHOTONICS (INDIA) PVT LTD\n                4\n                A102\n                India\n                www.ipgphotonics.com",
+      "selector": "table tr",
+      "index": 238
+    },
+    {
+      "companyName": "239\n                ISGEC HEAVY ENGINEERING LTD\n                2A\n                B106\n                India\n                www.isgec.com",
+      "selector": "table tr",
+      "index": 239
+    },
+    {
+      "companyName": "240\n                ITA - ITALIAN TRADE AGENCY\n                5\n                C130\n                India\n                www.ice.it",
+      "selector": "table tr",
+      "index": 240
+    },
+    {
+      "companyName": "241\n                ITALIAN TECHNOLOGY CENTRE (ITC INDIA)\n                5\n                A137\n                Italy\n                 www.itc-india.in",
+      "selector": "table tr",
+      "index": 241
+    },
+    {
+      "companyName": "242\n                ITECH ROBOTICS AND AUTOMATION PVT LTD\n                3A\n                A103\n                India\n                www.irobotics.co.in",
+      "selector": "table tr",
+      "index": 242
+    },
+    {
+      "companyName": "243\n                ITL INDUSTRIES LTD\n                4\n                A106\n                India\n                www.itl.co.in",
+      "selector": "table tr",
+      "index": 243
+    },
+    {
+      "companyName": "244\n                JAMES HIGHTECH PVT. LTD\n                4\n                B170\n                India\n                www.jamesindia.com",
+      "selector": "table tr",
+      "index": 244
+    },
+    {
+      "companyName": "245\n                JAPAN FORMING MACHINERY ASSOCIATION (JFMA) / SAKAMURA HOTART CO.LTD\n                5\n                B121\n                Japan",
+      "selector": "table tr",
+      "index": 245
+    },
+    {
+      "companyName": "246\n                JAPAN FORMING MACHINERY ASSOCIATION (JFMA), JAPAN\n                5\n                C168\n                Japan\n                www.j-fma.or.jp",
+      "selector": "table tr",
+      "index": 246
+    },
+    {
+      "companyName": "247\n                JAPAN MACHINE TOOL BUILDERS’ ASSOCIATION (JMTBA), JAPAN\n                5\n                C167\n                Japan\n                www.jmtba.or.jp",
+      "selector": "table tr",
+      "index": 247
+    },
+    {
+      "companyName": "248\n                JAY SHAKTI MANUFACTURER\n                5\n                B149\n                India\n                https://tulsipowerpress.in/",
+      "selector": "table tr",
+      "index": 248
+    },
+    {
+      "companyName": "249\n                JAYSHREE MACHINE TOOLS PVT. LTD\n                5\n                A118\n                India\n                www.jayshreemachinetools.com",
+      "selector": "table tr",
+      "index": 249
+    },
+    {
+      "companyName": "250\n                JENDAMARK INDIA PVT. LTD\n                5\n                B152\n                India\n                www.jendamark.io",
+      "selector": "table tr",
+      "index": 250
+    },
+    {
+      "companyName": "251\n                JET MACHINES - JANAK ENTERPRISES\n                5\n                B146\n                India\n                www.jetmachines.in",
+      "selector": "table tr",
+      "index": 251
+    },
+    {
+      "companyName": "252\n                JIANGSU JINFANGYUAN CNC MACHINE CO. LTD (JFY)\n                4\n                B103\n                China\n                www.jfy-international.com",
+      "selector": "table tr",
+      "index": 252
+    },
+    {
+      "companyName": "253\n                JING DUANN MACHINERY INDUSTRIAL CO., LTD\n                5\n                A121\n                Taiwan\n                www.jdmcl.com.tw/en/index.html",
+      "selector": "table tr",
+      "index": 253
+    },
+    {
+      "companyName": "254\n                JMJ CNC TECH\n                5\n                A130\n                India\n                www.jmjcnctech.com",
+      "selector": "table tr",
+      "index": 254
+    },
+    {
+      "companyName": "255\n                JNH PRESS CO., LTD\n                5\n                B168\n                Korea\n                www.jnhpress.com",
+      "selector": "table tr",
+      "index": 255
+    },
+    {
+      "companyName": "256\n                JUPITER ROLL FORM MACHINES PVT. LTD\n                4\n                B131\n                India\n                www.jupiterrollforming.com",
+      "selector": "table tr",
+      "index": 256
+    },
+    {
+      "companyName": "257\n                K TECH CNC INDUSTRIES\n                4\n                C113\n                India\n                www.carvingmachines.in",
+      "selector": "table tr",
+      "index": 257
+    },
+    {
+      "companyName": "258\n                KABELSCHLEPP INDIA PVT. LTD\n                3A\n                B121\n                India\n                www.kabelschlepp.in",
+      "selector": "table tr",
+      "index": 258
+    },
+    {
+      "companyName": "259\n                KANAGAWA INDUSTRIAL PROMOTION CENTER\n                5\n                B117\n                Japan",
+      "selector": "table tr",
+      "index": 259
+    },
+    {
+      "companyName": "260\n                KAPASI INC\n                3A\n                C138\n                India\n                www.kapasiinc.com",
+      "selector": "table tr",
+      "index": 260
+    },
+    {
+      "companyName": "261\n                KAPSUN AIR COOLER / KAPSUN.COM\n                3A\n                C148\n                India\n                www.kapsun.com",
+      "selector": "table tr",
+      "index": 261
+    },
+    {
+      "companyName": "262\n                KAUSHICO MACHINE TOOLS PVT. LTD\n                2A\n                C103\n                India\n                www.kaushico.com",
+      "selector": "table tr",
+      "index": 262
+    },
+    {
+      "companyName": "263\n                KAWA PRESS SYSTEMS PVT. LTD\n                2A\n                C121\n                India\n                www.kawapresses.com",
+      "selector": "table tr",
+      "index": 263
+    },
+    {
+      "companyName": "264\n                KAWASAKI ROBOTICS INDIA PVT. LTD\n                4\n                A116\n                India\n                www.khi.co.jp",
+      "selector": "table tr",
+      "index": 264
+    },
+    {
+      "companyName": "265\n                KEYENCE INDIA PVT. LTD\n                3A\n                B135\n                India\n                www.keyence.co.in",
+      "selector": "table tr",
+      "index": 265
+    },
+    {
+      "companyName": "266\n                KGR FABTEK\n                5\n                A114\n                India\n                www.kgrfabtek.com",
+      "selector": "table tr",
+      "index": 266
+    },
+    {
+      "companyName": "267\n                KIRPEKAR ENGINEERING PVT. LTD\n                3A\n                B104\n                India\n                www.kirpekarengg.com",
+      "selector": "table tr",
+      "index": 267
+    },
+    {
+      "companyName": "268\n                KIRTI PRESSINGS PVT. LTD - FORWEL\n                2A\n                A106\n                India\n                www.kirtipressings.com",
+      "selector": "table tr",
+      "index": 268
+    },
+    {
+      "companyName": "269\n                KJELLBERG GMBH / KJELLBERG CUTTING AND WELDING INDIA\n                4\n                B115\n                Germany\n                www.kjellberg.de",
+      "selector": "table tr",
+      "index": 269
+    },
+    {
+      "companyName": "270\n                KK GEOSYSTEM PVT LTD\n                3A\n                B149\n                India\n                www.kkgeosystem.com",
+      "selector": "table tr",
+      "index": 270
+    },
+    {
+      "companyName": "271\n                KLAUS MACHINE TOOLS & PRECISION COMPONENTS PVT. LTD\n                2A\n                B117\n                India\n                www.klausmachines.com",
+      "selector": "table tr",
+      "index": 271
+    },
+    {
+      "companyName": "272\n                KML SENSORS - KALAIMAKAL SYSTEMS PVT. LTD\n                3A\n                A116\n                India\n                www.kmlsensors.com",
+      "selector": "table tr",
+      "index": 272
+    },
+    {
+      "companyName": "273\n                KMT WATERJET\n                4\n                A128\n                India\n                www.kmtwaterjetindia.in",
+      "selector": "table tr",
+      "index": 273
+    },
+    {
+      "companyName": "274\n                KOBELCO TRADING INDIA PVT. LTD\n                4\n                A133\n                India\n                www.shinsho.co.jp",
+      "selector": "table tr",
+      "index": 274
+    },
+    {
+      "companyName": "275\n                KOMATSU INDIA PVT LTD\n                5\n                A104\n                India\n                https://www.komatsuindia.in/",
+      "selector": "table tr",
+      "index": 275
+    },
+    {
+      "companyName": "276\n                KOTEC SYSTEM CO., LTD\n                5\n                B125\n                Korea\n                www.kotecsystem.com",
+      "selector": "table tr",
+      "index": 276
+    },
+    {
+      "companyName": "277\n                KRIPYA SOLUTIONS PVT. LTD\n                5\n                B138\n                India\n                www.kripya.com",
+      "selector": "table tr",
+      "index": 277
+    },
+    {
+      "companyName": "278\n                KRITI TOOLS PVT LTD\n                2A\n                A112\n                India\n                www.kriti-group.com",
+      "selector": "table tr",
+      "index": 278
+    },
+    {
+      "companyName": "279\n                KSW INDIA PVT. LTD\n                3A\n                C139\n                India\n                www.kswindia.com",
+      "selector": "table tr",
+      "index": 279
+    },
+    {
+      "companyName": "280\n                KURIMOTO, LTD\n                5\n                A128\n                Japan\n                www.corp.kurimoto.co.jp",
+      "selector": "table tr",
+      "index": 280
+    },
+    {
+      "companyName": "281\n                KYOTO INDUSTRIAL SUPPORT ORGANIZATION 21\n                5\n                A141\n                Japan\n                www.ki21.jp/english/",
+      "selector": "table tr",
+      "index": 281
+    },
+    {
+      "companyName": "282\n                LAKSHMI RING TRAVELLERS (COIMBATORE) PVT. LTD\n                4\n                A114\n                India\n                www.lrt.co.in",
+      "selector": "table tr",
+      "index": 282
+    },
+    {
+      "companyName": "283\n                LAMBA BROS PVT. LTD\n                4\n                A130\n                India\n                www.pressmachines.net",
+      "selector": "table tr",
+      "index": 283
+    },
+    {
+      "companyName": "284\n                LANTEK AUTOMATION INDIA\n                4\n                A158\n                India\n                www.lantek.com",
+      "selector": "table tr",
+      "index": 284
+    },
+    {
+      "companyName": "285\n                LASCO UMFORMTECHNIK GMBH\n                5\n                B109\n                Germany\n                www.lasco.com",
+      "selector": "table tr",
+      "index": 285
+    },
+    {
+      "companyName": "286\n                LASER AUTOMATION PVT. LTD\n                3A\n                C104\n                India\n                www.laserautomation.in",
+      "selector": "table tr",
+      "index": 286
+    },
+    {
+      "companyName": "287\n                LASER SCIENCE SERVICES (INDIA) PVT. LTD\n                5\n                C125\n                India\n                www.laserscience.co.in",
+      "selector": "table tr",
+      "index": 287
+    },
+    {
+      "companyName": "288\n                LASER TECHNOLOGIES PVT. LTD\n                4\n                B102\n                India\n                www.lasertechnologies.co.in",
+      "selector": "table tr",
+      "index": 288
+    },
+    {
+      "companyName": "289\n                LASERLINE DIODE LASER TECHNOLOGY PVT. LTD\n                4\n                A123\n                India\n                www.laserline.com",
+      "selector": "table tr",
+      "index": 289
+    },
+    {
+      "companyName": "290\n                LAZR-TECH\n                4\n                B169\n                India\n                www.lazr-tech.com",
+      "selector": "table tr",
+      "index": 290
+    },
+    {
+      "companyName": "291\n                LEAN CLEAN SE TECHNOLOGY\n                5\n                C152\n                India\n                www.leancleantechnology.com",
+      "selector": "table tr",
+      "index": 291
+    },
+    {
+      "companyName": "292\n                LEI INDIA PVT. LTD\n                5\n                C119A\n                India\n                www.leiindias.com",
+      "selector": "table tr",
+      "index": 292
+    },
+    {
+      "companyName": "293\n                LEIFELD METAL SPINNING GMBH\n                4\n                A114\n                Germany\n                www.leifeldms.com",
+      "selector": "table tr",
+      "index": 293
+    },
+    {
+      "companyName": "294\n                LIANYI MACHINERY CO., LTD\n                5\n                C118\n                Taiwan\n                www.cens.com/ishow/l/lian-yi/home.html",
+      "selector": "table tr",
+      "index": 294
+    },
+    {
+      "companyName": "295\n                LIPSON MACHINE TOOLS PVT. LTD\n                5\n                C157\n                India\n                www.siddhapura.com",
+      "selector": "table tr",
+      "index": 295
+    },
+    {
+      "companyName": "296\n                LODESTAR INNOVATIONS PVT. LTD (LODESTAR 3D)\n                5\n                B110\n                India\n                www.lodestar3d.com",
+      "selector": "table tr",
+      "index": 296
+    },
+    {
+      "companyName": "297\n                LUBRITE INDUSTRIES\n                4\n                A126\n                India\n                www.lubriteindustries.com",
+      "selector": "table tr",
+      "index": 297
+    },
+    {
+      "companyName": "298\n                LUXINAR\n                4\n                C106\n                United Kingdom\n                www.luxinar.com",
+      "selector": "table tr",
+      "index": 298
+    },
+    {
+      "companyName": "299\n                LVD-MULTIFOLD PVT. LTD\n                5\n                B108\n                India\n                www.lvdgroup.com",
+      "selector": "table tr",
+      "index": 299
+    },
+    {
+      "companyName": "300\n                M. D. CORPORATION\n                4\n                C127\n                India\n                www.mdcorpindia.com",
+      "selector": "table tr",
+      "index": 300
+    },
+    {
+      "companyName": "301\n                MACHINE TOOLS INDIA LTD\n                4\n                A114\n                India\n                www.mactool.com",
+      "selector": "table tr",
+      "index": 301
+    },
+    {
+      "companyName": "302\n                MACHINERY AND SPARES\n                4\n                C153\n                India\n                www.machineryandspares.com",
+      "selector": "table tr",
+      "index": 302
+    },
+    {
+      "companyName": "303\n                MACHINEWISE / YANTRAMEDHAVI INDIA PVT. LTD\n                5\n                C126\n                India\n                www.machinewise.in",
+      "selector": "table tr",
+      "index": 303
+    },
+    {
+      "companyName": "304\n                MADHU ENTERPRISES\n                3A\n                B120\n                India\n                www.madhulabels.com",
+      "selector": "table tr",
+      "index": 304
+    },
+    {
+      "companyName": "305\n                MADOX TECHNOLOGIES PVT. LTD\n                3A\n                C107\n                India\n                www.madox.in",
+      "selector": "table tr",
+      "index": 305
+    },
+    {
+      "companyName": "306\n                MAGOD LASER MACHINING PVT. LTD\n                4\n                C145\n                India\n                www.magodlaser.in",
+      "selector": "table tr",
+      "index": 306
+    },
+    {
+      "companyName": "307\n                MAHAJAN AUTOMATION PVT. LTD\n                5\n                C144\n                India\n                www.mahajanautomation.com",
+      "selector": "table tr",
+      "index": 307
+    },
+    {
+      "companyName": "308\n                MANLEO DESIGNS PVT. LTD\n                4\n                A146\n                India\n                www.manleo.com",
+      "selector": "table tr",
+      "index": 308
+    },
+    {
+      "companyName": "309\n                MANLY SILICON STEEL PVT. LTD\n                3A\n                C141\n                India\n                www.manly.tw",
+      "selector": "table tr",
+      "index": 309
+    },
+    {
+      "companyName": "310\n                MASTER AUTOMATION & ROBOTICS PVT. LTD\n                4\n                C128\n                India\n                https://www.masterautomation.in/",
+      "selector": "table tr",
+      "index": 310
+    },
+    {
+      "companyName": "311\n                MATE PRECISION TECHNOLOGIES\n                4\n                C121\n                India\n                www.spectrum-er.com",
+      "selector": "table tr",
+      "index": 311
+    },
+    {
+      "companyName": "312\n                MATOMEK PRECISION DIE SDN. BHD.\n                5\n                A123\n                Malaysia",
+      "selector": "table tr",
+      "index": 312
+    },
+    {
+      "companyName": "313\n                MAVERICK ENGINEERING COMPANY\n                4\n                B136\n                India\n                www.maengco.com",
+      "selector": "table tr",
+      "index": 313
+    },
+    {
+      "companyName": "314\n                MAXPHOTONICS CO., LTD\n                5\n                A167\n                China\n                www.maxlasers.com",
+      "selector": "table tr",
+      "index": 314
+    },
+    {
+      "companyName": "315\n                MB JIGSON HYDRAULICS PVT. LTD\n                5\n                B169\n                India\n                mbjigsonhydraulics.com",
+      "selector": "table tr",
+      "index": 315
+    },
+    {
+      "companyName": "316\n                MBR AUTOMATION PVT. LTD\n                4\n                C103\n                India\n                www.mbrautomation.com",
+      "selector": "table tr",
+      "index": 316
+    },
+    {
+      "companyName": "317\n                MDL VISHAL INDIA PVT. LTD\n                3A\n                A123\n                India\n                www.mdl-india.com",
+      "selector": "table tr",
+      "index": 317
+    },
+    {
+      "companyName": "318\n                MECHELONIC ENGINEERS PVT. LTD\n                3A\n                B105\n                India\n                www.mechelonic.in",
+      "selector": "table tr",
+      "index": 318
+    },
+    {
+      "companyName": "319\n                MECHENGG INDUSTRIES\n                3A\n                C136\n                India\n                www.mechenggindustries.com",
+      "selector": "table tr",
+      "index": 319
+    },
+    {
+      "companyName": "320\n                MECHMATRIX\n                3A\n                A139\n                India\n                www.mechmatrix.in",
+      "selector": "table tr",
+      "index": 320
+    },
+    {
+      "companyName": "321\n                MECTRONICS MARKETING SERVICES\n                4\n                C138\n                India\n                www.mectronics.in",
+      "selector": "table tr",
+      "index": 321
+    },
+    {
+      "companyName": "322\n                MEGATHERM INDUCTION LTD\n                2A\n                A103\n                India\n                www.megatherm.com",
+      "selector": "table tr",
+      "index": 322
+    },
+    {
+      "companyName": "323\n                MEGMEET ELECTRICALS INDIA PVT. LTD\n                4\n                B117\n                India\n                www.megmeet.com",
+      "selector": "table tr",
+      "index": 323
+    },
+    {
+      "companyName": "324\n                MEHTA HITECH INDUSTRIES LTD.\n                5\n                A106\n                India\n                www.mehtaindia.com",
+      "selector": "table tr",
+      "index": 324
+    },
+    {
+      "companyName": "325\n                MEHTA SANGHVI & COMPANY\n                3A\n                A109\n                India\n                www.mehtasanghvi.com",
+      "selector": "table tr",
+      "index": 325
+    },
+    {
+      "companyName": "326\n                MERCURY PNEUMATICS PVT. LTD\n                2A\n                B114\n                India\n                www.mercuryindia.net",
+      "selector": "table tr",
+      "index": 326
+    },
+    {
+      "companyName": "327\n                MESSER CUTTING SYSTEMS INDIA PVT. LTD\n                5\n                A110\n                India\n                www.messer-cutting.com",
+      "selector": "table tr",
+      "index": 327
+    },
+    {
+      "companyName": "328\n                METALIX CAD/CAM LTD\n                5\n                A139\n                Israel\n                www.metalix.net",
+      "selector": "table tr",
+      "index": 328
+    },
+    {
+      "companyName": "329\n                MICRO HYDROTECHNIC PVT LTD\n                5\n                B166\n                India\n                www.microhydrotechnic.co.in",
+      "selector": "table tr",
+      "index": 329
+    },
+    {
+      "companyName": "330\n                MIGATRONIC INDIA PVT. LTD\n                3A\n                C121\n                India\n                www.migatronic.in",
+      "selector": "table tr",
+      "index": 330
+    },
+    {
+      "companyName": "331\n                MIKRO INNOTECH INDIA PVT LTD\n                4\n                B162\n                India\n                www.mikroindia.com | www.mikroeindia.com",
+      "selector": "table tr",
+      "index": 331
+    },
+    {
+      "companyName": "332\n                MILAP MACHINES (I) PVT. LTD\n                2A\n                C114\n                India\n                www.milap.net",
+      "selector": "table tr",
+      "index": 332
+    },
+    {
+      "companyName": "333\n                MILLENIA TECHNOLOGIES (I) PVT. LTD\n                3A\n                B123\n                India\n                www.millenia-technologies.com",
+      "selector": "table tr",
+      "index": 333
+    },
+    {
+      "companyName": "334\n                MINAMIDA CO. LTD\n                5\n                B119\n                Japan\n                www.minamida.co.jp/en/",
+      "selector": "table tr",
+      "index": 334
+    },
+    {
+      "companyName": "335\n                MING XU (DONGGUAN) PRECISION MACHINERY CO., LTD\n                5\n                A111\n                China\n                www.mxpunch.com",
+      "selector": "table tr",
+      "index": 335
+    },
+    {
+      "companyName": "336\n                MINISTRY OF MICRO, SMALL & MEDIUM ENTERPRISES (MSME), BENGALURU\n                5\n                C175\n                India\n                www.msme.gov.in",
+      "selector": "table tr",
+      "index": 336
+    },
+    {
+      "companyName": "337\n                MIPALLOY PVT. LTD\n                4\n                A152\n                India\n                www.mipalloy.com",
+      "selector": "table tr",
+      "index": 337
+    },
+    {
+      "companyName": "338\n                MIRKA INDIA PVT. LTD\n                3A\n                B131\n                India\n                https://www.mirka.com/en-in/",
+      "selector": "table tr",
+      "index": 338
+    },
+    {
+      "companyName": "339\n                MITUTOYO SOUTH ASIA PVT. LTD\n                3A\n                C132\n                India\n                www.mitutoyoindia.com",
+      "selector": "table tr",
+      "index": 339
+    },
+    {
+      "companyName": "340\n                MIVEN MAYFRAN CONVEYORS PVT. LTD\n                3A\n                A119\n                India\n                www.mivenmayfran.com",
+      "selector": "table tr",
+      "index": 340
+    },
+    {
+      "companyName": "341\n                MNM COMPOSITES PVT. LTD\n                4\n                B167\n                India\n                www.mnm.asia",
+      "selector": "table tr",
+      "index": 341
+    },
+    {
+      "companyName": "342\n                MOGORA COSMIC PVT. LTD.\n                3A\n                B107\n                India\n                www.mogora.in",
+      "selector": "table tr",
+      "index": 342
+    },
+    {
+      "companyName": "343\n                MONOTECH ENGINEERS PVT. LTD\n                4\n                C122\n                India\n                www.monotech-engineers.com",
+      "selector": "table tr",
+      "index": 343
+    },
+    {
+      "companyName": "344\n                MONOTECH SYSTEMS LTD\n                5\n                B153\n                India\n                www.3dmonotech.in",
+      "selector": "table tr",
+      "index": 344
+    },
+    {
+      "companyName": "345\n                MOONS INTELLIGENT MOTION SYSTEM INDIA PVT. LTD\n                4\n                A153\n                India\n                www.moonsindustries.com",
+      "selector": "table tr",
+      "index": 345
+    },
+    {
+      "companyName": "346\n                MOOTEK TECHNOLOGIES PVT. LTD\n                5\n                B141\n                India\n                www.mootek.in",
+      "selector": "table tr",
+      "index": 346
+    },
+    {
+      "companyName": "347\n                MORI IRON WORKS CO. LTD\n                5\n                A127\n                Japan\n                www.moriiron.com",
+      "selector": "table tr",
+      "index": 347
+    },
+    {
+      "companyName": "348\n                MOWITO AUTOMATION PVT. LTD\n                4\n                C150\n                India\n                www.mowito.ai",
+      "selector": "table tr",
+      "index": 348
+    },
+    {
+      "companyName": "349\n                MSCUT LASER AND ROBOTICS PVT. LTD\n                4\n                C143\n                India\n                www.mscutlaser.in",
+      "selector": "table tr",
+      "index": 349
+    },
+    {
+      "companyName": "350\n                MTE INDUSTRIES PVT. LTD\n                5\n                B156\n                India\n                www.mteindustries.com",
+      "selector": "table tr",
+      "index": 350
+    },
+    {
+      "companyName": "351\n                MURATEC | MEIBAN ENGINEERING TECHNOLOGIES PVT. LTD\n                4\n                B111\n                India\n                www.meibanengg.com",
+      "selector": "table tr",
+      "index": 351
+    },
+    {
+      "companyName": "352\n                NABTESCO INDIA PVT. LTD\n                4\n                A121\n                India\n                www.nabtesco.co.in",
+      "selector": "table tr",
+      "index": 352
+    },
+    {
+      "companyName": "353\n                NAMSUNG - ELECTRO TECHNIX\n                4\n                B137\n                India",
+      "selector": "table tr",
+      "index": 353
+    },
+    {
+      "companyName": "354\n                NEDSCHROEF HERENTALS N. V.\n                4\n                A137\n                Belgium\n                www.nedschroefmachinery.com",
+      "selector": "table tr",
+      "index": 354
+    },
+    {
+      "companyName": "355\n                NEMINATH HYDRAULICS INDIA LLP\n                2A\n                C118\n                India\n                www.neminathhydraulics.com",
+      "selector": "table tr",
+      "index": 355
+    },
+    {
+      "companyName": "356\n                NEOTECMAN S. L\n                4\n                A114\n                Spain\n                www.neotecman.com",
+      "selector": "table tr",
+      "index": 356
+    },
+    {
+      "companyName": "357\n                NEUMATICA TECHNOLOGIES PVT. LTD\n                2A\n                A119\n                India\n                www.neumaticglobal.com",
+      "selector": "table tr",
+      "index": 357
+    },
+    {
+      "companyName": "358\n                NEWWISH TECHNOLOGY CO.,LTD\n                5\n                A161\n                China\n                www.newwish.com.cn",
+      "selector": "table tr",
+      "index": 358
+    },
+    {
+      "companyName": "359\n                NEXUG INDUSTRIES PVT. LTD\n                3A\n                B119A\n                India\n                www.nexug.com",
+      "selector": "table tr",
+      "index": 359
+    },
+    {
+      "companyName": "360\n                NIDEC - NEMOIN PRESS AND AUTOMATION PVT. LTD\n                5\n                A138\n                India\n                www.nemoinpresses.com",
+      "selector": "table tr",
+      "index": 360
+    },
+    {
+      "companyName": "361\n                NIKKO CORPORATION\n                3A\n                C102\n                India\n                https://www.nikkocorporation.com/",
+      "selector": "table tr",
+      "index": 361
+    },
+    {
+      "companyName": "362\n                NIKOARC INDUSTRIES PVT LTD\n                3A\n                B102\n                India\n                https://www.nikoarc.com/",
+      "selector": "table tr",
+      "index": 362
+    },
+    {
+      "companyName": "363\n                NISHA ENGINEERING WORKS\n                2A\n                C120\n                India\n                www.nishaengineeringworks.co.in",
+      "selector": "table tr",
+      "index": 363
+    },
+    {
+      "companyName": "364\n                NIVARITTI INDUSTRY\n                4\n                A122\n                India",
+      "selector": "table tr",
+      "index": 364
+    },
+    {
+      "companyName": "365\n                NKH FORGINGS PVT. LTD (NKH HAMMERS)\n                2A\n                C105\n                India\n                www.nkhhammers.com",
+      "selector": "table tr",
+      "index": 365
+    },
+    {
+      "companyName": "366\n                NUMALLIANCE\n                5\n                A163\n                France\n                www.numalliance.com",
+      "selector": "table tr",
+      "index": 366
+    },
+    {
+      "companyName": "367\n                NXSERA SYSTEMS\n                4\n                B148\n                India\n                www.nxsera.com",
+      "selector": "table tr",
+      "index": 367
+    },
+    {
+      "companyName": "368\n                OCTAGON MEASUREMENT SOLUTIONS PVT. LTD\n                3A\n                C117\n                India\n                www.oms.octagon.co.in",
+      "selector": "table tr",
+      "index": 368
+    },
+    {
+      "companyName": "369\n                ODTECH SOLUTIONS\n                3A\n                C103\n                India\n                www.odtechsolutions.com",
+      "selector": "table tr",
+      "index": 369
+    },
+    {
+      "companyName": "370\n                OMKAR MACHINE TOOLS PVT. LTD\n                2A\n                C104\n                India\n                www.omkarmachinetools.com",
+      "selector": "table tr",
+      "index": 370
+    },
+    {
+      "companyName": "371\n                OMNI-X BENDING PVT. LTD\n                3A\n                B128\n                India\n                www.omni-x.com",
+      "selector": "table tr",
+      "index": 371
+    },
+    {
+      "companyName": "372\n                OMPI S.R.L / DALAL MACHINE TOOLS\n                5\n                B150\n                India\n                www.ompisrl.com",
+      "selector": "table tr",
+      "index": 372
+    },
+    {
+      "companyName": "373\n                OPTIMUM SOLUTIONS\n                4\n                A104\n                India\n                www.optimum.net.in",
+      "selector": "table tr",
+      "index": 373
+    },
+    {
+      "companyName": "374\n                OPTOMECH ENGINEERS PVT. LTD.\n                3A\n                A142\n                India\n                www.optomech.in",
+      "selector": "table tr",
+      "index": 374
+    },
+    {
+      "companyName": "375\n                ORBITAL AUTOMATION PVT. LTD\n                2A\n                B116\n                India\n                www.orbitalautomation.net",
+      "selector": "table tr",
+      "index": 375
+    },
+    {
+      "companyName": "376\n                ORBITAL MEKATRONIK SYSTEMS PVT. LTD\n                5\n                B130\n                India\n                www.orbitalmekatronik.com",
+      "selector": "table tr",
+      "index": 376
+    },
+    {
+      "companyName": "377\n                ORIENTAL ENGINEERING WORKS PVT. LTD\n                3A\n                B127\n                India\n                www.oewin.com",
+      "selector": "table tr",
+      "index": 377
+    },
+    {
+      "companyName": "378\n                ORPEX MODUTECH\n                3A\n                A106\n                India\n                www.orpex.in",
+      "selector": "table tr",
+      "index": 378
+    },
+    {
+      "companyName": "379\n                ORTLINGHAUS DRIVE TECHNOLOGY INDIA PVT. LTD\n                5\n                B159\n                India\n                www.ortlinghaus.com",
+      "selector": "table tr",
+      "index": 379
+    },
+    {
+      "companyName": "380\n                PARMAR CNC MACHINES INDIA LLP\n                2A\n                B104\n                India\n                www.parmarengineering.in",
+      "selector": "table tr",
+      "index": 380
+    },
+    {
+      "companyName": "381\n                PARPAS SPA\n                5\n                B134\n                Italy\n                www.gruppoparpas.com",
+      "selector": "table tr",
+      "index": 381
+    },
+    {
+      "companyName": "382\n                PARSETU / SONNENIR\n                5\n                C154\n                India\n                www.sonnenir.com",
+      "selector": "table tr",
+      "index": 382
+    },
+    {
+      "companyName": "383\n                PATEL SHOT BLASTING\n                2A\n                A118\n                India\n                www.pshotblast.com",
+      "selector": "table tr",
+      "index": 383
+    },
+    {
+      "companyName": "384\n                PATIL AUTOMATION LTD\n                3A\n                C110\n                India\n                https://patilautomation.com/",
+      "selector": "table tr",
+      "index": 384
+    },
+    {
+      "companyName": "385\n                PECTHERM PVT. LTD\n                4\n                B152\n                India\n                www.pectherm.com",
+      "selector": "table tr",
+      "index": 385
+    },
+    {
+      "companyName": "386\n                PENTA LASER MIDDLE EAST (FZE)\n                5\n                C148\n                United Arab Emirates\n                www.pentalaser.ae",
+      "selector": "table tr",
+      "index": 386
+    },
+    {
+      "companyName": "387\n                PERFECT COIL HANDLING EQUIPMENTS\n                5\n                A135\n                India\n                www.perfectcoilhandling.com",
+      "selector": "table tr",
+      "index": 387
+    },
+    {
+      "companyName": "388\n                PFERD TOOLS - AUGUST RUEGGEBERG GMBH & CO. KG\n                5\n                C120\n                Germany\n                www.pferd.com",
+      "selector": "table tr",
+      "index": 388
+    },
+    {
+      "companyName": "389\n                PHAROS INNOVATIONS PVT. LTD\n                3A\n                C145\n                India\n                www.pharoscadcam.com",
+      "selector": "table tr",
+      "index": 389
+    },
+    {
+      "companyName": "390\n                PHOENIX CNC\n                4\n                A127\n                India\n                www.phoenixcnc.in",
+      "selector": "table tr",
+      "index": 390
+    },
+    {
+      "companyName": "391\n                PHOENIX CONTACT (I) PVT. LTD\n                5\n                B173\n                India\n                www.phoenixcontact.co.in",
+      "selector": "table tr",
+      "index": 391
+    },
+    {
+      "companyName": "392\n                PIDILITE INDUSTRIES LTD\n                4\n                A157\n                India\n                www.pidilite.com",
+      "selector": "table tr",
+      "index": 392
+    },
+    {
+      "companyName": "393\n                PLASMA INDUCTION (INDIA) PVT. LTD\n                2A\n                C101\n                India\n                www.plasmainduction.com",
+      "selector": "table tr",
+      "index": 393
+    },
+    {
+      "companyName": "394\n                PLYMOVENT INDUSTRIAL SOLUTIONS B.V.\n                3A\n                A110\n                Netherlands\n                www.plymovent.com",
+      "selector": "table tr",
+      "index": 394
+    },
+    {
+      "companyName": "395\n                POLYWORKS SOFTWARE INDIA PVT. LTD\n                3A\n                C125\n                India\n                www.polyworksindia.com",
+      "selector": "table tr",
+      "index": 395
+    },
+    {
+      "companyName": "396\n                POM SYSTEMS AND SERVICES PVT. LTD\n                4\n                A118\n                India\n                www.pompower.in",
+      "selector": "table tr",
+      "index": 396
+    },
+    {
+      "companyName": "397\n                POWER ADD SYSTEM\n                5\n                B157\n                India",
+      "selector": "table tr",
+      "index": 397
+    },
+    {
+      "companyName": "398\n                POWER ONE MICRO SYSTEMS PVT. LTD\n                4\n                A136\n                India\n                www.poweroneups.com",
+      "selector": "table tr",
+      "index": 398
+    },
+    {
+      "companyName": "399\n                POWERJAC SYSTEMS PVT. LTD\n                5\n                B131\n                India\n                www.powerjac.com",
+      "selector": "table tr",
+      "index": 399
+    },
+    {
+      "companyName": "400\n                POWERTECH ENGINEERS\n                4\n                B159\n                India\n                www.powertecheng.com",
+      "selector": "table tr",
+      "index": 400
+    },
+    {
+      "companyName": "401\n                PRADMAN ENGINEERING SERVICES PVT. LTD\n                5\n                A105\n                India\n                www.pradmanservices.com",
+      "selector": "table tr",
+      "index": 401
+    },
+    {
+      "companyName": "402\n                PRAKASH MACHINES\n                2A\n                A108\n                India\n                www.prakashmachines.com",
+      "selector": "table tr",
+      "index": 402
+    },
+    {
+      "companyName": "403\n                PRAKASH WEB TECH PVT. LTD\n                4\n                B144\n                India\n                www.lasercuttingmachines.co.in",
+      "selector": "table tr",
+      "index": 403
+    },
+    {
+      "companyName": "404\n                PRAMA HIKVISION INDIA PVT. LTD\n                5\n                B161\n                India\n                www.hikvisionindia.com",
+      "selector": "table tr",
+      "index": 404
+    },
+    {
+      "companyName": "405\n                PRAVASTHAA ENGG INDIA PVT. LTD\n                3A\n                C144\n                India\n                www.pravasthaa.com",
+      "selector": "table tr",
+      "index": 405
+    },
+    {
+      "companyName": "406\n                PRE6 TECH PVT. LTD\n                5\n                C141\n                India\n                www.pre6.ai",
+      "selector": "table tr",
+      "index": 406
+    },
+    {
+      "companyName": "407\n                PRECISION MOTION INDUSTRIES, INC\n                5\n                B112\n                Taiwan\n                www.pmi-amt.com",
+      "selector": "table tr",
+      "index": 407
+    },
+    {
+      "companyName": "408\n                PRECITEC INDIA PVT. LTD\n                5\n                B164\n                India\n                www.precitec.com",
+      "selector": "table tr",
+      "index": 408
+    },
+    {
+      "companyName": "409\n                PRESCIENT TECHNOLOGIES PVT. LTD\n                5\n                B143\n                India\n                www.pre-scient.com",
+      "selector": "table tr",
+      "index": 409
+    },
+    {
+      "companyName": "410\n                PRESS ROOM AUTOMATION AND FEED FIXTURES (I) PVT. LTD\n                2A\n                C119\n                India\n                www.pressroomautomation.net",
+      "selector": "table tr",
+      "index": 410
+    },
+    {
+      "companyName": "411\n                PRIMA POWER INDIA PVT. LTD\n                5\n                C101\n                India\n                www.primapower.com",
+      "selector": "table tr",
+      "index": 411
+    },
+    {
+      "companyName": "412\n                PRISM SURFACE COATINGS PVT. LTD\n                3A\n                B140\n                India\n                www.prismsurface.com",
+      "selector": "table tr",
+      "index": 412
+    },
+    {
+      "companyName": "413\n                PRO-ARC WELDING & CUTTING SYSTEMS PVT. LTD\n                2A\n                B103\n                India\n                www.proarcindia.com",
+      "selector": "table tr",
+      "index": 413
+    },
+    {
+      "companyName": "414\n                PRODUTECH SRL\n                5\n                B129\n                Italy\n                www.produtech.it",
+      "selector": "table tr",
+      "index": 414
+    },
+    {
+      "companyName": "415\n                PROMPT LASERS\n                4\n                A139\n                India\n                www.promptlaser.com",
+      "selector": "table tr",
+      "index": 415
+    },
+    {
+      "companyName": "416\n                PROMPT MACHINETOOLS CO\n                5\n                B170\n                India\n                www.promptmachines.in",
+      "selector": "table tr",
+      "index": 416
+    },
+    {
+      "companyName": "417\n                PROSTARM INFO SYSTEMS LTD\n                4\n                C130\n                India\n                www.prostarm.com",
+      "selector": "table tr",
+      "index": 417
+    },
+    {
+      "companyName": "418\n                PROTECK MACHINERY PVT. LTD\n                4\n                B112\n                India\n                www.proteckmachinery.com",
+      "selector": "table tr",
+      "index": 418
+    },
+    {
+      "companyName": "419\n                PROTIUM FINANCE LIMITED\n                4\n                C156\n                India\n                http://protium.co.in/",
+      "selector": "table tr",
+      "index": 419
+    },
+    {
+      "companyName": "420\n                PROTOMONT TECHNOLOGIES LLP\n                5\n                B162\n                India\n                www.protomont.com",
+      "selector": "table tr",
+      "index": 420
+    },
+    {
+      "companyName": "421\n                PRS VERSE\n                3A\n                C147\n                India\n                www.prsverse.com",
+      "selector": "table tr",
+      "index": 421
+    },
+    {
+      "companyName": "422\n                PURSHOTAM COMPANY PVT. LTD\n                2A\n                A101\n                India\n                www.purshotam.com",
+      "selector": "table tr",
+      "index": 422
+    },
+    {
+      "companyName": "423\n                PURVA STEEL PIPES\n                3A\n                A130\n                India\n                www.purvametal.com",
+      "selector": "table tr",
+      "index": 423
+    },
+    {
+      "companyName": "424\n                PURVAJ ENGINEERS\n                4\n                B125\n                India\n                www.purvajengineers.com",
+      "selector": "table tr",
+      "index": 424
+    },
+    {
+      "companyName": "425\n                QINGDAO HAOYUAN YIYOU FORGING MACHINERY CO. LTD\n                4\n                B149\n                China\n                www.yiyou-qd.com",
+      "selector": "table tr",
+      "index": 425
+    },
+    {
+      "companyName": "426\n                QINGDAO RECKEL ADVANCED MATERIALS\n                3A\n                A143\n                China\n                www.reckeltech.com",
+      "selector": "table tr",
+      "index": 426
+    },
+    {
+      "companyName": "427\n                QVI INDIA PVT LTD\n                3A\n                C119\n                India\n                www.qviindia.com",
+      "selector": "table tr",
+      "index": 427
+    },
+    {
+      "companyName": "428\n                R.F.H. INTERNATIONAL CORPORATION\n                5\n                C116\n                Taiwan\n                www.tyttech.com.tw",
+      "selector": "table tr",
+      "index": 428
+    },
+    {
+      "companyName": "429\n                R.R. ENTERPRISES\n                4\n                C109\n                India\n                www.rreindia.in",
+      "selector": "table tr",
+      "index": 429
+    },
+    {
+      "companyName": "430\n                R.V. MACHINE TOOLS\n                3A\n                C112\n                India\n                www.rvmachinetools.in",
+      "selector": "table tr",
+      "index": 430
+    },
+    {
+      "companyName": "431\n                RADCAM TECHNOLOGIES PVT. LTD.\n                4\n                B105\n                India\n                www.radcamtechnologies.com",
+      "selector": "table tr",
+      "index": 431
+    },
+    {
+      "companyName": "432\n                RAINTECH INDIA\n                2A\n                C116\n                India\n                www.raintechrollforming.com",
+      "selector": "table tr",
+      "index": 432
+    },
+    {
+      "companyName": "433\n                RAJESH MACHINE TOOLS PVT. LTD\n                5\n                B103\n                India\n                www.rajeshcnc.com",
+      "selector": "table tr",
+      "index": 433
+    },
+    {
+      "companyName": "434\n                RAJESH MACHINES (INDIA) LLP\n                2A\n                A102\n                India\n                www.rajeshpowerpressindia.com",
+      "selector": "table tr",
+      "index": 434
+    },
+    {
+      "companyName": "435\n                RAJLAXMI ELECTRICALS PVT. LTD\n                2A\n                B111\n                India\n                www.rajlaxmiweldingmachine.com",
+      "selector": "table tr",
+      "index": 435
+    },
+    {
+      "companyName": "436\n                RALC ITALIA S.R.L.\n                5\n                B135\n                Italy\n                www.ralcitalia.com",
+      "selector": "table tr",
+      "index": 436
+    },
+    {
+      "companyName": "437\n                RALSONICS RESEARCH PVT. LTD\n                3A\n                B142\n                India\n                www.ralsonics.com",
+      "selector": "table tr",
+      "index": 437
+    },
+    {
+      "companyName": "438\n                RAPID COAT POWDER COATINGS\n                3A\n                C131\n                India\n                www.rapidcoat.com",
+      "selector": "table tr",
+      "index": 438
+    },
+    {
+      "companyName": "439\n                RAPIDI-I / CUSTOMISED TECHNOLOGIES PVT. LTD\n                3A\n                B144\n                India\n                www.rapidi.in",
+      "selector": "table tr",
+      "index": 439
+    },
+    {
+      "companyName": "440\n                RATTAN HAMMERS\n                2A\n                A116\n                India\n                www.hammersindia.com",
+      "selector": "table tr",
+      "index": 440
+    },
+    {
+      "companyName": "441\n                RATTAN POWER PRESSES PVT. LTD\n                5\n                A112\n                India\n                www.rattanpresses.com",
+      "selector": "table tr",
+      "index": 441
+    },
+    {
+      "companyName": "442\n                RAVI INDUSTRIAL CORPORATION / RAVI POWER PRESS\n                4\n                A147\n                India\n                www.ravipowerpresses.com | www.ravipressbrakes.com",
+      "selector": "table tr",
+      "index": 442
+    },
+    {
+      "companyName": "443\n                RAVIRAJ ENGINEERING CORPORATION\n                2A\n                B115\n                India\n                www.ravirajmachines.com",
+      "selector": "table tr",
+      "index": 443
+    },
+    {
+      "companyName": "444\n                RAYAVIRA MODULAR SYSTEMS\n                5\n                A168\n                India\n                www.rvms.in",
+      "selector": "table tr",
+      "index": 444
+    },
+    {
+      "companyName": "445\n                REDLANDS MACHINERY PVT. LTD\n                3A\n                B110\n                India\n                www.redlandsmpl.com",
+      "selector": "table tr",
+      "index": 445
+    },
+    {
+      "companyName": "446\n                RIKEN KEIKI NARA MANUFACTURING CO. LTD\n                5\n                B118\n                Japan\n                www.rikenkeikinara.co.jp",
+      "selector": "table tr",
+      "index": 446
+    },
+    {
+      "companyName": "447\n                ROLLERI SPA\n                5\n                B128\n                Italy\n                www.rolleri.it",
+      "selector": "table tr",
+      "index": 447
+    },
+    {
+      "companyName": "448\n                ROOP ULTRASONIX LTD\n                3A\n                B116\n                India\n                www.rtulgroup.com",
+      "selector": "table tr",
+      "index": 448
+    },
+    {
+      "companyName": "449\n                ROSS CONTROLS INDIA PVT. LTD\n                4\n                C144\n                India\n                www.rosscontrolsindia.com",
+      "selector": "table tr",
+      "index": 449
+    },
+    {
+      "companyName": "450\n                ROYAL PRECISION TOOLS CORPORATION\n                5\n                C115\n                Taiwan\n                www.royal-spindles.com.tw",
+      "selector": "table tr",
+      "index": 450
+    },
+    {
+      "companyName": "451\n                RR TUBETECH\n                3A\n                B148\n                India\n                www.rrtubetech.com",
+      "selector": "table tr",
+      "index": 451
+    },
+    {
+      "companyName": "452\n                RUJ & SRM MECHANICS PVT. LTD\n                4\n                B129\n                India\n                www.rs-india.com",
+      "selector": "table tr",
+      "index": 452
+    },
+    {
+      "companyName": "453\n                RV FORMS & GEARS LLP\n                4\n                B133\n                India\n                www.formsandgears.com",
+      "selector": "table tr",
+      "index": 453
+    },
+    {
+      "companyName": "454\n                S & T ENGINEERS PVT. LTD\n                5\n                A131\n                India\n                www.stengineers.com",
+      "selector": "table tr",
+      "index": 454
+    },
+    {
+      "companyName": "455\n                S & T MACHINE TOOLS PVT. LTD\n                4\n                C110\n                India\n                www.velmachines.com",
+      "selector": "table tr",
+      "index": 455
+    },
+    {
+      "companyName": "456\n                SABAZU SOLUTIONS AND TECHNOLOGIES\n                3A\n                C105\n                India\n                www.sabazu.com",
+      "selector": "table tr",
+      "index": 456
+    },
+    {
+      "companyName": "457\n                SAEJONG IND, KOREA\n                3A\n                A114\n                Korea\n                www.saejong.com",
+      "selector": "table tr",
+      "index": 457
+    },
+    {
+      "companyName": "458\n                SAHAJANAND LASER TECHNOLOGY LTD (SLTL GROUP)\n                4\n                B130\n                India\n                www.sltl.com",
+      "selector": "table tr",
+      "index": 458
+    },
+    {
+      "companyName": "459\n                SAHAJANAND LASER TECHNOLOGY LTD (SLTL GROUP)\n                3A\n                B108\n                India\n                www.sltl.com",
+      "selector": "table tr",
+      "index": 459
+    },
+    {
+      "companyName": "460\n                SAHAJANAND TECHNOLOGIES PVT. LTD (STPL 3D)\n                5\n                B123\n                India\n                www.stpl3d.com",
+      "selector": "table tr",
+      "index": 460
+    },
+    {
+      "companyName": "461\n                SAHAJANAND TECHNOLOGIES PVT. LTD (STPL)\n                5\n                B124\n                India\n                www.stpl3d.com",
+      "selector": "table tr",
+      "index": 461
+    },
+    {
+      "companyName": "462\n                SAHAS SOFTECH LLP\n                5\n                B133\n                India\n                www.sahassoftech.com",
+      "selector": "table tr",
+      "index": 462
+    },
+    {
+      "companyName": "463\n                SAI SPRINGS (WNJ CHINA)\n                5\n                A113\n                India\n                www.saisprings.in",
+      "selector": "table tr",
+      "index": 463
+    },
+    {
+      "companyName": "464\n                SALVAGNINI MACHINERY INDIA PVT. LTD\n                5\n                B101\n                India\n                www.salvagninigroup.com",
+      "selector": "table tr",
+      "index": 464
+    },
+    {
+      "companyName": "465\n                SAMARTH ELECTRONICS\n                3A\n                C122\n                India\n                www.samarthelectronics.com",
+      "selector": "table tr",
+      "index": 465
+    },
+    {
+      "companyName": "466\n                SAMAY - ASIA PRESSFEEDS AND COIL AUTOMATION COMPANY\n                5\n                C127\n                India\n                www.powerpressautomation.com",
+      "selector": "table tr",
+      "index": 466
+    },
+    {
+      "companyName": "467\n                SAMISAN TECH PVT. LTD\n                5\n                B175\n                India\n                www.mira3dp.com",
+      "selector": "table tr",
+      "index": 467
+    },
+    {
+      "companyName": "468\n                SANDSTORM EQUIPMENT CO.\n                4\n                C112\n                India\n                www.sandstorm.net.in",
+      "selector": "table tr",
+      "index": 468
+    },
+    {
+      "companyName": "469\n                SANDSUN PRECISION MACHINERY INDIA PVT. LTD\n                5\n                A129\n                India\n                www.sandsun.com.tw",
+      "selector": "table tr",
+      "index": 469
+    },
+    {
+      "companyName": "470\n                SANES PRESSES CO., LTD\n                5\n                A120\n                Taiwan\n                www.sanes-press.com",
+      "selector": "table tr",
+      "index": 470
+    },
+    {
+      "companyName": "471\n                SANMAC MACHINES\n                4\n                B123\n                India\n                www.sanmacmachines.com",
+      "selector": "table tr",
+      "index": 471
+    },
+    {
+      "companyName": "472\n                SARTO ELECTRO EQUIPMENTS PVT. LTD\n                5\n                C121\n                India\n                www.sartoelectro.com",
+      "selector": "table tr",
+      "index": 472
+    },
+    {
+      "companyName": "473\n                SATHYA CORPORATION\n                3A\n                A133\n                India\n                www.sathyafurniture.in",
+      "selector": "table tr",
+      "index": 473
+    },
+    {
+      "companyName": "474\n                SAVIRA SYSTEK\n                5\n                C147\n                India\n                www.savirasystek.com",
+      "selector": "table tr",
+      "index": 474
+    },
+    {
+      "companyName": "475\n                SAVVY INTERNATIONAL\n                4\n                B132\n                India\n                www.savvyinternational.co.in",
+      "selector": "table tr",
+      "index": 475
+    },
+    {
+      "companyName": "476\n                SCHMALZ INDIA PVT. LTD\n                3A\n                C127\n                India\n                www.schmalz.com",
+      "selector": "table tr",
+      "index": 476
+    },
+    {
+      "companyName": "477\n                SCUTES INDIA PVT. LTD\n                4\n                C155\n                India\n                www.scutesindia.com",
+      "selector": "table tr",
+      "index": 477
+    },
+    {
+      "companyName": "478\n                SEALTECH\n                4\n                C135\n                India\n                https://sealtech.in/",
+      "selector": "table tr",
+      "index": 478
+    },
+    {
+      "companyName": "479\n                SENSITIVE ENGITECH PVT. LTD\n                4\n                B140\n                India\n                https://www.sensitiveengineering.in/",
+      "selector": "table tr",
+      "index": 479
+    },
+    {
+      "companyName": "480\n                SENVAC EXTRACTION SYSTEM PVT. LTD\n                4\n                A154\n                India\n                www.senvac.org",
+      "selector": "table tr",
+      "index": 480
+    },
+    {
+      "companyName": "481\n                SGF FAB INDUSTRIES\n                4\n                A163\n                India\n                www.sgffab.com",
+      "selector": "table tr",
+      "index": 481
+    },
+    {
+      "companyName": "482\n                SGO KOREA\n                3A\n                A144\n                Korea\n                www.sgoilless.co.kr",
+      "selector": "table tr",
+      "index": 482
+    },
+    {
+      "companyName": "483\n                SHANDONG JINFORGING AUTOMATION EQUIPMENT CO. LTD\n                5\n                B145\n                China\n                www.forgingworks.com",
+      "selector": "table tr",
+      "index": 483
+    },
+    {
+      "companyName": "484\n                SHANDONG YUDONG SUNSHINE MACHINE CO.,LTD\n                4\n                A114\n                China\n                www.yudongsunshine.com",
+      "selector": "table tr",
+      "index": 484
+    },
+    {
+      "companyName": "485\n                SHARDA ENGINEERS\n                4\n                C157\n                India\n                www.shengg.in",
+      "selector": "table tr",
+      "index": 485
+    },
+    {
+      "companyName": "486\n                SHELL INDIA\n                5\n                A166\n                India\n                www.shell.in",
+      "selector": "table tr",
+      "index": 486
+    },
+    {
+      "companyName": "487\n                SHIEH YIH MACHINERY INDUSTRY CO., LTD\n                5\n                C128\n                India\n                www.sakar-engineers.co.in",
+      "selector": "table tr",
+      "index": 487
+    },
+    {
+      "companyName": "488\n                SHILPA BELLOWS\n                5\n                A159\n                India\n                www.shilpabellow.com",
+      "selector": "table tr",
+      "index": 488
+    },
+    {
+      "companyName": "489\n                SHREE RAPID TECHNOLOGIES\n                5\n                A133\n                India\n                www.shreerapid.com",
+      "selector": "table tr",
+      "index": 489
+    },
+    {
+      "companyName": "490\n                SHREEJI ENGINEERING\n                5\n                C156\n                India",
+      "selector": "table tr",
+      "index": 490
+    },
+    {
+      "companyName": "491\n                SHRI BALAJI PRESSES PVT. LTD (SBPPL)\n                2A\n                B110\n                India\n                www.shribalajipresses.com",
+      "selector": "table tr",
+      "index": 491
+    },
+    {
+      "companyName": "492\n                SHRI SHYAMA SUPER SERVICES\n                5\n                A153\n                India\n                www.shrishyamass.com",
+      "selector": "table tr",
+      "index": 492
+    },
+    {
+      "companyName": "493\n                SHUBAN HYDROTECH\n                4\n                B128\n                India\n                www.shubanhydrotech.com",
+      "selector": "table tr",
+      "index": 493
+    },
+    {
+      "companyName": "494\n                SICA INDIA\n                4\n                C151\n                India\n                www.sica.in",
+      "selector": "table tr",
+      "index": 494
+    },
+    {
+      "companyName": "495\n                SIGMATEK SYSTEMS INDIA PVT. LTD\n                5\n                A155\n                India\n                www.sigmanest.com",
+      "selector": "table tr",
+      "index": 495
+    },
+    {
+      "companyName": "496\n                SILINI PRESS S. R. L\n                5\n                C105\n                Italy\n                www.silinipress.com",
+      "selector": "table tr",
+      "index": 496
+    },
+    {
+      "companyName": "497\n                SINAR SHEETMETAL SOLUTIONS PVT. LTD\n                4\n                B114\n                India\n                www.sinarsolution.com",
+      "selector": "table tr",
+      "index": 497
+    },
+    {
+      "companyName": "498\n                SINGHAL POWER PRESSES PVT. LTD (SEW PRESSES)\n                2A\n                B101\n                India\n                www.sewpress.com",
+      "selector": "table tr",
+      "index": 498
+    },
+    {
+      "companyName": "499\n                SINO FIN CNC GROUP CO., LTD\n                4\n                B155\n                China\n                www.sinoanson.en.alibaba.com",
+      "selector": "table tr",
+      "index": 499
+    },
+    {
+      "companyName": "500\n                SIPCON INSTRUMENT INDUSTRIES\n                3A\n                B114\n                India\n                www.sipconinstrument.com",
+      "selector": "table tr",
+      "index": 500
+    },
+    {
+      "companyName": "501\n                SKR MACHINERY PVT. LTD\n                5\n                C149\n                India",
+      "selector": "table tr",
+      "index": 501
+    },
+    {
+      "companyName": "502\n                SKS WELDING SYSTEMS PVT. LTD\n                3A\n                C109\n                India\n                www.in.sks-welding.com",
+      "selector": "table tr",
+      "index": 502
+    },
+    {
+      "companyName": "503\n                SKY AIR COOLER\n                3A\n                A125\n                India\n                www.skyaircooler.com",
+      "selector": "table tr",
+      "index": 503
+    },
+    {
+      "companyName": "504\n                SM LASER TECHNOLOGY\n                4\n                C102\n                India\n                www.sparklemachinery.com",
+      "selector": "table tr",
+      "index": 504
+    },
+    {
+      "companyName": "505\n                SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA (SIDBI)\n                5\n                A152\n                India\n                www.sidbi.in",
+      "selector": "table tr",
+      "index": 505
+    },
+    {
+      "companyName": "506\n                SMW AUTOBLOK WORK HOLDING PVT. LTD\n                4\n                B160\n                India\n                www.smwautoblok.com",
+      "selector": "table tr",
+      "index": 506
+    },
+    {
+      "companyName": "507\n                SN ENTERPRISES\n                2A\n                A105\n                India\n                www.sne.co.in",
+      "selector": "table tr",
+      "index": 507
+    },
+    {
+      "companyName": "508\n                SOHIT ENGINEERING WORKS (PRO - CUT)\n                2A\n                B112\n                India\n                www.sohitengworks.com",
+      "selector": "table tr",
+      "index": 508
+    },
+    {
+      "companyName": "509\n                SOLARMAN ENGINEERING PROJECT PVT. LTD\n                5\n                B176\n                India\n                www.haardmaster.com",
+      "selector": "table tr",
+      "index": 509
+    },
+    {
+      "companyName": "510\n                SP LEAK TEST AND AUTOMATION PVT. LTD\n                3A\n                B145\n                India\n                www.splta.com",
+      "selector": "table tr",
+      "index": 510
+    },
+    {
+      "companyName": "511\n                SPAC PNEUMATIC\n                4\n                C125\n                India\n                www.spacpneumatic.com",
+      "selector": "table tr",
+      "index": 511
+    },
+    {
+      "companyName": "512\n                SPACE STORAGE SOLUTIONS PVT. LTD\n                3A\n                A113\n                India\n                www.spacestoragesolutions.co.in",
+      "selector": "table tr",
+      "index": 512
+    },
+    {
+      "companyName": "513\n                SPARKON CUTTING SYSTEMS PVT. LTD\n                5\n                B148\n                India\n                www.sparkonlaser.com",
+      "selector": "table tr",
+      "index": 513
+    },
+    {
+      "companyName": "514\n                SPECTRA TECH\n                4\n                A120\n                India\n                www.spectratechindia.com",
+      "selector": "table tr",
+      "index": 514
+    },
+    {
+      "companyName": "515\n                SPINKS IMPEX\n                2A\n                C122\n                India\n                www.markolaser.com;www.spinksworld.com",
+      "selector": "table tr",
+      "index": 515
+    },
+    {
+      "companyName": "516\n                SQUARE ENGINEERING WORKS\n                2A\n                C108\n                India\n                www.squareengineeringworks.com",
+      "selector": "table tr",
+      "index": 516
+    },
+    {
+      "companyName": "517\n                SRI KRISHNA AUTOMATIONS\n                3A\n                B129\n                India\n                www.velmachines.com",
+      "selector": "table tr",
+      "index": 517
+    },
+    {
+      "companyName": "518\n                SSMITH TECHNOLOGIE\n                3A\n                A131\n                India",
+      "selector": "table tr",
+      "index": 518
+    },
+    {
+      "companyName": "519\n                STAHL CRANESSYSTEMS INDIA PVT. LTD\n                4\n                B158\n                India\n                www.cmco.com",
+      "selector": "table tr",
+      "index": 519
+    },
+    {
+      "companyName": "520\n                STAMP IT ROBOTAI & SOLUTIONS PVT LTD (MARK N STAMP)\n                2A\n                A110\n                India\n                www.marknstamp.com",
+      "selector": "table tr",
+      "index": 520
+    },
+    {
+      "companyName": "521\n                STAR CONNECT\n                4\n                B166\n                India\n                www.dragchain.in",
+      "selector": "table tr",
+      "index": 521
+    },
+    {
+      "companyName": "522\n                STARBLAZE INDIA\n                3A\n                C108\n                India\n                www.starblazeindia.com",
+      "selector": "table tr",
+      "index": 522
+    },
+    {
+      "companyName": "523\n                STATFIELD INDIA PRIVATE LIMITED\n                3A\n                B113\n                India\n                www.statfieldequipments.com",
+      "selector": "table tr",
+      "index": 523
+    },
+    {
+      "companyName": "524\n                STATIC HYDRAULIC PVT. LTD\n                4\n                B163\n                India",
+      "selector": "table tr",
+      "index": 524
+    },
+    {
+      "companyName": "525\n                STEEL AND SCRAP PVT. LTD\n                3A\n                A128\n                India\n                https://www.steelsandscrap.net/",
+      "selector": "table tr",
+      "index": 525
+    },
+    {
+      "companyName": "526\n                STERP SOFTWARE PVT. LTD\n                5\n                A150\n                India\n                www.shantitechnology.com",
+      "selector": "table tr",
+      "index": 526
+    },
+    {
+      "companyName": "527\n                STOPA ANLAGENBAU GMBH, GERMANY\n                4\n                A119\n                Germany\n                www.stopa.com",
+      "selector": "table tr",
+      "index": 527
+    },
+    {
+      "companyName": "528\n                SUDARSHAN FLUIDTECH\n                4\n                A132\n                India\n                www.sudarshanfluidtech.com",
+      "selector": "table tr",
+      "index": 528
+    },
+    {
+      "companyName": "529\n                SUGINO MACHINE INDIA PVT. LTD\n                3A\n                B138\n                India\n                www.sugino.com",
+      "selector": "table tr",
+      "index": 529
+    },
+    {
+      "companyName": "530\n                SUHNER INDIA PVT. LTD\n                4\n                A162\n                India\n                www.suhner.com",
+      "selector": "table tr",
+      "index": 530
+    },
+    {
+      "companyName": "531\n                SUKRIT MACHINE TOOLS\n                4\n                B118\n                India\n                www.sukrit.in",
+      "selector": "table tr",
+      "index": 531
+    },
+    {
+      "companyName": "532\n                SUPER ROLLFORMING\n                2A\n                A120\n                India\n                www.superrollforming.com",
+      "selector": "table tr",
+      "index": 532
+    },
+    {
+      "companyName": "533\n                SUPER SONIC INDUSTRY PRIVATE LIMITED\n                5\n                A142\n                India\n                www.supersonicgroup.in",
+      "selector": "table tr",
+      "index": 533
+    },
+    {
+      "companyName": "534\n                SURESH INDU LASERS PVT. LTD.\n                5\n                B106\n                India\n                www.silasers.com",
+      "selector": "table tr",
+      "index": 534
+    },
+    {
+      "companyName": "535\n                SURYA MACHINE TOOLS (INDIA) PVT. LTD\n                2A\n                A113\n                India\n                www.suryamachines.com",
+      "selector": "table tr",
+      "index": 535
+    },
+    {
+      "companyName": "536\n                SURYATANTRA ENTERPRISES LLP\n                4\n                C149\n                India\n                www.suryatantra.in",
+      "selector": "table tr",
+      "index": 536
+    },
+    {
+      "companyName": "537\n                SUTANTRA MACHINES PVT. LTD\n                5\n                A107\n                India\n                www.sutantra.in",
+      "selector": "table tr",
+      "index": 537
+    },
+    {
+      "companyName": "538\n                SUZHOU BOARDING INDUSTRIAL CO. LTD\n                4\n                A148\n                China\n                www.szboarding.com",
+      "selector": "table tr",
+      "index": 538
+    },
+    {
+      "companyName": "539\n                SWASTIK ENGITECH PVT. LTD (BANSAL PRESSES)\n                2A\n                B109\n                India\n                www.bansalpresses.com",
+      "selector": "table tr",
+      "index": 539
+    },
+    {
+      "companyName": "540\n                SWIFTIN CORPORATION LLP\n                4\n                B127\n                India\n                www.swifindustrial.in",
+      "selector": "table tr",
+      "index": 540
+    },
+    {
+      "companyName": "541\n                SWIFTIN SOLUTIONS LLP\n                4\n                B126\n                India\n                www.accessindustrial.in",
+      "selector": "table tr",
+      "index": 541
+    },
+    {
+      "companyName": "542\n                SWIT\n                3A\n                A122\n                India\n                www.swit.in",
+      "selector": "table tr",
+      "index": 542
+    },
+    {
+      "companyName": "543\n                SWITCHON\n                5\n                B140\n                India\n                www.switchon.io",
+      "selector": "table tr",
+      "index": 543
+    },
+    {
+      "companyName": "544\n                SWIZA SAFETECH LLP\n                4\n                B165\n                India\n                www.swizasafetech.in",
+      "selector": "table tr",
+      "index": 544
+    },
+    {
+      "companyName": "545\n                SYNCO INDUSTRIES LTD\n                4\n                A156\n                India\n                www.synco.co.in",
+      "selector": "table tr",
+      "index": 545
+    },
+    {
+      "companyName": "546\n                SYSTEM ENGINEERS CUTTING & WELDING PVT. LTD\n                4\n                B150\n                India\n                www.systemengineers.in",
+      "selector": "table tr",
+      "index": 546
+    },
+    {
+      "companyName": "547\n                TAILIFT / TLF INDIA MACHINERY SOLUTIONS PVT. LTD\n                5\n                A108\n                India\n                http://www.tailiftgroup.com",
+      "selector": "table tr",
+      "index": 547
+    },
+    {
+      "companyName": "548\n                TAIWAN ASSOCIATION OF MACHINERY INDUSTRY (TAMI)\n                5\n                C170\n                Taiwan\n                www.tami.org.tw",
+      "selector": "table tr",
+      "index": 548
+    },
+    {
+      "companyName": "549\n                TANISHQ CORPORATION\n                4\n                B146\n                India\n                www.tanishqcorporation.in",
+      "selector": "table tr",
+      "index": 549
+    },
+    {
+      "companyName": "550\n                TANTRAGNA ENGINEERING LLP\n                3A\n                B132\n                India\n                www.tantragnaengg.com",
+      "selector": "table tr",
+      "index": 550
+    },
+    {
+      "companyName": "551\n                TAP MASTER\n                2A\n                B118\n                India\n                www.tapmasterindia.com",
+      "selector": "table tr",
+      "index": 551
+    },
+    {
+      "companyName": "552\n                TAPCO PNEUMATICS PVT. LTD\n                4\n                A159\n                India\n                www.tapco.co.in",
+      "selector": "table tr",
+      "index": 552
+    },
+    {
+      "companyName": "553\n                TARFILM HI-TECH CO. LTD\n                3A\n                C143\n                China\n                www.tarfilm.com",
+      "selector": "table tr",
+      "index": 553
+    },
+    {
+      "companyName": "554\n                TECH MACH MACHINE TOOLS\n                5\n                B163\n                India\n                www.techmach.in",
+      "selector": "table tr",
+      "index": 554
+    },
+    {
+      "companyName": "555\n                TECHEXPERT ENGINEERING PVT. LTD\n                4\n                C129\n                India\n                www.techexpertindia.com",
+      "selector": "table tr",
+      "index": 555
+    },
+    {
+      "companyName": "556\n                TECHMETA INDIA PVT. LTD.\n                3A\n                A101\n                India\n                www.techmeta.com",
+      "selector": "table tr",
+      "index": 556
+    },
+    {
+      "companyName": "557\n                TECHNO MAC SYSTEMS\n                3A\n                C124\n                India\n                www.technomacsystems.com",
+      "selector": "table tr",
+      "index": 557
+    },
+    {
+      "companyName": "558\n                TECHNOCRATS PLASMA SYSTEMS PVT. LTD\n                4\n                B119\n                India\n                www.technocratplasma.com",
+      "selector": "table tr",
+      "index": 558
+    },
+    {
+      "companyName": "559\n                TECHNOEX INDUSTRIAL CORPORATION\n                4\n                C152\n                India\n                https://www.technoexindustrial.com/",
+      "selector": "table tr",
+      "index": 559
+    },
+    {
+      "companyName": "560\n                TECHNOSOFT ENGINEERING PROJECT LTD\n                5\n                C137\n                India\n                www.technosofteng.com",
+      "selector": "table tr",
+      "index": 560
+    },
+    {
+      "companyName": "561\n                TECOI CORTE S.L\n                5\n                B105\n                Spain\n                www.tecoi.com",
+      "selector": "table tr",
+      "index": 561
+    },
+    {
+      "companyName": "562\n                TEKMAK GLOBAL MAKINE SAN. VE TIC. A.S\n                4\n                A105\n                Turkey\n                www.tekmak.com",
+      "selector": "table tr",
+      "index": 562
+    },
+    {
+      "companyName": "563\n                TE-SHIN PRECISION TECHNOLOGY CO. LTD\n                5\n                B111\n                Taiwan\n                www.dexcams.com/tw",
+      "selector": "table tr",
+      "index": 563
+    },
+    {
+      "companyName": "564\n                THE ASSOCIATION FOR MANUFACTURING TECHNOLOGY (AMT), USA\n                5\n                C166\n                United States\n                www.amtonline.org",
+      "selector": "table tr",
+      "index": 564
+    },
+    {
+      "companyName": "565\n                THE INDIAN INSTITUTE OF WELDING (IIW-INDIA)\n                3A\n                B101A\n                India\n                www.iiwindia.com",
+      "selector": "table tr",
+      "index": 565
+    },
+    {
+      "companyName": "566\n                THE JAPAN INDIA BUSINESS BUREAU (JIBB), JAPAN\n                5\n                C169\n                Japan\n                www.npo-jibb.org",
+      "selector": "table tr",
+      "index": 566
+    },
+    {
+      "companyName": "567\n                THERM-X INDUSTRIAL EQUIPMENTS PVT. LTD\n                4\n                B109\n                India\n                www.therm-x.in",
+      "selector": "table tr",
+      "index": 567
+    },
+    {
+      "companyName": "568\n                THORSON INDUSTRIES LLP\n                2A\n                A121\n                India\n                www.pipebendingmachines.co.in",
+      "selector": "table tr",
+      "index": 568
+    },
+    {
+      "companyName": "569\n                TIANJIN TIANDUAN PRESS CO. LTD\n                5\n                B155\n                China\n                www.tianduan.com",
+      "selector": "table tr",
+      "index": 569
+    },
+    {
+      "companyName": "570\n                TIDEWAY TOOLS / ZHEJIANG LANGCHAO PRECISION MACHINERY CO., LTD\n                4\n                B145\n                China\n                www.tidewaytools.com",
+      "selector": "table tr",
+      "index": 570
+    },
+    {
+      "companyName": "571\n                TIMELINE ERP INDIA PVT. LTD\n                3A\n                A140\n                India\n                www.timelineerp.com",
+      "selector": "table tr",
+      "index": 571
+    },
+    {
+      "companyName": "572\n                TL PATHAK GROUP\n                2A\n                C102\n                India\n                www.tlpathakgroup.com",
+      "selector": "table tr",
+      "index": 572
+    },
+    {
+      "companyName": "573\n                TOOL AND GAUGE MANUFACTURERS ASSOCIATION (TAGMA)\n                5\n                C163\n                India\n                www.tagmaindia.org",
+      "selector": "table tr",
+      "index": 573
+    },
+    {
+      "companyName": "574\n                TOOLS CARTE\n                5\n                A148\n                India\n                www.toolscarte.in",
+      "selector": "table tr",
+      "index": 574
+    },
+    {
+      "companyName": "575\n                TOTAL TOOLS & EQUIPMENTS PVT. LTD\n                3A\n                A141\n                India\n                www.totaltoolsin.com",
+      "selector": "table tr",
+      "index": 575
+    },
+    {
+      "companyName": "576\n                TRIAD ENGINEERS\n                2A\n                A114\n                India\n                www.triad-engineers.net",
+      "selector": "table tr",
+      "index": 576
+    },
+    {
+      "companyName": "577\n                TRIMASTER METROLOGY LLP\n                3A\n                C113\n                India\n                www.trimaster.in",
+      "selector": "table tr",
+      "index": 577
+    },
+    {
+      "companyName": "578\n                TRIOMATIC INDIA PVT. LTD (TESA INDIA)\n                3A\n                A117\n                India\n                www.tesa-india.com",
+      "selector": "table tr",
+      "index": 578
+    },
+    {
+      "companyName": "579\n                TRIPLE INFOTECH\n                5\n                A170\n                India\n                www.tripleinfotech.com",
+      "selector": "table tr",
+      "index": 579
+    },
+    {
+      "companyName": "580\n                TRITECH AUTOMATION PVT. LTD\n                4\n                B154\n                India\n                www.tritechautomation.com",
+      "selector": "table tr",
+      "index": 580
+    },
+    {
+      "companyName": "581\n                TROKUT SOLUTIONS PVT. LTD\n                4\n                A151\n                India\n                www.trokutsolutions.com",
+      "selector": "table tr",
+      "index": 581
+    },
+    {
+      "companyName": "582\n                TRUMPF (INDIA) PVT. LTD\n                4\n                B101\n                India\n                www.trumpf.com",
+      "selector": "table tr",
+      "index": 582
+    },
+    {
+      "companyName": "583\n                TUMAKURU MACHINE TOOL PARK (TMTP)\n                5\n                C164\n                India\n                www.tmtp.in",
+      "selector": "table tr",
+      "index": 583
+    },
+    {
+      "companyName": "584\n                TWARA ROBOTICS\n                5\n                A117\n                India\n                www.twararobotics.in",
+      "selector": "table tr",
+      "index": 584
+    },
+    {
+      "companyName": "585\n                UCIMU-SISTEMI PER PRODURRE\n                5\n                C171\n                Italy\n                www.ucimu.it",
+      "selector": "table tr",
+      "index": 585
+    },
+    {
+      "companyName": "586\n                UE PRESS TOOLS LTD\n                4\n                B157\n                India\n                www.uniqueengg.co.in",
+      "selector": "table tr",
+      "index": 586
+    },
+    {
+      "companyName": "587\n                ULMATEC NAF AIR FILTRATION PVT. LTD\n                4\n                C154\n                India\n                https://naf.co.in/",
+      "selector": "table tr",
+      "index": 587
+    },
+    {
+      "companyName": "588\n                ULTRAMAX HYDROJET PVT. LTD\n                3A\n                A121\n                India\n                www.hydrojet.co.in",
+      "selector": "table tr",
+      "index": 588
+    },
+    {
+      "companyName": "589\n                ULTRAVELOX PVT. LTD\n                3A\n                B111\n                India\n                www.ultravelox.in",
+      "selector": "table tr",
+      "index": 589
+    },
+    {
+      "companyName": "590\n                UNIQUE LASER\n                4\n                C163\n                India\n                www.uniquelaser.co.in",
+      "selector": "table tr",
+      "index": 590
+    },
+    {
+      "companyName": "591\n                UNIQUE SAWS & MACHINERY PVT. LTD\n                2A\n                A104\n                India\n                www.uniquesaws.com",
+      "selector": "table tr",
+      "index": 591
+    },
+    {
+      "companyName": "592\n                UNIVERSAL CNC MACHINES\n                4\n                B138\n                India",
+      "selector": "table tr",
+      "index": 592
+    },
+    {
+      "companyName": "593\n                UNIVERSAL ORBITAL SYSTEMS PVT. LTD\n                3A\n                A104\n                India\n                www.universalorbital.com",
+      "selector": "table tr",
+      "index": 593
+    },
+    {
+      "companyName": "594\n                USBCO STEELS PVT. LTD\n                3A\n                B134\n                India\n                www.usbcosteels.com",
+      "selector": "table tr",
+      "index": 594
+    },
+    {
+      "companyName": "595\n                VALGRO INDIA LTD\n                4\n                A107\n                India\n                www.valgroindia.com",
+      "selector": "table tr",
+      "index": 595
+    },
+    {
+      "companyName": "596\n                VALSONS FABRICATORS\n                2A\n                C113\n                India",
+      "selector": "table tr",
+      "index": 596
+    },
+    {
+      "companyName": "597\n                VARNA COATS PVT. LTD\n                3A\n                C120\n                India\n                www.varnapaints.com",
+      "selector": "table tr",
+      "index": 597
+    },
+    {
+      "companyName": "598\n                VASKI GROUP OY\n                4\n                C140\n                Finland\n                www.vaski.com",
+      "selector": "table tr",
+      "index": 598
+    },
+    {
+      "companyName": "599\n                VICSTARS MANUFACTURING CO., LTD\n                5\n                B113\n                Taiwan\n                www.vicstars.com",
+      "selector": "table tr",
+      "index": 599
+    },
+    {
+      "companyName": "600\n                VISHNU FORGE INDUSTRIES LTD\n                2A\n                C112\n                India\n                www.vishnuforge.com",
+      "selector": "table tr",
+      "index": 600
+    },
+    {
+      "companyName": "601\n                VOESTALPINE BOHLER WELDING INDIA PVT. LTD\n                3A\n                B101\n                India\n                www.voestalpine.com",
+      "selector": "table tr",
+      "index": 601
+    },
+    {
+      "companyName": "602\n                WAFIOS AG VERTRIEBS\n                4\n                A114\n                Germany\n                www.wafios.com",
+      "selector": "table tr",
+      "index": 602
+    },
+    {
+      "companyName": "603\n                WAVE TOOLS & TECHNOLOGIES\n                3A\n                B112\n                India\n                www.wavetools.in",
+      "selector": "table tr",
+      "index": 603
+    },
+    {
+      "companyName": "604\n                WEBER\n                4\n                B135\n                India\n                www.hansweber.de",
+      "selector": "table tr",
+      "index": 604
+    },
+    {
+      "companyName": "605\n                WELDOR CNC MACHINES LTD.\n                4\n                B107\n                India\n                www.weldorcncmachines.com/www.weldorpunchpress.com",
+      "selector": "table tr",
+      "index": 605
+    },
+    {
+      "companyName": "606\n                WELDWELL SPECIALITY PVT. LTD\n                3A\n                A107\n                India\n                www.weldwell.com",
+      "selector": "table tr",
+      "index": 606
+    },
+    {
+      "companyName": "607\n                WESTERN INDUSTRIAL APPLICATIONS PVT. LTD\n                4\n                A149\n                India",
+      "selector": "table tr",
+      "index": 607
+    },
+    {
+      "companyName": "608\n                WHALE MACHINERIES / WHALE ENTERPRISE PVT. LTD\n                4\n                C164\n                India\n                www.whaleenterprise.com | www.whalemachineries.com",
+      "selector": "table tr",
+      "index": 608
+    },
+    {
+      "companyName": "609\n                WILA CNC INDIA PVT. LTD\n                4\n                B134\n                India\n                https://www.wilacnc.in/",
+      "selector": "table tr",
+      "index": 609
+    },
+    {
+      "companyName": "610\n                WINARC CUTTING SYSTEM\n                4\n                A124\n                India\n                www.winarc.in",
+      "selector": "table tr",
+      "index": 610
+    },
+    {
+      "companyName": "611\n                WYNTOK TECHNOLOGIES PVT. LTD\n                5\n                B144\n                India\n                www.manufapp.com",
+      "selector": "table tr",
+      "index": 611
+    },
+    {
+      "companyName": "612\n                XDM PRINTING SOLUTIONS LLP\n                5\n                C138\n                India\n                www.xdmining.in",
+      "selector": "table tr",
+      "index": 612
+    },
+    {
+      "companyName": "613\n                XTREME COOLERS PVT. LTD\n                3A\n                A147\n                India\n                www.xtremecooler.com",
+      "selector": "table tr",
+      "index": 613
+    },
+    {
+      "companyName": "614\n                YAMADA DOBBY CO., LTD\n                5\n                C109\n                Japan\n                www.yamadadobby.com",
+      "selector": "table tr",
+      "index": 614
+    },
+    {
+      "companyName": "615\n                YAMANAKA ENG CO., LTD\n                5\n                B120\n                Japan",
+      "selector": "table tr",
+      "index": 615
+    },
+    {
+      "companyName": "616\n                YASHIMA SANGYO\n                5\n                A134\n                Japan\n                www.yashimatrading.com",
+      "selector": "table tr",
+      "index": 616
+    },
+    {
+      "companyName": "617\n                YING HAN TECHNOLOGY CO. LTD\n                5\n                C143\n                Taiwan\n                www.ylm.com.tw",
+      "selector": "table tr",
+      "index": 617
+    },
+    {
+      "companyName": "618\n                YSM INDIA TECHNOLOGIES PVT. LTD\n                5\n                A116\n                India\n                www.ysmindia.com",
+      "selector": "table tr",
+      "index": 618
+    },
+    {
+      "companyName": "619\n                YUGMA IMPRESSIONS\n                4\n                A108\n                India\n                www.yugmaimpressions.com",
+      "selector": "table tr",
+      "index": 619
+    },
+    {
+      "companyName": "620\n                ZAPP COOL / EMMPPE ASSOCIATES\n                3A\n                B151\n                India\n                www.zappcool.com",
+      "selector": "table tr",
+      "index": 620
+    },
+    {
+      "companyName": "621\n                ZEALTECH AUTOMATION PVT. LTD\n                4\n                C115\n                India\n                www.zta.org.in",
+      "selector": "table tr",
+      "index": 621
+    },
+    {
+      "companyName": "622\n                ZENTRON LABS PVT. LTD\n                3A\n                A129\n                India\n                www.zentronlabs.com",
+      "selector": "table tr",
+      "index": 622
+    },
+    {
+      "companyName": "623\n                ZHEJIANG JINGWEITE MACHINE TOOL CO. LTD\n                5\n                A156\n                China\n                www.jwt-tools.com",
+      "selector": "table tr",
+      "index": 623
+    },
+    {
+      "companyName": "624\n                ZHEJIANG UTE BEARING CO., LTD\n                3A\n                B141\n                China\n                www.utebearing.com",
+      "selector": "table tr",
+      "index": 624
+    },
+    {
+      "companyName": "625\n                ZHEJIANG XINXING TOOLS CO.,LTD\n                3A\n                C137\n                China\n                www.ch-tools.com",
+      "selector": "table tr",
+      "index": 625
+    },
+    {
+      "companyName": "626\n                ZHENGZHOU HALOONG MACHINERY MANUFACTURING CO., LTD\n                4\n                B122\n                China\n                www.haloong.com",
+      "selector": "table tr",
+      "index": 626
+    },
+    {
+      "companyName": "627\n                ZIBO DEKUAN AUTOMATION EQUIPMENT CO.,LTD\n                4\n                A143\n                China\n                www.sunderjx.com",
+      "selector": "table tr",
+      "index": 627
+    },
+    {
+      "companyName": "628\n                ZOHO CORPORATION PVT. LTD\n                5\n                C124\n                India\n                www.zoho.com",
+      "selector": "table tr",
+      "index": 628
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+{
+  "ui": {
+    "closedView": "none",
+    "theme": "uc",
+    "language": "en",
+    "dpsDisplayFormat": "ALL",
+    "poweredByLogo": "UC",
+    "lifecycleStatus": "active",
+    "gpcSignalHonoured": false,
+    "renewConsentsTimestamp": 1754408603
+  },
+  "languages": {
+    "languages": {
+      "de": {
+        "name": "Deutsch"
+      },
+      "en": {
+        "name": "English"
+      }
+    }
+  },
+  "core": {
+    "dataLayers": [
+      "dataLayer"
+    ],
+    "customEvents": [],
+    "analyticsEnabled": true,
+    "tagLoggerEnabled": true
+  },
+  "setting": {
+    "id": "O-5UjFSKRrwRZN",
+    "version": "68.10.102",
+    "type": "GDPR"
+  },
+  "dps": {
+    "categories": {
+      "marketing": {
+        "name": "Marketing",
+        "dps": {
+          "H1Vl5NidjWX": false,
+          "HkocEodjb7": false,
+          "JQ2XQxIk": false,
+          "PPpL7pXsf": false,
+          "r1EWc4iuj-X": false,
+          "9V8bg4D63": false,
+          "ryuCiMdZp7YdyW": false,
+          "J05PmJuvt36qTe": false,
+          "twMyStLkn": false,
+          "HkrZ5NjusWX": false,
+          "SkPc5EjOsWm": false,
+          "s8nQgU9A5": false,
+          "H1dDqVjOjWX": false,
+          "uaftKqmcIqgV0C": false,
+          "rJJjcVouoZ7": false,
+          "S1_9Vsuj-Q": false,
+          "Hy2XlcEi_ibQ": false,
+          "r1HocEjOiWm": false,
+          "XYQZBUojc": false,
+          "Hkx754i_iWm": false,
+          "BJ_ocNjds-X": false,
+          "eSE_HHXnI": false,
+          "MQJ6TX04ENV3Du": false
+        },
+        "state": "ALL_DENIED"
+      },
+      "functional": {
+        "name": "Functional",
+        "dps": {
+          "BJ59EidsWQ": false,
+          "HJLZqNi_iZQ": false,
+          "DgjSImRXeATj5u": false,
+          "HkPBYFofN": false,
+          "BJz7qNsdj-7": false,
+          "bms_SDJMG": false,
+          "FtE1AC6zU": false
+        },
+        "state": "ALL_DENIED"
+      },
+      "essential": {
+        "name": "Essential",
+        "dps": {
+          "Hko_qNsui-Q": true,
+          "kT8DTeuKT__G36": true
+        },
+        "essential": true,
+        "state": "ALL_ACCEPTED"
+      }
+    },
+    "services": {
+      "kT8DTeuKT__G36": {
+        "name": "DMAG Session",
+        "version": "3.3.0",
+        "category": "essential",
+        "essential": true,
+        "consent": {
+          "given": true,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "53ed87fafd6c3b9db568fe927a62888d37c852cc8a9afe3b8c925af293b71662"
+      },
+      "Hko_qNsui-Q": {
+        "name": "reCAPTCHA",
+        "version": "14.5.15",
+        "category": "essential",
+        "essential": true,
+        "consent": {
+          "given": true,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "c554d5495abf2487fa7459df56d0c4ee7faa8a8054061b38c557c12699920943"
+      },
+      "H1dDqVjOjWX": {
+        "name": "Adform",
+        "version": "14.12.18",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "40d3914a523983a79eea20331428c2cc8c0ce52e97bfd6544da6d05ba49f842c"
+      },
+      "BJ_ocNjds-X": {
+        "name": "cloudfront.net",
+        "version": "8.1.7",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "60afa2a3cb632e57dcdb86c963a5144381bdcc47362ee593c07953d31ca0f626"
+      },
+      "r1HocEjOiWm": {
+        "name": "Cloudinary",
+        "version": "7.2.1",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "671bfed4468fc2a9effff37ee7ff37c7990572791942e5aa6deef63a829634bb"
+      },
+      "MQJ6TX04ENV3Du": {
+        "name": "Dealfront",
+        "version": "1.0.1",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {
+          "mbL6QSpmZ": {
+            "name": "Leadfeeder",
+            "version": "2.4.4",
+            "category": "none",
+            "essential": false,
+            "consent": {
+              "given": false,
+              "type": "IMPLICIT"
+            },
+            "processorId": "a06ac8592632c2359daf7efae44953880a59f763f09e810c94f39d29af3fb2da"
+          }
+        },
+        "processorId": "6f893f09a2dae0d53c5a3b5689d3fe82b72c68e2cecbfba176a2c59013096c3e"
+      },
+      "ryuCiMdZp7YdyW": {
+        "name": "DMAG Lead Generierung",
+        "version": "3.2.0",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "b0ab19a7c2966a524ee44326221f94e0df0923193c1db1a1ef7abaa040f830de"
+      },
+      "uaftKqmcIqgV0C": {
+        "name": "DMAG Livestream Analytics",
+        "version": "1.0.0",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "ce3a3dcb3e5fac66c5c49e840232704c4d9accbfb0c0288247a35f4c48e46bf3"
+      },
+      "DgjSImRXeATj5u": {
+        "name": "DMAG Longlife Remember",
+        "version": "3.2.0",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "4b0a05b2972dfb59f0ef44fa4d59ca6355809b25e1447c3e8ffd92cfd805829f"
+      },
+      "9V8bg4D63": {
+        "name": "DoubleClick Ad",
+        "version": "9.6.16",
+        "category": "marketing",
+        "essential": false,
+        "gcm": {
+          "adStorage": true
+        },
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "ae1a21e7a2ebdd1123a15edf1642421dfcb6eb6f28dd4b2a496d173765c3da0d"
+      },
+      "XYQZBUojc": {
+        "name": "Facebook Social Plugins",
+        "version": "9.6.4",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "87d6f603c5b3069ed90edbdb07f22617d4f6611568cf3acfce61cc071b39e480"
+      },
+      "S1_9Vsuj-Q": {
+        "name": "Google Ads",
+        "version": "15.8.28",
+        "category": "marketing",
+        "essential": false,
+        "gcm": {
+          "adStorage": true
+        },
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "eddb301294bbbbb9ab7ece96b8e925222a3e5f118072c12006581b7d176f11fa"
+      },
+      "twMyStLkn": {
+        "name": "Google Ads Conversion Tracking",
+        "version": "15.9.15",
+        "category": "marketing",
+        "essential": false,
+        "gcm": {
+          "adStorage": true
+        },
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "5a4acc723e6953fc1f18b2c137f3e99c39e0e83d4cdd527ea19e8097194d389e"
+      },
+      "HkocEodjb7": {
+        "name": "Google Analytics",
+        "version": "52.11.43",
+        "category": "marketing",
+        "essential": false,
+        "gcm": {
+          "analyticsStorage": true
+        },
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {
+          "HkMzqiL4X": {
+            "name": "DoubleClick",
+            "version": "1.0.0",
+            "category": "none",
+            "essential": false,
+            "consent": {
+              "given": false,
+              "type": "IMPLICIT"
+            },
+            "processorId": "060065b48f4d8a547f06834e58bb87f419bd25178dee765c6aa6d449f47e59ac"
+          }
+        },
+        "processorId": "19204a3fc4ee51d4470c25deea050311a4ee22393bf16f1ea341e4216f1176dd"
+      },
+      "bms_SDJMG": {
+        "name": "Google Cloud",
+        "version": "5.1.4",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "82528d0f9c0b35b80c8abcb823d3fc0550b94d6e2973dbd88955d7e93d6e2421"
+      },
+      "HkPBYFofN": {
+        "name": "Google Fonts",
+        "version": "10.3.1",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "dd659e6d8e059f50fabdd723aa71f2cf6e562f8dd2e53d3b4ceea5710ea207b3"
+      },
+      "SkPc5EjOsWm": {
+        "name": "Google Syndication",
+        "version": "6.2.1",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "94ae5251785cadded9fb28ca825d7d2c168cf492f312489c9e94abd6330a1375"
+      },
+      "BJ59EidsWQ": {
+        "name": "Google Tag Manager",
+        "version": "25.7.29",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "e94ccc0e93693c8e8954ee9c3b5257d0ee1a1c4e878cfebb206657ad26314479",
+        "thirdCountryDataTransfer": true
+      },
+      "rJJjcVouoZ7": {
+        "name": "gstatic.com",
+        "version": "8.3.6",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "a8d0aadbb9c340197362e670095e694c50d28beee1605603442fbce10fb7b7d7"
+      },
+      "Hy2XlcEi_ibQ": {
+        "name": "ID5 Technology",
+        "version": "6.2.0",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "cba40176c69c8d37c5e0790e77a29e322e8deb5ecdc35a30a963d9fabb930053"
+      },
+      "eSE_HHXnI": {
+        "name": "Leadinfo",
+        "version": "1.0.1",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "9b6eb1e2910734b9026b0c8df10a6919c0e68bcff13a6540e407b30ef3cfbdc5"
+      },
+      "JQ2XQxIk": {
+        "name": "LinkedIn Insight Tag",
+        "version": "9.6.11",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "ead413e4333e5b7c4a8305190922cb352a27e904fa7130118865035ac91eac2d"
+      },
+      "Hkx754i_iWm": {
+        "name": "LinkedIn Plugin",
+        "version": "8.3.6",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "46a2687e622c60c60483f484215c893639e3f5b3f29efdd4583348a5e6cf2f9e"
+      },
+      "J05PmJuvt36qTe": {
+        "name": "Meta Pixel",
+        "version": "1.0.9",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "016b65478f3efc4b35f50f63f95e4bf761775c57457d41cb48d69ae43606b3d3"
+      },
+      "PPpL7pXsf": {
+        "name": "OptinMonster",
+        "version": "1.1.1",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "453a686bc929a46e61c216520b7b650d28ac906e44a0481a280ed7f49c442ca1"
+      },
+      "r1EWc4iuj-X": {
+        "name": "Outbrain",
+        "version": "9.5.10",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "a172f069a863ab5b484a93ed8b6f1c95c3013064f744c5542eccb04a94e646dc"
+      },
+      "HkrZ5NjusWX": {
+        "name": "Outbrain Amplify",
+        "version": "6.2.1",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "3f1ae350737bf4994ee129edd224ed4474ab0a761fa5a26c1759a89d7ea74339"
+      },
+      "HJLZqNi_iZQ": {
+        "name": "SMART AdServer",
+        "version": "7.3.2",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "efb3a9bcf4d9f8815dd5639b27ddef7996b79218d2bef78a64a90a67bc094935"
+      },
+      "s8nQgU9A5": {
+        "name": "Tealium Inc",
+        "version": "5.1.3",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "eb576bac069a961ba8621337ae6502c2affad13d893d25d91346ecdf843ca13b"
+      },
+      "H1Vl5NidjWX": {
+        "name": "Usercentrics Consent Management Platform",
+        "version": "40.18.46",
+        "category": "marketing",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "b371eb2fc592043cb547bb8467db686ad5ec44b873a9c71196e042a7889b482f"
+      },
+      "FtE1AC6zU": {
+        "name": "walls.io",
+        "version": "1.0.3",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "14491f9829b2f35a736ca622eb2f1ac229e5b9e4f238f040685fdb233648722d"
+      },
+      "BJz7qNsdj-7": {
+        "name": "YouTube Video",
+        "version": "15.8.20",
+        "category": "functional",
+        "essential": false,
+        "consent": {
+          "given": false,
+          "type": "IMPLICIT"
+        },
+        "subservices": {},
+        "processorId": "68631717e005c28cefa69d51a8ce877f325be1640dd285200b0f11fdf29af6cd"
+      }
+    },
+    "granularConsentDisabled": false
+  },
+  "theme": {
+    "privacyButton": {
+      "default": {
+        "position": "left",
+        "size": 56,
+        "backgroundColor": "#004a99",
+        "pages": [],
+        "icon": {
+          "color": "#eff1f3",
+          "url": "http://img.usercentrics.eu/misc/icon-security.svg",
+          "type": "security"
+        }
+      },
+      "screens": {
+        "mobile": {
+          "size": 44
+        }
+      }
+    },
+    "cmp": {
+      "default": {
+        "features": {
+          "overlay": {
+            "opacity": "0.3"
+          }
+        },
+        "elements": {
+          "logo": {
+            "url": "https://www.messe.de/files/files/usercentrics/dmag-logo-transparent.png",
+            "alt": "Deutsche Messe AG Logo"
+          },
+          "buttons": {
+            "borderRadius": "9999px"
+          }
+        },
+        "typography": {
+          "font": "DMAG-Copy"
+        },
+        "colors": {
+          "light": {
+            "main": {
+              "primary": "#0045A5",
+              "neutral": "#ffffff",
+              "text": "#002856",
+              "border": "#c7ccd0"
+            },
+            "links": {
+              "anchor": "#46505a",
+              "icon": "#46505a"
+            },
+            "buttons": {
+              "accept": {
+                "background": "#004a99",
+                "text": "#FFFFFF"
+              },
+              "deny": {
+                "background": "#004a99",
+                "text": "#FFFFFF"
+              },
+              "more": {
+                "background": "#c7ccd0",
+                "text": "#002856"
+              },
+              "save": {
+                "background": "#004a99",
+                "text": "#FFFFFF"
+              },
+              "ok": {
+                "background": "#f0f0f0",
+                "text": "#002856"
+              }
+            },
+            "cmp": {
+              "background": "#eff1f3",
+              "scrollbarThumb": "#99a9bb"
+            },
+            "tabs": {
+              "containerBackground": "#fefefe",
+              "tabInactive": "#002856",
+              "tabActive": "#004a99"
+            },
+            "toggle": {
+              "background": {
+                "active": "#004a99"
+              }
+            }
+          }
+        }
+      },
+      "screens": {
+        "desktop": {
+          "first": {
+            "features": {
+              "denyConsentsOnClose": false
+            }
+          },
+          "second": {
+            "layout": {
+              "position": "center"
+            },
+            "elements": {
+              "buttons": {
+                "order": [
+                  [
+                    "save",
+                    "deny",
+                    "accept"
+                  ]
+                ]
+              }
+            },
+            "visibility": {
+              "hideDataProcessingServices": false,
+              "hideServicesToggles": false,
+              "hideLanguageSwitch": false
+            }
+          }
+        },
+        "mobile": {
+          "base": {
+            "elements": {
+              "buttons": {
+                "order": [
+                  [
+                    "accept"
+                  ],
+                  [
+                    "deny"
+                  ],
+                  [
+                    "more"
+                  ]
+                ]
+              }
+            }
+          },
+          "second": {
+            "elements": {
+              "buttons": {
+                "order": [
+                  [
+                    "accept"
+                  ],
+                  [
+                    "deny"
+                  ],
+                  [
+                    "save"
+                  ]
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "consent": {
+    "controllerId": "",
+    "createdAt": 0,
+    "language": "en",
+    "required": true,
+    "setting": {
+      "id": "O-5UjFSKRrwRZN",
+      "version": "68.10.102",
+      "type": "GDPR"
+    },
+    "updatedAt": 0,
+    "updatedBy": "onInitialPageLoad",
+    "type": "IMPLICIT",
+    "version": 1,
+    "status": "ALL_DENIED",
+    "hash": "",
+    "serviceIds": []
+  },
+  "i18n": {
+    "categories": {
+      "marketing": {
+        "description": "These technologies are used by advertisers to serve ads that are relevant to your interests.",
+        "name": "Marketing",
+        "id": "marketing"
+      },
+      "functional": {
+        "description": "These technologies enable us to analyse usage behavior in order to measure and improve performance.",
+        "name": "Functional",
+        "id": "functional"
+      },
+      "essential": {
+        "description": "These technologies are required to activate the core functionality of our service.",
+        "name": "Essential",
+        "id": "essential"
+      }
+    },
+    "services": {
+      "H1Vl5NidjWX": {
+        "description": "",
+        "id": "H1Vl5NidjWX",
+        "legalBasis": [],
+        "name": "Usercentrics Consent Management Platform"
+      },
+      "BJ59EidsWQ": {
+        "description": "",
+        "id": "BJ59EidsWQ",
+        "legalBasis": [],
+        "name": "Google Tag Manager"
+      },
+      "HkocEodjb7": {
+        "description": "",
+        "id": "HkocEodjb7",
+        "legalBasis": [],
+        "name": "Google Analytics"
+      },
+      "HkMzqiL4X": {
+        "description": "",
+        "id": "HkMzqiL4X",
+        "legalBasis": [],
+        "name": "DoubleClick"
+      },
+      "JQ2XQxIk": {
+        "description": "",
+        "id": "JQ2XQxIk",
+        "legalBasis": [],
+        "name": "LinkedIn Insight Tag"
+      },
+      "PPpL7pXsf": {
+        "description": "",
+        "id": "PPpL7pXsf",
+        "legalBasis": [],
+        "name": "OptinMonster"
+      },
+      "HJLZqNi_iZQ": {
+        "description": "",
+        "id": "HJLZqNi_iZQ",
+        "legalBasis": [],
+        "name": "SMART AdServer"
+      },
+      "r1EWc4iuj-X": {
+        "description": "",
+        "id": "r1EWc4iuj-X",
+        "legalBasis": [],
+        "name": "Outbrain"
+      },
+      "Hko_qNsui-Q": {
+        "description": "",
+        "id": "Hko_qNsui-Q",
+        "legalBasis": [],
+        "name": "reCAPTCHA"
+      },
+      "9V8bg4D63": {
+        "description": "",
+        "id": "9V8bg4D63",
+        "legalBasis": [],
+        "name": "DoubleClick Ad"
+      },
+      "kT8DTeuKT__G36": {
+        "description": "",
+        "id": "kT8DTeuKT__G36",
+        "legalBasis": [],
+        "name": "DMAG Session"
+      },
+      "ryuCiMdZp7YdyW": {
+        "description": "",
+        "id": "ryuCiMdZp7YdyW",
+        "legalBasis": [],
+        "name": "DMAG Lead Generierung"
+      },
+      "DgjSImRXeATj5u": {
+        "description": "",
+        "id": "DgjSImRXeATj5u",
+        "legalBasis": [],
+        "name": "DMAG Longlife Remember"
+      },
+      "J05PmJuvt36qTe": {
+        "description": "",
+        "id": "J05PmJuvt36qTe",
+        "legalBasis": [],
+        "name": "Meta Pixel"
+      },
+      "twMyStLkn": {
+        "description": "",
+        "id": "twMyStLkn",
+        "legalBasis": [],
+        "name": "Google Ads Conversion Tracking"
+      },
+      "HkrZ5NjusWX": {
+        "description": "",
+        "id": "HkrZ5NjusWX",
+        "legalBasis": [],
+        "name": "Outbrain Amplify"
+      },
+      "SkPc5EjOsWm": {
+        "description": "",
+        "id": "SkPc5EjOsWm",
+        "legalBasis": [],
+        "name": "Google Syndication"
+      },
+      "s8nQgU9A5": {
+        "description": "",
+        "id": "s8nQgU9A5",
+        "legalBasis": [],
+        "name": "Tealium Inc"
+      },
+      "H1dDqVjOjWX": {
+        "description": "",
+        "id": "H1dDqVjOjWX",
+        "legalBasis": [],
+        "name": "Adform"
+      },
+      "uaftKqmcIqgV0C": {
+        "description": "",
+        "id": "uaftKqmcIqgV0C",
+        "legalBasis": [],
+        "name": "DMAG Livestream Analytics"
+      },
+      "rJJjcVouoZ7": {
+        "description": "",
+        "id": "rJJjcVouoZ7",
+        "legalBasis": [],
+        "name": "gstatic.com"
+      },
+      "HkPBYFofN": {
+        "description": "",
+        "id": "HkPBYFofN",
+        "legalBasis": [],
+        "name": "Google Fonts"
+      },
+      "S1_9Vsuj-Q": {
+        "description": "",
+        "id": "S1_9Vsuj-Q",
+        "legalBasis": [],
+        "name": "Google Ads"
+      },
+      "BJz7qNsdj-7": {
+        "description": "",
+        "id": "BJz7qNsdj-7",
+        "legalBasis": [],
+        "name": "YouTube Video"
+      },
+      "Hy2XlcEi_ibQ": {
+        "description": "",
+        "id": "Hy2XlcEi_ibQ",
+        "legalBasis": [],
+        "name": "ID5 Technology"
+      },
+      "r1HocEjOiWm": {
+        "description": "",
+        "id": "r1HocEjOiWm",
+        "legalBasis": [],
+        "name": "Cloudinary"
+      },
+      "bms_SDJMG": {
+        "description": "",
+        "id": "bms_SDJMG",
+        "legalBasis": [],
+        "name": "Google Cloud"
+      },
+      "XYQZBUojc": {
+        "description": "",
+        "id": "XYQZBUojc",
+        "legalBasis": [],
+        "name": "Facebook Social Plugins"
+      },
+      "Hkx754i_iWm": {
+        "description": "",
+        "id": "Hkx754i_iWm",
+        "legalBasis": [],
+        "name": "LinkedIn Plugin"
+      },
+      "BJ_ocNjds-X": {
+        "description": "",
+        "id": "BJ_ocNjds-X",
+        "legalBasis": [],
+        "name": "cloudfront.net"
+      },
+      "FtE1AC6zU": {
+        "description": "",
+        "id": "FtE1AC6zU",
+        "legalBasis": [],
+        "name": "walls.io"
+      },
+      "eSE_HHXnI": {
+        "description": "",
+        "id": "eSE_HHXnI",
+        "legalBasis": [],
+        "name": "Leadinfo"
+      },
+      "MQJ6TX04ENV3Du": {
+        "description": "",
+        "id": "MQJ6TX04ENV3Du",
+        "legalBasis": [],
+        "name": "Dealfront"
+      },
+      "mbL6QSpmZ": {
+        "description": "",
+        "id": "mbL6QSpmZ",
+        "legalBasis": [],
+        "name": "Leadfeeder"
+      }
+    },
+    "base": {
+      "ariaLabels": {
+        "acceptAllButton": "Accept All",
+        "ccpaButton": "Agree to CCPA",
+        "ccpaMoreInformation": "More Information",
+        "closeButton": "Close Layer",
+        "collapse": "Collapse",
+        "cookiePolicyButton": "Open Cookie Policy",
+        "copyControllerId": "Copy Controller ID",
+        "denyAllButton": "Deny all",
+        "expand": "Expand",
+        "fullscreenButton": "Enter full screen",
+        "imprintButton": "Open Imprint",
+        "languageSelector": "Select language",
+        "privacyButton": "Open",
+        "privacyPolicyButton": "Open Privacy Policy",
+        "saveButton": "Save",
+        "serviceInCategoryDetails": "View Service details",
+        "servicesInCategory": "List of Services in this category",
+        "tabButton": "Tab",
+        "usercentricsCMPButtons": "Footer including buttons",
+        "usercentricsCMPContent": "Content",
+        "usercentricsCMPHeader": "Header including language selection and external links",
+        "usercentricsCMPUI": "Consent Management Platform Interface",
+        "usercentricsCard": "Card",
+        "usercentricsList": "List",
+        "vendorConsentToggle": "Consent",
+        "vendorDetailedStorageInformation": "Detailed Storage Information",
+        "vendorLegIntToggle": "Legitimate Interest"
+      },
+      "cookieInformation": {
+        "anyDomain": "any domain (ex. first party cookie)",
+        "cookieRefresh": "Cookie refresh",
+        "cookieStorage": "Cookie storage",
+        "day": "day",
+        "days": "days",
+        "description": "Below you can see the longest potential duration for storage on a device, as set when using any method of storage.",
+        "domain": "Domain",
+        "duration": "Duration",
+        "error": "Sorry, we could not load the required information.",
+        "hour": "hour",
+        "hours": "hours",
+        "identifier": "Identifier",
+        "loading": "Loading storage information",
+        "maximumAge": "Maximum age of cookie storage",
+        "minute": "minute",
+        "minutes": "minutes",
+        "month": "month",
+        "months": "months",
+        "multipleDomains": "multiple subdomains may exist",
+        "name": "Name",
+        "no": "no",
+        "nonCookieStorage": "Non-cookie storage",
+        "purposes": "Purposes",
+        "second": "second",
+        "seconds": "seconds",
+        "session": "Session",
+        "storedInformation": "Stored Information",
+        "storedInformationDescription": "This service uses different means of storing information on a user’s device as listed below.",
+        "title": "Storage Information",
+        "titleDetailed": "Detailed Storage Information",
+        "tryAgain": "Try again?",
+        "type": "Type",
+        "year": "year",
+        "years": "years",
+        "yes": "yes"
+      },
+      "links": {
+        "imprint": {
+          "ariaLabel": "Open Legal Notice",
+          "label": "Legal Notice",
+          "url": "https://www.messe.de/en/deutsche-messe/",
+          "order": 3,
+          "type": "imprint"
+        },
+        "privacyPolicy": {
+          "ariaLabel": "Open Privacy Policy",
+          "label": "Privacy Policy",
+          "url": "https://www.messe.de/en/deutsche-messe/privacy-policy",
+          "order": 1,
+          "type": "privacyPolicy"
+        }
+      },
+      "poweredBy": {
+        "isEnabled": true,
+        "labels": {
+          "prefix": "Powered by",
+          "uc": "Usercentrics Consent Management",
+          "cb": "Usercentrics Cookiebot",
+          "partner": ""
+        },
+        "links": {
+          "uc": "https://www.usercentrics.com/consent-management-platform-powered-by-usercentrics/",
+          "partner": ""
+        }
+      },
+      "serviceDetail": {
+        "dataCollected": {
+          "description": "This list represents all (personal) data that is collected by or through the use of this service.",
+          "title": "Data Collected"
+        },
+        "dataDistribution": {
+          "processingLocationDescription": "This is the primary location where the collected data is being processed. If the data is also processed in other countries, you are informed separately.",
+          "processingLocationTitle": "Location of Processing",
+          "thirdPartyCountriesDescription": "This service may forward the collected data to a different country. Please note that this service might transfer the data to a country without the required data protection standards. Below you can find a list of countries to which the data is being transferred. For more information regarding safeguards please refer to the provider's privacy policy or contact the provider directly.",
+          "thirdPartyCountriesTitle": "Transfer to Third Countries"
+        },
+        "dataProtectionOfficer": {
+          "description": "Below you can find the email address of the data protection officer of the processing company.",
+          "title": "Data Protection Officer of Processing Company"
+        },
+        "dataPurposes": {
+          "description": "This list represents the purposes of the data collection and processing.",
+          "title": "Data Purposes"
+        },
+        "dataRecipients": {
+          "description": "In the following the recipients of the data collected are listed.",
+          "title": "Data Recipients"
+        },
+        "descriptionTitle": "Description of Service",
+        "history": {
+          "description": null,
+          "title": "History"
+        },
+        "legalBasis": {
+          "description": "In the following the required legal basis for the processing of data is listed.",
+          "title": "Legal Basis"
+        },
+        "retentionPeriod": {
+          "description": "The retention period is the time span the collected data is saved for the processing purposes. The data needs to be deleted as soon as it is no longer needed for the stated processing purposes.",
+          "title": "Retention Period"
+        },
+        "technologiesUsed": {
+          "description": "This list represents all technologies this service uses to collect data.",
+          "title": "Technologies Used"
+        },
+        "urls": {
+          "cookiePolicyTitle": "Click here to read the cookie policy of the data processor",
+          "optOutTitle": "Click here to opt out from this processor across all domains",
+          "privacyPolicyTitle": "Click here to read the privacy policy of the data processor"
+        }
+      },
+      "back": "Back",
+      "consentGiven": "yes",
+      "consentNotGiven": "no",
+      "consentType": "Consent type",
+      "controllerId": "ID to request consent data",
+      "copied": "copied",
+      "copy": "copy",
+      "date": "Date",
+      "decision": "Decision",
+      "details": "Details",
+      "explicit": "Explicit",
+      "gpcSignalHonored": "The GPC signal is honored",
+      "implicit": "Implicit",
+      "implicitNo": "no (default)",
+      "implicitYes": "yes (default)",
+      "privacyButton": "Privacy Settings",
+      "showLess": "Read less",
+      "showMore": "Read more",
+      "subservice": "Subservice",
+      "subservices": "Subservices",
+      "subservicesDescription": "Below you can find all the services that are subordinate to this service. The current consent status of this service applies to all subservices.",
+      "accepted": "yes",
+      "anyDomain": "any domain (ex. first party cookie)",
+      "btnBannerReadMore": "Read more",
+      "cookiePolicyInfo": "Click here to read the cookie policy of the data processor",
+      "cookiePolicyLinkText": "Cookie Policy",
+      "cookiePolicyUrl": "",
+      "dataCollectedInfo": "This list represents all (personal) data that is collected by or through the use of this service.",
+      "dataCollectedList": "Data Collected",
+      "dataProtectionOfficer": "Data Protection Officer of Processing Company",
+      "dataProtectionOfficerInfo": "Below you can find the email address of the data protection officer of the processing company.",
+      "dataPurposes": "Data Purposes",
+      "dataPurposesInfo": "This list represents the purposes of the data collection and processing.",
+      "dataRecipientsList": "Data Recipients",
+      "dataRecipientsListInfo": "In the following the recipients of the data collected are listed.",
+      "day": "day",
+      "days": "days",
+      "denied": "no",
+      "descriptionOfService": "Description of Service",
+      "detailedStorageInformation": "Detailed Storage Information",
+      "domain": "Domain",
+      "duration": "Duration",
+      "history": "History",
+      "hour": "hour",
+      "hours": "hours",
+      "identifier": "Identifier",
+      "imprintLinkText": "Legal Notice",
+      "imprintUrl": "https://www.messe.de/en/deutsche-messe/",
+      "informationLoadingNotPossible": "Sorry, we could not load the required information.",
+      "legalBasisInfo": "In the following the required legal basis for the processing of data is listed.",
+      "legalBasisList": "Legal Basis",
+      "loadingStorageInformation": "Loading storage information",
+      "locationOfProcessing": "Location of Processing",
+      "locationofProcessingInfo": "This is the primary location where the collected data is being processed. If the data is also processed in other countries, you are informed separately.",
+      "maximumAgeCookieStorage": "Maximum age of cookie storage",
+      "minute": "minute",
+      "minutes": "minutes",
+      "month": "month",
+      "months": "months",
+      "multipleDomains": "multiple subdomains may exist",
+      "name": "Name",
+      "no": "no",
+      "noImplicit": "no (default)",
+      "nonCookieStorage": "Non-cookie storage",
+      "optOut": "Click here to opt out from this processor across all domains",
+      "policyOf": "Click here to read the privacy policy of the data processor",
+      "processingCompany": "Processing Company",
+      "privacyPolicyLinkText": "Privacy Policy",
+      "privacyPolicyUrl": "https://www.messe.de/en/deutsche-messe/privacy-policy",
+      "readLess": "Read less",
+      "retentionPeriod": "Retention Period",
+      "retentionPeriodInfo": "The retention period is the time span the collected data is saved for the processing purposes. The data needs to be deleted as soon as it is no longer needed for the stated processing purposes.",
+      "second": "second",
+      "seconds": "seconds",
+      "session": "Session",
+      "storageInformation": "Storage Information",
+      "storageInformationDescription": "Below you can see the longest potential duration for storage on a device, as set when using any method of storage.",
+      "storedInformation": "Stored Information",
+      "storedInformationDescription": "This service uses different means of storing information on a user’s device as listed below.",
+      "tabs": {
+        "categories": "Categories",
+        "services": "Services",
+        "about": "About",
+        "details": "Details",
+        "consent": "Consent"
+      },
+      "technologiesUsed": "Technologies Used",
+      "technologiesUsedInfo": "This list represents all technologies this service uses to collect data.",
+      "transferToThirdCountries": "Transfer to Third Countries",
+      "transferToThirdCountriesInfo": "This service may forward the collected data to a different country. Please note that this service might transfer the data to a country without the required data protection standards. Below you can find a list of countries to which the data is being transferred. For more information regarding safeguards please refer to the provider's privacy policy or contact the provider directly.",
+      "tryAgain": "Try again?",
+      "type": "Type",
+      "year": "year",
+      "years": "years",
+      "yes": "yes",
+      "yesImplicit": "yes (default)",
+      "dataTransferFilter": {
+        "all": "All",
+        "thirdCountry": "Data Transfer to Third Countries"
+      },
+      "crossDomainConsent": {
+        "title": "Cross-domain consent",
+        "appliesTo": "Your consent applies to the following domains:",
+        "listOfDomains": "List of domains your consent applies to:"
+      }
+    },
+    "gdpr": {
+      "continueWithoutAccept": "Continue without accepting",
+      "addVendorCount": false,
+      "dutchThirdPartyText": "We work with %THIRD_PARTY_COUNT% third parties who may receive and process your information."
+    },
+    "firstLayer": {
+      "privacy": {
+        "title": "Your privacy matters to us",
+        "description": "This site uses third-party website tracking technologies to provide and continually improve our services, and to display advertisements according to users' interests. I agree and may revoke or change my consent at any time with effect for the future."
+      },
+      "buttons": {
+        "accept": "Accept All",
+        "deny": "Deny",
+        "more": "More Information",
+        "save": "Save Settings"
+      }
+    },
+    "secondLayer": {
+      "privacy": {
+        "title": "Privacy Settings",
+        "description": "This tool helps you manage consent to third party technologies collecting and processing personal data."
+      },
+      "buttons": {
+        "accept": "Accept All",
+        "deny": "Deny",
+        "save": "Save Settings"
+      }
+    }
+  }
+}

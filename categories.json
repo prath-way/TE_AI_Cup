@@ -1,0 +1,466 @@
+[
+  {
+    "id": 234,
+    "name": "3D Printing"
+  },
+  {
+    "id": 205,
+    "name": "Adhesives"
+  },
+  {
+    "id": 402,
+    "name": "PDM"
+  },
+  {
+    "id": 204,
+    "name": "Materials"
+  },
+  {
+    "id": 67,
+    "name": "App Development"
+  },
+  {
+    "id": 629,
+    "name": "Lubricants"
+  },
+  {
+    "id": 532,
+    "name": "3D scanning services"
+  },
+  {
+    "id": 68,
+    "name": "Augmented Reality"
+  },
+  {
+    "id": 235,
+    "name": "3D scanning equipment"
+  },
+  {
+    "id": 324,
+    "name": "Alloys"
+  },
+  {
+    "id": 5,
+    "name": "Digital Tech"
+  },
+  {
+    "id": 342,
+    "name": "3DP/AM/RP bureaux"
+  },
+  {
+    "id": 207,
+    "name": "Batteries & Power Supplies"
+  },
+  {
+    "id": 403,
+    "name": "PLM"
+  },
+  {
+    "id": 209,
+    "name": "Casings"
+  },
+  {
+    "id": 69,
+    "name": "Bioinformatics / Big Data"
+  },
+  {
+    "id": 6,
+    "name": "Accelerators and Incubators"
+  },
+  {
+    "id": 533,
+    "name": " Additive Manufacturing "
+  },
+  {
+    "id": 400,
+    "name": "ERP"
+  },
+  {
+    "id": 203,
+    "name": "Manufacturing Technology"
+  },
+  {
+    "id": 325,
+    "name": "Bioplastics"
+  },
+  {
+    "id": 399,
+    "name": "FEA/CFD"
+  },
+  {
+    "id": 210,
+    "name": "Controls"
+  },
+  {
+    "id": 4,
+    "name": "Electronics and Components"
+  },
+  {
+    "id": 236,
+    "name": "Ancillaries"
+  },
+  {
+    "id": 133,
+    "name": "Banking, Asset Finance & Leasing"
+  },
+  {
+    "id": 70,
+    "name": "Blockchain"
+  },
+  {
+    "id": 326,
+    "name": "Biopolymers"
+  },
+  {
+    "id": 327,
+    "name": "Ceramics"
+  },
+  {
+    "id": 237,
+    "name": "Automation & Robotics"
+  },
+  {
+    "id": 343,
+    "name": "Casting"
+  },
+  {
+    "id": 218,
+    "name": "Cloud Services"
+  },
+  {
+    "id": 398,
+    "name": "CAD/CAM"
+  },
+  {
+    "id": 1,
+    "name": "Services"
+  },
+  {
+    "id": 208,
+    "name": "Cables"
+  },
+  {
+    "id": 219,
+    "name": "Communication Systems"
+  },
+  {
+    "id": 212,
+    "name": "Lasers"
+  },
+  {
+    "id": 401,
+    "name": "Data Validation Software (STL editing and repair, NC simulation)"
+  },
+  {
+    "id": 7,
+    "name": "Certification"
+  },
+  {
+    "id": 329,
+    "name": "Compounds"
+  },
+  {
+    "id": 238,
+    "name": "Blow Moulding Machines"
+  },
+  {
+    "id": 375,
+    "name": "Software"
+  },
+  {
+    "id": 371,
+    "name": "Composites"
+  },
+  {
+    "id": 8,
+    "name": "Consultants"
+  },
+  {
+    "id": 211,
+    "name": "Embedded Systems"
+  },
+  {
+    "id": 220,
+    "name": "Digital Imaging"
+  },
+  {
+    "id": 240,
+    "name": "CNC Machining Centres"
+  },
+  {
+    "id": 213,
+    "name": "Motors/Drives"
+  },
+  {
+    "id": 330,
+    "name": "Elastomers"
+  },
+  {
+    "id": 221,
+    "name": "Hardware / Computer Technology"
+  },
+  {
+    "id": 241,
+    "name": "CNC Turning Centres"
+  },
+  {
+    "id": 10,
+    "name": "Design and Product Development"
+  },
+  {
+    "id": 214,
+    "name": "Optics & Optoelectronics"
+  },
+  {
+    "id": 242,
+    "name": "Compounding Equipment"
+  },
+  {
+    "id": 222,
+    "name": "Human-Machine Interfaces"
+  },
+  {
+    "id": 331,
+    "name": "Filaments"
+  },
+  {
+    "id": 9,
+    "name": "Contract Manufacturing"
+  },
+  {
+    "id": 215,
+    "name": "PCBs"
+  },
+  {
+    "id": 239,
+    "name": "Cleanrooms"
+  },
+  {
+    "id": 332,
+    "name": "Masterbatch and Additives"
+  },
+  {
+    "id": 223,
+    "name": "Security & Governance"
+  },
+  {
+    "id": 14,
+    "name": "Intellectual Property"
+  },
+  {
+    "id": 243,
+    "name": "EDM machines"
+  },
+  {
+    "id": 333,
+    "name": "Metal Powders"
+  },
+  {
+    "id": 216,
+    "name": "Sensors"
+  },
+  {
+    "id": 344,
+    "name": "Logistics, Distribution & Supply Chain Solutions"
+  },
+  {
+    "id": 224,
+    "name": "Software Development"
+  },
+  {
+    "id": 345,
+    "name": "Media Agency "
+  },
+  {
+    "id": 334,
+    "name": "Packaging"
+  },
+  {
+    "id": 225,
+    "name": "Virtual Reality"
+  },
+  {
+    "id": 244,
+    "name": "Extrusion Machines"
+  },
+  {
+    "id": 206,
+    "name": "Tubing"
+  },
+  {
+    "id": 346,
+    "name": "Metrology & Inspection Services"
+  },
+  {
+    "id": 335,
+    "name": "Plastic Powders"
+  },
+  {
+    "id": 245,
+    "name": "Hot Runner Systems"
+  },
+  {
+    "id": 695,
+    "name": "Injection Moulding"
+  },
+  {
+    "id": 662,
+    "name": "Oil Management"
+  },
+  {
+    "id": 336,
+    "name": "Recycled/Reprocessed Materials"
+  },
+  {
+    "id": 246,
+    "name": "Injection Moulding Machines"
+  },
+  {
+    "id": 337,
+    "name": "Resins"
+  },
+  {
+    "id": 347,
+    "name": "Post-Processing"
+  },
+  {
+    "id": 247,
+    "name": "Laser Cutting Machines"
+  },
+  {
+    "id": 338,
+    "name": "Speciality Chemicals"
+  },
+  {
+    "id": 348,
+    "name": "Printing, Decorating and Labelling Services"
+  },
+  {
+    "id": 248,
+    "name": "Materials Handling Equipment"
+  },
+  {
+    "id": 12,
+    "name": "Recruitment"
+  },
+  {
+    "id": 339,
+    "name": "Surface Treatments & Coatings"
+  },
+  {
+    "id": 11,
+    "name": "Recycling & Reclamation Services"
+  },
+  {
+    "id": 340,
+    "name": "Textiles"
+  },
+  {
+    "id": 249,
+    "name": "Metrology & Inspection Equipment"
+  },
+  {
+    "id": 250,
+    "name": "Micro Injection Moulding"
+  },
+  {
+    "id": 404,
+    "name": "Regulatory Affairs"
+  },
+  {
+    "id": 728,
+    "name": "Mixing Equipment"
+  },
+  {
+    "id": 349,
+    "name": "Research and Development"
+  },
+  {
+    "id": 350,
+    "name": "Reverse Engineering"
+  },
+  {
+    "id": 251,
+    "name": "Packaging Technology"
+  },
+  {
+    "id": 252,
+    "name": "Post Processing Stations"
+  },
+  {
+    "id": 351,
+    "name": "Skills, Training and Education"
+  },
+  {
+    "id": 17,
+    "name": "Testing & Analysis"
+  },
+  {
+    "id": 253,
+    "name": "Printing, Decorating and Colouration Equipment"
+  },
+  {
+    "id": 374,
+    "name": "Tool & Mould Making"
+  },
+  {
+    "id": 254,
+    "name": "Process Control Equipment"
+  },
+  {
+    "id": 256,
+    "name": "Quality Control Equipment"
+  },
+  {
+    "id": 18,
+    "name": "Trade Organisations & Media"
+  },
+  {
+    "id": 100,
+    "name": "Trademark, IP and Patent Services"
+  },
+  {
+    "id": 255,
+    "name": "Quality Assurance Equipment"
+  },
+  {
+    "id": 257,
+    "name": "Recycling Equipment"
+  },
+  {
+    "id": 258,
+    "name": "Rotational Moulding Machines"
+  },
+  {
+    "id": 259,
+    "name": "Rubber Processing Machinery"
+  },
+  {
+    "id": 260,
+    "name": "Sterilisation, Purification and Filtration Technology"
+  },
+  {
+    "id": 261,
+    "name": "Surface Treatment Equipment"
+  },
+  {
+    "id": 308,
+    "name": "Temperature Control Equipment"
+  },
+  {
+    "id": 309,
+    "name": "Testing & Analysis Equipment"
+  },
+  {
+    "id": 310,
+    "name": "Thermoforming Equipment"
+  },
+  {
+    "id": 311,
+    "name": "Welding and Marking Equipment"
+  },
+  {
+    "id": 312,
+    "name": "Workstations & IT"
+  }
+]

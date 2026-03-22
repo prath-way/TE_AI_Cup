@@ -1,0 +1,43 @@
+﻿ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+TEST 1: User example ΓÇö mixed text with email + phone + address
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  email:   sales@abrobalancing.com
+  phones:  [ '+1 (281) 404-5677' ]
+  address: America ABRO Balancing Inc. 619 Windsor Glen Drive
+
+TEST 2: URL-encoded phone (+91%2075388%2009052)
+  phones: [ '+91 75388 09052' ]
+
+TEST 3: Email embedded in address
+  email:   info@ams-india.co.in
+  address: Address No 29 /1 Malik Building
+
+TEST 4: Phone in address column
+  phones:  [ '911244366257' ]
+  address: Plot 131, KIADB Industrial Area, Bommasandra Jigani L+
+
+TEST 5: Multiple phones (+91-9801329640 / +91-8...)
+  phones: [ '+91-9801329640', '+91-8123456789' ]
+
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+TEST 6: Full record cleaning ΓÇö cross-contaminated fields
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  email:   sales@abrobalancing.com
+  phone:   +1 (281) 404-5677
+  address: America ABRO Balancing Inc. 619 Windsor Glen Drive
+
+TEST 7: Batch cleaning (3 companies)
+  AMS India:
+    email:   info@ams-india.co.in
+    phone:   +91-733855403
+    address: Address No 29 /1 Malik Building
+  Accurate Sales:
+    email:   sales@accuratesales.co.in
+    phone:   +91-20-66039000
+    address: (empty)
+  AEON Engineering:
+    email:   enquiries@aeon-eng.com
+    phone:   03333 401 444
+    address: AEON Engineering Head Office Silverdale Road, Silverd
+
+Γ£à All tests complete.

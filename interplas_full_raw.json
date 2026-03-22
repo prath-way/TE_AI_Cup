@@ -1,0 +1,582 @@
+[
+  {
+    "categoryId": 234,
+    "categoryName": "3D Printing",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 205,
+    "categoryName": "Adhesives",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 402,
+    "categoryName": "PDM",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 204,
+    "categoryName": "Materials",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 67,
+    "categoryName": "App Development",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 629,
+    "categoryName": "Lubricants",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 532,
+    "categoryName": "3D scanning services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 68,
+    "categoryName": "Augmented Reality",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 235,
+    "categoryName": "3D scanning equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 324,
+    "categoryName": "Alloys",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Digital Tech",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 342,
+    "categoryName": "3DP/AM/RP bureaux",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 207,
+    "categoryName": "Batteries & Power Supplies",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 403,
+    "categoryName": "PLM",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 209,
+    "categoryName": "Casings",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 69,
+    "categoryName": "Bioinformatics / Big Data",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Accelerators and Incubators",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 533,
+    "categoryName": " Additive Manufacturing ",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 400,
+    "categoryName": "ERP",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 203,
+    "categoryName": "Manufacturing Technology",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 325,
+    "categoryName": "Bioplastics",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 399,
+    "categoryName": "FEA/CFD",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 210,
+    "categoryName": "Controls",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Electronics and Components",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 236,
+    "categoryName": "Ancillaries",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 133,
+    "categoryName": "Banking, Asset Finance & Leasing",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 70,
+    "categoryName": "Blockchain",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 326,
+    "categoryName": "Biopolymers",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 327,
+    "categoryName": "Ceramics",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 237,
+    "categoryName": "Automation & Robotics",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 343,
+    "categoryName": "Casting",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 218,
+    "categoryName": "Cloud Services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 398,
+    "categoryName": "CAD/CAM",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 1,
+    "categoryName": "Services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 208,
+    "categoryName": "Cables",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 219,
+    "categoryName": "Communication Systems",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 212,
+    "categoryName": "Lasers",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 401,
+    "categoryName": "Data Validation Software (STL editing and repair, NC simulation)",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 7,
+    "categoryName": "Certification",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 329,
+    "categoryName": "Compounds",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 238,
+    "categoryName": "Blow Moulding Machines",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 375,
+    "categoryName": "Software",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 371,
+    "categoryName": "Composites",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 8,
+    "categoryName": "Consultants",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 211,
+    "categoryName": "Embedded Systems",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 220,
+    "categoryName": "Digital Imaging",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 240,
+    "categoryName": "CNC Machining Centres",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 213,
+    "categoryName": "Motors/Drives",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 330,
+    "categoryName": "Elastomers",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 221,
+    "categoryName": "Hardware / Computer Technology",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 241,
+    "categoryName": "CNC Turning Centres",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 10,
+    "categoryName": "Design and Product Development",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 214,
+    "categoryName": "Optics & Optoelectronics",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 242,
+    "categoryName": "Compounding Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 222,
+    "categoryName": "Human-Machine Interfaces",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 331,
+    "categoryName": "Filaments",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 9,
+    "categoryName": "Contract Manufacturing",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 215,
+    "categoryName": "PCBs",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 239,
+    "categoryName": "Cleanrooms",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 332,
+    "categoryName": "Masterbatch and Additives",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 223,
+    "categoryName": "Security & Governance",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 14,
+    "categoryName": "Intellectual Property",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 243,
+    "categoryName": "EDM machines",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 333,
+    "categoryName": "Metal Powders",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 216,
+    "categoryName": "Sensors",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 344,
+    "categoryName": "Logistics, Distribution & Supply Chain Solutions",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 224,
+    "categoryName": "Software Development",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 345,
+    "categoryName": "Media Agency ",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 334,
+    "categoryName": "Packaging",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 225,
+    "categoryName": "Virtual Reality",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 244,
+    "categoryName": "Extrusion Machines",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 206,
+    "categoryName": "Tubing",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 346,
+    "categoryName": "Metrology & Inspection Services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 335,
+    "categoryName": "Plastic Powders",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 245,
+    "categoryName": "Hot Runner Systems",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 695,
+    "categoryName": "Injection Moulding",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 662,
+    "categoryName": "Oil Management",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 336,
+    "categoryName": "Recycled/Reprocessed Materials",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 246,
+    "categoryName": "Injection Moulding Machines",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 337,
+    "categoryName": "Resins",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 347,
+    "categoryName": "Post-Processing",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 247,
+    "categoryName": "Laser Cutting Machines",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 338,
+    "categoryName": "Speciality Chemicals",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 348,
+    "categoryName": "Printing, Decorating and Labelling Services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 248,
+    "categoryName": "Materials Handling Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 12,
+    "categoryName": "Recruitment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 339,
+    "categoryName": "Surface Treatments & Coatings",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 11,
+    "categoryName": "Recycling & Reclamation Services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 340,
+    "categoryName": "Textiles",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 249,
+    "categoryName": "Metrology & Inspection Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 250,
+    "categoryName": "Micro Injection Moulding",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 404,
+    "categoryName": "Regulatory Affairs",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 728,
+    "categoryName": "Mixing Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 349,
+    "categoryName": "Research and Development",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 350,
+    "categoryName": "Reverse Engineering",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 251,
+    "categoryName": "Packaging Technology",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 252,
+    "categoryName": "Post Processing Stations",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 351,
+    "categoryName": "Skills, Training and Education",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 17,
+    "categoryName": "Testing & Analysis",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 253,
+    "categoryName": "Printing, Decorating and Colouration Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 374,
+    "categoryName": "Tool & Mould Making",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 254,
+    "categoryName": "Process Control Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 256,
+    "categoryName": "Quality Control Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 18,
+    "categoryName": "Trade Organisations & Media",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 100,
+    "categoryName": "Trademark, IP and Patent Services",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 255,
+    "categoryName": "Quality Assurance Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 257,
+    "categoryName": "Recycling Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 258,
+    "categoryName": "Rotational Moulding Machines",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 259,
+    "categoryName": "Rubber Processing Machinery",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 260,
+    "categoryName": "Sterilisation, Purification and Filtration Technology",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 261,
+    "categoryName": "Surface Treatment Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 308,
+    "categoryName": "Temperature Control Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 309,
+    "categoryName": "Testing & Analysis Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 310,
+    "categoryName": "Thermoforming Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 311,
+    "categoryName": "Welding and Marking Equipment",
+    "error": "Status 401"
+  },
+  {
+    "categoryId": 312,
+    "categoryName": "Workstations & IT",
+    "error": "Status 401"
+  }
+]

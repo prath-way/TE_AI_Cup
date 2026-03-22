@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExpoDirectory | Global Exhibitor Search</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Background Decorations -->
+    <div class="bg-decoration decoration-1"></div>
+    <div class="bg-decoration decoration-2"></div>
+    <div class="bg-decoration decoration-3"></div>
+
+    <div class="container">
+        <!-- Hero Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="header-top">
+                    <div class="logo">
+                        <span class="logo-icon">🏢</span>
+                        <span class="logo-text">Expo<span class="logo-accent">Directory</span></span>
+                    </div>
+                    <div class="header-actions">
+                        <button id="themeToggle" class="theme-toggle-btn" aria-label="Toggle dark mode">
+                            <span class="toggle-icon sun">☀️</span>
+                            <span class="toggle-icon moon">🌙</span>
+                        </button>
+                        <nav class="nav-links">
+                            <a href="#" class="nav-link active">Home</a>
+                            <a href="https://tradexhibition.com/" class="nav-link" target="_blank">About</a>
+                        </nav>
+                    </div>
+                </div>
+                <div class="hero-content">
+                    <h1 class="title">Global Exhibitor Database</h1>
+                    <div class="title-underline"></div>
+                </div>
+                <p class="subtitle">
+                    <span class="highlight-badge">20,000+ Exhibitors</span>
+                    Search companies from Plastindia, Chinaplas, IMTEX & 10+ Global Fairs
+                </p>
+                <div class="stats-bar">
+                    <div class="stat-item">
+                        <span class="stat-icon">🏢</span>
+                        <span class="stat-label">Companies</span>
+                        <span class="stat-value">20,000+</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-icon">📊</span>
+                        <span class="stat-label">Export Formats</span>
+                        <span class="stat-value">CSV & Excel</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-icon">⚡</span>
+                        <span class="stat-label">Search Speed</span>
+                        <span class="stat-value">Instant</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Search Section -->
+            <div class="search-section">
+                <div class="search-label">
+                    <span class="search-label-icon">🎯</span>
+                    Find Your Company
+                </div>
+                <div class="search-box-wrapper">
+                    <div class="search-box">
+                        <span class="search-prefix-icon">🔍</span>
+                        <input type="text" id="searchInput" class="search-input"
+                            placeholder="Start typing company name..." autocomplete="off">
+                        <button id="searchBtn" class="search-btn">
+                            <span class="btn-text">Search</span>
+                            <span class="btn-icon">→</span>
+                        </button>
+                    </div>
+                    <div id="autocompleteDropdown" class="autocomplete-dropdown hidden"></div>
+                </div>
+                <div class="search-info">
+                    <p id="resultCount" class="result-count"></p>
+                </div>
+
+                <!-- Tradeshow Quick Filters -->
+                <div id="tradeshowSection" class="tradeshow-section">
+                    <div class="tradeshow-label">Browse by Exhibition:</div>
+                    <div id="tradeshowContainer" class="tradeshow-container">
+                        <!-- Tradeshow chips will be inserted here -->
+                        <div class="loading-chips">Loading exhibitions...</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Results Section -->
+            <div id="resultsSection" class="results-section hidden">
+                <div class="results-header">
+                    <div class="results-title-section">
+                        <h2 class="results-title">Search Results</h2>
+                        <div class="results-subtitle">Click on any company to view details</div>
+                    </div>
+                    <div class="download-buttons">
+                        <button id="downloadCsv" class="download-btn csv-btn">
+                            <span class="btn-icon">📄</span>
+                            <span class="btn-text">CSV</span>
+                        </button>
+                        <button id="downloadExcel" class="download-btn excel-btn">
+                            <span class="btn-icon">📊</span>
+                            <span class="btn-text">Excel</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div id="resultsContainer" class="results-container"></div>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loadingSpinner" class="loading-spinner hidden">
+                <div class="spinner-container">
+                    <div class="spinner"></div>
+                    <div class="spinner-glow"></div>
+                </div>
+                <p class="loading-text">Searching companies...</p>
+            </div>
+
+            <!-- No Results -->
+            <div id="noResults" class="no-results hidden">
+                <div class="no-results-icon">🔍</div>
+                <h3>No companies found</h3>
+                <p>Try searching with a different term or check your spelling</p>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p class="footer-copyright">© 2026 ExpoDirectory. All rights reserved.</p>
+                <div class="footer-stats">
+                    <span class="footer-stat">🏢 20,000+ Companies</span>
+                    <span class="footer-dot">·</span>
+                    <span class="footer-stat">🌍 11 Exhibitions</span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

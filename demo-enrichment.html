@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Data Enrichment - Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .demo-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+
+        .input-section {
+            margin-bottom: 30px;
+        }
+
+        label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border-color 0.3s;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            width: 100%;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .loading.show {
+            display: block;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .results {
+            display: none;
+            margin-top: 30px;
+        }
+
+        .results.show {
+            display: block;
+        }
+
+        .result-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 8px 8px 0 0;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .result-body {
+            border: 2px solid #667eea;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            padding: 20px;
+        }
+
+        .result-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .result-row:last-child {
+            border-bottom: none;
+        }
+
+        .result-label {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .result-value {
+            color: #333;
+            text-align: right;
+            max-width: 60%;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .badge-real {
+            background: #4caf50;
+            color: white;
+        }
+
+        .badge-estimated {
+            background: #ff9800;
+            color: white;
+        }
+
+        .confidence-bar {
+            background: #e0e0e0;
+            border-radius: 10px;
+            height: 20px;
+            overflow: hidden;
+            margin-top: 5px;
+        }
+
+        .confidence-fill {
+            background: linear-gradient(90deg, #4caf50 0%, #8bc34a 100%);
+            height: 100%;
+            transition: width 1s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .info-box {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+
+        .info-box h3 {
+            color: #1976d2;
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+
+        .info-box p {
+            color: #555;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌐 Real Data Enrichment Demo</h1>
+            <p>Test the new web scraping & public database integration</p>
+        </div>
+
+        <div class="demo-card">
+            <div class="info-box">
+                <h3>How it works</h3>
+                <p>Enter a company name and website. The system will scrape the website for employee count and revenue
+                    data, check LinkedIn, and query government databases. If real data is unavailable, it falls back to
+                    industry benchmark estimates.</p>
+            </div>
+
+            <div class="input-section">
+                <label for="companyName">Company Name</label>
+                <input type="text" id="companyName" placeholder="e.g., Tata Motors" value="Sample Plastics Ltd">
+            </div>
+
+            <div class="input-section">
+                <label for="companyLink">Company Website</label>
+                <input type="url" id="companyLink" placeholder="https://example.com"
+                    value="https://www.sampleplastics.com">
+            </div>
+
+            <button class="btn" onclick="enrichCompany()">
+                🚀 Enrich with Real Data
+            </button>
+
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Fetching real data from multiple sources...</p>
+                <small style="color: #666;">This may take a few seconds</small>
+            </div>
+
+            <div class="results">
+                <div class="result-header">
+                    📊 Enrichment Results
+                </div>
+                <div class="result-body">
+                    <div class="result-row">
+                        <span class="result-label">Company Name:</span>
+                        <span class="result-value" id="resultName">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">Industry:</span>
+                        <span class="result-value" id="resultIndustry">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">HQ Country:</span>
+                        <span class="result-value" id="resultCountry">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">Employees:</span>
+                        <span class="result-value" id="resultEmployees">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">Revenue:</span>
+                        <span class="result-value" id="resultRevenue">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">Operating Income:</span>
+                        <span class="result-value" id="resultOpIncome">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">EBITDA:</span>
+                        <span class="result-value" id="resultEbitda">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">Data Source:</span>
+                        <span class="result-value" id="resultSource">-</span>
+                    </div>
+                    <div class="result-row">
+                        <span class="result-label">Confidence:</span>
+                        <span class="result-value">
+                            <div class="confidence-bar">
+                                <div class="confidence-fill" id="confidenceBar" style="width: 0%">0%</div>
+                            </div>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function enrichCompany() {
+            const companyName = document.getElementById('companyName').value;
+            const companyLink = document.getElementById('companyLink').value;
+
+            if (!companyName || !companyLink) {
+                alert('Please fill in both fields');
+                return;
+            }
+
+            // Show loading
+            document.querySelector('.btn').disabled = true;
+            document.querySelector('.loading').classList.add('show');
+            document.querySelector('.results').classList.remove('show');
+
+            try {
+                const response = await fetch('/api/enrich-real-data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        companies: [{
+                            companyName: companyName,
+                            companyLink: companyLink,
+                            source: 'Demo Test',
+                            profile: 'Test company for enrichment demo'
+                        }]
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.success && data.companies.length > 0) {
+                    const company = data.companies[0];
+                    displayResults(company);
+                } else {
+                    alert('Error enriching company');
+                }
+            } catch (error) {
+                alert('Error: ' + error.message);
+            } finally {
+                document.querySelector('.btn').disabled = false;
+                document.querySelector('.loading').classList.remove('show');
+            }
+        }
+
+        function displayResults(company) {
+            document.getElementById('resultName').textContent = company.companyName;
+            document.getElementById('resultIndustry').textContent = company.industry;
+            document.getElementById('resultCountry').textContent = company.hqCountry;
+            document.getElementById('resultEmployees').textContent = company.employees;
+            document.getElementById('resultRevenue').textContent = company.revenue;
+            document.getElementById('resultOpIncome').textContent = company.operatingIncome;
+            document.getElementById('resultEbitda').textContent = company.ebitda;
+
+            // Data source badge
+            const sourceEl = document.getElementById('resultSource');
+            const isReal = company.dataSource !== 'estimated';
+            const badgeClass = isReal ? 'badge-real' : 'badge-estimated';
+            sourceEl.innerHTML = `<span class="badge ${badgeClass}">${company.dataSource}</span>`;
+
+            // Confidence bar
+            const confidenceBar = document.getElementById('confidenceBar');
+            setTimeout(() => {
+                confidenceBar.style.width = company.dataConfidence + '%';
+                confidenceBar.textContent = company.dataConfidence + '%';
+            }, 100);
+
+            document.querySelector('.results').classList.add('show');
+        }
+    </script>
+</body>
+
+</html>

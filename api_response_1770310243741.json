@@ -1,0 +1,38 @@
+[
+  {
+    "CompanyId": 1013172,
+    "ProductId": 13273,
+    "CompanyName": "Bodycote Waermebehandlung GmbH",
+    "ProductName": "HIP Product Fabrication & Hot Isostatic Pressing",
+    "PhotoFileName": "https://cdn.adsalecdn.com/EMP/Backend/Upload/Image/1013172_20240110201852836.png",
+    "OrderId": 1,
+    "TechAreaId": 0,
+    "TechArea": "",
+    "DisplayType": "Product",
+    "EndProductId": 0
+  },
+  {
+    "CompanyId": 1032542,
+    "ProductId": 10820,
+    "CompanyName": "LUOHE XINWANG CHEMICAL CO., LTD.",
+    "ProductName": "Nucleating agent NA-50",
+    "PhotoFileName": "https://cdn.adsalecdn.com/onlineExhibitorDatabase/EMP/286292/286292_1_230207102637.jpg",
+    "OrderId": 2,
+    "TechAreaId": 0,
+    "TechArea": "",
+    "DisplayType": "Product",
+    "EndProductId": 0
+  },
+  {
+    "CompanyId": 1017661,
+    "ProductId": 9570,
+    "CompanyName": "FARREL POMINI",
+    "ProductName": "FCM™, Farrel Continuous Mixer",
+    "PhotoFileName": "https://cdn.adsalecdn.com/onlineExhibitorDatabase/EMP/281969/276386_1_220216041003.jpg",
+    "OrderId": 3,
+    "TechAreaId": 0,
+    "TechArea": "",
+    "DisplayType": "Product",
+    "EndProductId": 0
+  }
+]

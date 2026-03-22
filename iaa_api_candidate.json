@@ -1,0 +1,3027 @@
+{
+  "count": 1473,
+  "entities": [
+    {
+      "id": "3809951",
+      "orderkey": "#3ntr",
+      "initials": "3",
+      "name": "3ntr",
+      "country": "Italy",
+      "city": "Oleggio",
+      "postCode": "28047",
+      "basisPremium": "BASIC",
+      "teaser": "Built to be robust and reliable, 3ntr printers can operate continuously 24/7, offering users complete freedom to control and manage every project with confidence.",
+      "stands": [
+        {
+          "standNr": "12__B60",
+          "standName": "hall 12 | B60",
+          "standNameShort": "B60",
+          "displayName": "hall 12 | B60",
+          "hallNr": "12",
+          "hallName": "hall 12"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "2795542c0af8637f322052ad426d0ceff68c822ee52bcfdb4f65275377bf447b",
+          "firstName": "Andrea",
+          "lastName": "Barone",
+          "position": "Marketing Manager",
+          "organization": "3ntr",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Artificial_Intelligence",
+          "key": "Artificial_Intelligence",
+          "orderkey": "012",
+          "orderkeyDe": "012",
+          "name": "Artificial Intelligence",
+          "nameDe": "Künstliche Intelligenz"
+        },
+        {
+          "id": "Produktgruppen_12",
+          "key": "Produktgruppen_12",
+          "orderkey": "00000012",
+          "orderkeyDe": "00000012",
+          "name": "Digital infrastructure products and services (telecommunications, IT-Consulting, IT-Services, software, hardware, cloud servi...",
+          "nameDe": "Digitale Infrastrukturprodukte und -Dienstleistungen (Telekommunikation, IT-Consulting, IT-Services, Software, Hardware, Clou..."
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_12.42",
+          "key": "Produktgruppen_12.42",
+          "orderkey": "00000012.00000042",
+          "orderkeyDe": "00000012.00000042",
+          "name": "Software / management system",
+          "nameDe": "Software / Management Systeme"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809469",
+      "orderkey": "#3rtablet",
+      "initials": "3",
+      "name": "3Rtablet",
+      "country": "China",
+      "city": "Zhangzhou",
+      "postCode": "363005",
+      "basisPremium": "BASIC",
+      "teaser": "3Rtablet is a highly experienced electronics manufacturer with a remarkable track record spanning over 30 years. We specialize in developing and producing a diverse range of cutting-edge products. Our offerings include Rugged Vehicle-mounted Tablets and Telematics Boxes that are specifically design…",
+      "stands": [
+        {
+          "standNr": "13__B43",
+          "standName": "hall 13 | B43",
+          "standNameShort": "B43",
+          "displayName": "hall 13 | B43",
+          "hallNr": "13",
+          "hallName": "hall 13"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "68a58aac4afbedec0754ac8ca11b3598538f2b7c3a58fc73f63517adb0950941",
+          "firstName": "Jessie",
+          "lastName": "Lin",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_12",
+          "key": "Produktgruppen_12",
+          "orderkey": "00000012",
+          "orderkeyDe": "00000012",
+          "name": "Digital infrastructure products and services (telecommunications, IT-Consulting, IT-Services, software, hardware, cloud servi...",
+          "nameDe": "Digitale Infrastrukturprodukte und -Dienstleistungen (Telekommunikation, IT-Consulting, IT-Services, Software, Hardware, Clou..."
+        },
+        {
+          "id": "Produktgruppen_12.7",
+          "key": "Produktgruppen_12.7",
+          "orderkey": "00000012.00000007",
+          "orderkeyDe": "00000012.00000007",
+          "name": "Data communication",
+          "nameDe": "Datenkommunikation"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_12.48",
+          "key": "Produktgruppen_12.48",
+          "orderkey": "00000012.00000048",
+          "orderkeyDe": "00000012.00000048",
+          "name": "Telematic and Telecommunication",
+          "nameDe": "Telematik und Telekommunikation"
+        },
+        {
+          "id": "Artificial_Intelligence",
+          "key": "Artificial_Intelligence",
+          "orderkey": "012",
+          "orderkeyDe": "012",
+          "name": "Artificial Intelligence",
+          "nameDe": "Künstliche Intelligenz"
+        },
+        {
+          "id": "Produktgruppen_12.28",
+          "key": "Produktgruppen_12.28",
+          "orderkey": "00000012.00000028",
+          "orderkeyDe": "00000012.00000028",
+          "name": "Mobile communication systems",
+          "nameDe": "Mobilfunkgeräte"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3714861",
+      "orderkey": "#a&k fahrzeugteile heidenau",
+      "initials": "A",
+      "name": "A&K Fahrzeugteile Heidenau",
+      "country": "Germany",
+      "city": "Heidenau",
+      "postCode": "01809",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "22__A02",
+          "standName": "hall 22 | A02",
+          "standNameShort": "A02",
+          "displayName": "hall 22 | A02",
+          "hallNr": "22",
+          "hallName": "hall 22"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "eb0a2724862c4520dff8d179571b408ea6da2f449a32c6230efd010284d9af02",
+          "firstName": "Franz",
+          "lastName": "Andrich",
+          "position": "Geschäftsführer",
+          "organization": "A&K Fahrzeugteile Heidenau GmbH",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/4f314a384eaaf14a90c77511cef1236f",
+          "categories": []
+        },
+        {
+          "id": "340d9d8a1e7a2a121a95182b7b89497822b2953e23222c294d6f612780c61b7c",
+          "firstName": "Ralf",
+          "lastName": "Andrich",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "SN",
+          "key": "SN",
+          "orderkey": "Saxony",
+          "orderkeyDe": "Sachsen",
+          "name": "Saxony",
+          "nameDe": "Sachsen"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        },
+        {
+          "id": "Produktgruppen_3",
+          "key": "Produktgruppen_3",
+          "orderkey": "00000003",
+          "orderkeyDe": "00000003",
+          "name": "Buses/Minibuses",
+          "nameDe": "Omnibusse/Minibusse"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_3.5",
+          "key": "Produktgruppen_3.5",
+          "orderkey": "00000003.00000005",
+          "orderkeyDe": "00000003.00000005",
+          "name": "Buses",
+          "nameDe": "Omnibusse"
+        },
+        {
+          "id": "Bus",
+          "key": "Bus",
+          "orderkey": "003",
+          "orderkeyDe": "003",
+          "name": "Bus",
+          "nameDe": "Bus"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3504301",
+      "orderkey": "#aber",
+      "initials": "A",
+      "name": "ABER",
+      "country": "Portugal",
+      "city": "Vila Nova da Telha",
+      "postCode": "4470-410",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "22__B42",
+          "standName": "hall 22 | B42",
+          "standNameShort": "B42",
+          "displayName": "hall 22 | B42",
+          "hallNr": "22",
+          "hallName": "hall 22"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "146bf2570434c9e6a09600fd2c68e15e16c00ef9380e6c1e049d519e32c82074",
+          "firstName": "João",
+          "lastName": "Gonçalves",
+          "position": "Marketing",
+          "organization": "ABER HYDRAULICS",
+          "categories": []
+        },
+        {
+          "id": "f539c45ce14f8b69127a0d2103a96aeb129ecf52a88581e7faaf5b2aabd2bcf0",
+          "firstName": "Cameirão",
+          "lastName": "Paulo",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_9.11.10",
+          "key": "Produktgruppen_9.11.10",
+          "orderkey": "00000009.00000011.00000010",
+          "orderkeyDe": "00000009.00000011.00000010",
+          "name": "Organizational resources for motor vehicle workshops",
+          "nameDe": "Organisationsmittel für Kfz-Werkstätten"
+        },
+        {
+          "id": "Produktgruppen_9.11",
+          "key": "Produktgruppen_9.11",
+          "orderkey": "00000009.00000011",
+          "orderkeyDe": "00000009.00000011",
+          "name": "Repair shop installations",
+          "nameDe": "Werkstattausrüstungen"
+        },
+        {
+          "id": "Produktgruppen_6.8",
+          "key": "Produktgruppen_6.8",
+          "orderkey": "00000006.00000008",
+          "orderkeyDe": "00000006.00000008",
+          "name": "Mounting and fixing systems",
+          "nameDe": "Befestigungssysteme"
+        },
+        {
+          "id": "Produktgruppen_6",
+          "key": "Produktgruppen_6",
+          "orderkey": "00000006",
+          "orderkeyDe": "00000006",
+          "name": "Vehicle Interior - Fixtures and Equipment",
+          "nameDe": "Fahrzeugeinrichtungen und -ausstattungen"
+        },
+        {
+          "id": "Vehicle_Equipment___Interior",
+          "key": "Vehicle_Equipment___Interior",
+          "orderkey": "006",
+          "orderkeyDe": "006",
+          "name": "Vehicle Equipment & Interior",
+          "nameDe": "Fahrzeugausstattung & Innenraum"
+        },
+        {
+          "id": "Sustainability",
+          "key": "Sustainability",
+          "orderkey": "009",
+          "orderkeyDe": "009",
+          "name": "Sustainability",
+          "nameDe": "Nachhaltigkeit"
+        },
+        {
+          "id": "Produktgruppen_9",
+          "key": "Produktgruppen_9",
+          "orderkey": "00000009",
+          "orderkeyDe": "00000009",
+          "name": "Servicing, repair and maintenance (repair shop installation)",
+          "nameDe": "Instandsetzung, Pflege und Wartung (Werkstattausrüstung)"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3004653",
+      "orderkey": "#abk kunststoffen",
+      "initials": "A",
+      "name": "ABK Kunststoffen",
+      "country": "Netherlands",
+      "city": "Dodewaard",
+      "postCode": "6669",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "27__A04",
+          "standName": "hall 27 | A04",
+          "standNameShort": "A04",
+          "displayName": "hall 27 | A04",
+          "hallNr": "27",
+          "hallName": "hall 27"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "20e2e9c9f764f065d249595dadfea26457fc0d4cdb47d42f443cf7b35a2df971",
+          "firstName": "Gerrit",
+          "lastName": "van Kleef",
+          "position": "Director",
+          "organization": "Veap Shield United / ABK Kunststoffen",
+          "categories": []
+        },
+        {
+          "id": "10de3a53fe1ef00043c6eccbd837f4bf104ba78e0f7506ee7a122c0374072084",
+          "firstName": "Fritz",
+          "lastName": "Terjung",
+          "position": "Geschäftsführer",
+          "organization": "Hatcher GmbH",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_7.23.19",
+          "key": "Produktgruppen_7.23.19",
+          "orderkey": "00000007.00000023.00000019",
+          "orderkeyDe": "00000007.00000023.00000019",
+          "name": "Plastic parts",
+          "nameDe": "Kunststoffteile"
+        },
+        {
+          "id": "Produktgruppen_7.23.18",
+          "key": "Produktgruppen_7.23.18",
+          "orderkey": "00000007.00000023.00000018",
+          "orderkeyDe": "00000007.00000023.00000018",
+          "name": "Injection-molded plastic parts",
+          "nameDe": "Kunststoff-Spritzgussteile"
+        },
+        {
+          "id": "Produktgruppen_7.23.12",
+          "key": "Produktgruppen_7.23.12",
+          "orderkey": "00000007.00000023.00000012",
+          "orderkeyDe": "00000007.00000023.00000012",
+          "name": "Formed parts, made of rubber and plastics",
+          "nameDe": "Formteile aus Gummi u. Kunststoffen"
+        },
+        {
+          "id": "Produktgruppen_7.23",
+          "key": "Produktgruppen_7.23",
+          "orderkey": "00000007.00000023",
+          "orderkeyDe": "00000007.00000023",
+          "name": "Components made of certain materials",
+          "nameDe": "Teile aus bestimmten Werkstoffen"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3706732",
+      "orderkey": "#abo-magyar",
+      "initials": "A",
+      "name": "abo-Magyar",
+      "country": "Germany",
+      "city": "Harbke",
+      "postCode": "39365",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "25__B26",
+          "standName": "hall 25 | B26",
+          "standNameShort": "B26",
+          "displayName": "hall 25 | B26",
+          "hallNr": "25",
+          "hallName": "hall 25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "b61466d4e8b63be0ba4395ceead48c57bf100c95776e22643f54dfbda2bf7c36",
+          "firstName": "Mehdi",
+          "lastName": "Hakkar",
+          "position": "Department head / Group head",
+          "organization": "G. MAGYAR",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7.22",
+          "key": "Produktgruppen_7.22",
+          "orderkey": "00000007.00000022",
+          "orderkeyDe": "00000007.00000022",
+          "name": "Miscellaneous components",
+          "nameDe": "Sonstige Teile"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_7.22.8",
+          "key": "Produktgruppen_7.22.8",
+          "orderkey": "00000007.00000022.00000008",
+          "orderkeyDe": "00000007.00000022.00000008",
+          "name": "Bearings",
+          "nameDe": "Lager"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_7.24.18",
+          "key": "Produktgruppen_7.24.18",
+          "orderkey": "00000007.00000024.00000018",
+          "orderkeyDe": "00000007.00000024.00000018",
+          "name": "Body sheet-metal parts",
+          "nameDe": "Karosserie-Blechteile"
+        },
+        {
+          "id": "Produktgruppen_7.24",
+          "key": "Produktgruppen_7.24",
+          "orderkey": "00000007.00000024",
+          "orderkeyDe": "00000007.00000024",
+          "name": "Semi-finished products",
+          "nameDe": "Halbfertigprodukte"
+        },
+        {
+          "id": "ST",
+          "key": "ST",
+          "orderkey": "Saxony-Anhalt",
+          "orderkeyDe": "Sachsen-Anhalt",
+          "name": "Saxony-Anhalt",
+          "nameDe": "Sachsen-Anhalt"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7.24.9",
+          "key": "Produktgruppen_7.24.9",
+          "orderkey": "00000007.00000024.00000009",
+          "orderkeyDe": "00000007.00000024.00000009",
+          "name": "Precision-stamped metal parts",
+          "nameDe": "Feinstanzteile"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809475",
+      "orderkey": "#abona",
+      "initials": "A",
+      "name": "Abona",
+      "country": "Germany",
+      "city": "Bruchsal",
+      "postCode": "76646",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "25__E61",
+          "standName": "hall 25 | E61",
+          "standNameShort": "E61",
+          "displayName": "hall 25 | E61",
+          "hallNr": "25",
+          "hallName": "hall 25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "abc30f33e4dbdbcab6e298901912dda4d400482ec4e8fa0a35b556636db77694",
+          "firstName": "Mustafa",
+          "lastName": "Demirtokat",
+          "position": "Key Account Manager",
+          "organization": "Abona Deutschland GmbH",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Artificial_Intelligence",
+          "key": "Artificial_Intelligence",
+          "orderkey": "012",
+          "orderkeyDe": "012",
+          "name": "Artificial Intelligence",
+          "nameDe": "Künstliche Intelligenz"
+        },
+        {
+          "id": "BW",
+          "key": "BW",
+          "orderkey": "Baden-Württemberg",
+          "orderkeyDe": "Baden-Württemberg",
+          "name": "Baden-Württemberg",
+          "nameDe": "Baden-Württemberg"
+        },
+        {
+          "id": "Produktgruppen_12",
+          "key": "Produktgruppen_12",
+          "orderkey": "00000012",
+          "orderkeyDe": "00000012",
+          "name": "Digital infrastructure products and services (telecommunications, IT-Consulting, IT-Services, software, hardware, cloud servi...",
+          "nameDe": "Digitale Infrastrukturprodukte und -Dienstleistungen (Telekommunikation, IT-Consulting, IT-Services, Software, Hardware, Clou..."
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        },
+        {
+          "id": "Produktgruppen_12.42",
+          "key": "Produktgruppen_12.42",
+          "orderkey": "00000012.00000042",
+          "orderkeyDe": "00000012.00000042",
+          "name": "Software / management system",
+          "nameDe": "Software / Management Systeme"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_12.22",
+          "key": "Produktgruppen_12.22",
+          "orderkey": "00000012.00000022",
+          "orderkeyDe": "00000012.00000022",
+          "name": "IT- and webbased services",
+          "nameDe": "IT- und internetspezifische Leistungen"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3804418",
+      "orderkey": "#accuride wheels solingen",
+      "initials": "A",
+      "name": "Accuride Wheels Solingen",
+      "country": "Germany",
+      "city": "Solingen",
+      "postCode": "42697",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/a163c5ab-1988-4719-a8b7-829a9cbe1a25-f6ef9658-4c86-4ea8-9a3d-75e47a01a7a9",
+      "teaser": "Accuride Wheels Europe & Asia with headquarters in Solingen, Germany, is part of the Accuride Corporation, a leading manufacturer and supplier of wheels and wheel-end components to the global commercial vehicle markets. Accuride Wheels Europe & Asia produces high quality steel wheels for the Europe…",
+      "stands": [
+        {
+          "standNr": "26__E45",
+          "standName": "hall 26 | E45",
+          "standNameShort": "E45",
+          "displayName": "hall 26 | E45",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "0c3c170541c9963a6286214d24fe0b58f8190e3cb6281d3fe076e96773d43c33",
+          "firstName": "Frank",
+          "lastName": "Arnold",
+          "position": "Sales Director",
+          "organization": "Accuride",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/bbf9992874c042de911822af6b5aa437",
+          "categories": []
+        },
+        {
+          "id": "2db468c07e1cf0b433e2d25a1f92f020cf23872b9f3259001a4f292d8ec5aec7",
+          "firstName": "Sebastian",
+          "lastName": "Bednarz",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_7.5.20",
+          "key": "Produktgruppen_7.5.20",
+          "orderkey": "00000007.00000005.00000020",
+          "orderkeyDe": "00000007.00000005.00000020",
+          "name": "Wheels",
+          "nameDe": "Räder"
+        },
+        {
+          "id": "Produktgruppen_7.5.21",
+          "key": "Produktgruppen_7.5.21",
+          "orderkey": "00000007.00000005.00000021",
+          "orderkeyDe": "00000007.00000005.00000021",
+          "name": "Wheels for trucks",
+          "nameDe": "Räder für Lkw"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "NW",
+          "key": "NW",
+          "orderkey": "North Rhine-Westphalia",
+          "orderkeyDe": "Nordrhein-Westfalen",
+          "name": "North Rhine-Westphalia",
+          "nameDe": "Nordrhein-Westfalen"
+        },
+        {
+          "id": "Produktgruppen_7.5",
+          "key": "Produktgruppen_7.5",
+          "orderkey": "00000007.00000005",
+          "orderkeyDe": "00000007.00000005",
+          "name": "Chassis components",
+          "nameDe": "Fahrwerksteile"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3810014",
+      "orderkey": "#acerbis italia",
+      "initials": "A",
+      "name": "ACERBIS ITALIA",
+      "country": "Italy",
+      "city": "Albino (BG)",
+      "postCode": "24021",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "26__C52",
+          "standName": "hall 26 | C52",
+          "standNameShort": "C52",
+          "displayName": "hall 26 | C52",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "9cc0d1dec270414bc937a2a833193ca6c5bc6d2e0cb53f195b311c79120a62db",
+          "firstName": "Ilaria",
+          "lastName": "Perico",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_7.8",
+          "key": "Produktgruppen_7.8",
+          "orderkey": "00000007.00000008",
+          "orderkeyDe": "00000007.00000008",
+          "name": "Springs and shock absorbers",
+          "nameDe": "Federung und Schwingungsdämpfung"
+        },
+        {
+          "id": "Produktgruppen_9.11",
+          "key": "Produktgruppen_9.11",
+          "orderkey": "00000009.00000011",
+          "orderkeyDe": "00000009.00000011",
+          "name": "Repair shop installations",
+          "nameDe": "Werkstattausrüstungen"
+        },
+        {
+          "id": "Produktgruppen_7.8.26",
+          "key": "Produktgruppen_7.8.26",
+          "orderkey": "00000007.00000008.00000026",
+          "orderkeyDe": "00000007.00000008.00000026",
+          "name": "Protective bellows for shock absorbers",
+          "nameDe": "Schutzbälge f. Stoßdämpfer"
+        },
+        {
+          "id": "Produktgruppen_9.11.17",
+          "key": "Produktgruppen_9.11.17",
+          "orderkey": "00000009.00000011.00000017",
+          "orderkeyDe": "00000009.00000011.00000017",
+          "name": "Protective clothing",
+          "nameDe": "Schutzkleidung"
+        },
+        {
+          "id": "Produktgruppen_9",
+          "key": "Produktgruppen_9",
+          "orderkey": "00000009",
+          "orderkeyDe": "00000009",
+          "name": "Servicing, repair and maintenance (repair shop installation)",
+          "nameDe": "Instandsetzung, Pflege und Wartung (Werkstattausrüstung)"
+        },
+        {
+          "id": "Sustainability",
+          "key": "Sustainability",
+          "orderkey": "009",
+          "orderkeyDe": "009",
+          "name": "Sustainability",
+          "nameDe": "Nachhaltigkeit"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3810215",
+      "orderkey": "#aci - air center international gmbh",
+      "initials": "A",
+      "name": "ACI - Air Center International GmbH",
+      "country": "Germany",
+      "city": "Oberhausen",
+      "postCode": "86697",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "23__A22",
+          "standName": "hall 23 | A22",
+          "standNameShort": "A22",
+          "displayName": "hall 23 | A22",
+          "hallNr": "23",
+          "hallName": "hall 23"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "395c3a73eddee61e1b66f98b8891bb0f8e4b77cde18919a43883c340f6396354",
+          "firstName": "Craig",
+          "lastName": "Luo",
+          "position": "Assistant Project Director",
+          "organization": "Hannover Milano Fairs Shanghai Ltd",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "NW",
+          "key": "NW",
+          "orderkey": "North Rhine-Westphalia",
+          "orderkeyDe": "Nordrhein-Westfalen",
+          "name": "North Rhine-Westphalia",
+          "nameDe": "Nordrhein-Westfalen"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3802893",
+      "orderkey": "#aci industrie",
+      "initials": "A",
+      "name": "ACI INDUSTRIE",
+      "country": "France",
+      "city": "Lyon 3EME",
+      "postCode": "69003",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/bbd03085-63ec-4a8e-8e0c-ebdebb0d0943-498959e8-3bf2-4a15-95f7-5623be44b6f0",
+      "backgroundImageURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/60346755-fa33-46a7-8794-ec9cb405f610-477e598e-e58c-4345-a3f4-8a4901741f6b",
+      "teaser": "LIGHTING / CAMERA / VENTILATORS\n\nACI keeps you safe & comfortable on the road. We're leaders in:\n\nCamera Systems: 360° views, AI pedestrian detection & more!\nVentilation: Breathe easy with our innovative roof vents & fans.\nElectrical Accessories: Lights, cables & everything your truck",
+      "stands": [
+        {
+          "standNr": "13__D27",
+          "standName": "hall 13 | D27",
+          "standNameShort": "D27",
+          "displayName": "hall 13 | D27",
+          "hallNr": "13",
+          "hallName": "hall 13"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "12e8186c023b31e5e1f2db058251fec37bd8ffab69c3e4d87144e81f8b91b9c1",
+          "firstName": "BASTIEN",
+          "lastName": "cherou",
+          "position": "GM",
+          "organization": "aci industrie sas",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/e08980035862ab37f6beb2c6e38f02e7",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_6.46",
+          "key": "Produktgruppen_6.46",
+          "orderkey": "00000006.00000046",
+          "orderkeyDe": "00000006.00000046",
+          "name": "Air vents for commercial vehicles",
+          "nameDe": "Luftdüsen für Nutzfahrzeuge"
+        },
+        {
+          "id": "Produktgruppen_7.13",
+          "key": "Produktgruppen_7.13",
+          "orderkey": "00000007.00000013",
+          "orderkeyDe": "00000007.00000013",
+          "name": "Bodywork components and equipment",
+          "nameDe": "Aufbautenteile und -ausrüstungen"
+        },
+        {
+          "id": "Vehicle_Equipment___Interior",
+          "key": "Vehicle_Equipment___Interior",
+          "orderkey": "006",
+          "orderkeyDe": "006",
+          "name": "Vehicle Equipment & Interior",
+          "nameDe": "Fahrzeugausstattung & Innenraum"
+        },
+        {
+          "id": "Produktgruppen_7.13.81",
+          "key": "Produktgruppen_7.13.81",
+          "orderkey": "00000007.00000013.00000081",
+          "orderkeyDe": "00000007.00000013.00000081",
+          "name": "Camera systems",
+          "nameDe": "Kamerasysteme"
+        },
+        {
+          "id": "Produktgruppen_6",
+          "key": "Produktgruppen_6",
+          "orderkey": "00000006",
+          "orderkeyDe": "00000006",
+          "name": "Vehicle Interior - Fixtures and Equipment",
+          "nameDe": "Fahrzeugeinrichtungen und -ausstattungen"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_6.10",
+          "key": "Produktgruppen_6.10",
+          "orderkey": "00000006.00000010",
+          "orderkeyDe": "00000006.00000010",
+          "name": "Lighting",
+          "nameDe": "Beleuchtung"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3710655",
+      "orderkey": "#ackermann",
+      "initials": "A",
+      "name": "Ackermann",
+      "country": "Germany",
+      "city": "Memmingen",
+      "postCode": "87700",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "F__S43",
+          "standName": "Open-Air Section | S43",
+          "standNameShort": "S43",
+          "displayName": "Open-Air Section | S43",
+          "hallNr": "F",
+          "hallName": "Open-Air Section"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "9609575fc8a3a6fed84fdcdf6b0eed101f7e581e7a3617b1ae51936cce35b159",
+          "firstName": "Emanuel",
+          "lastName": "Ackermann",
+          "organization": "Ackermann GmbH",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "BY",
+          "key": "BY",
+          "orderkey": "Bavaria",
+          "orderkeyDe": "Bayern",
+          "name": "Bavaria",
+          "nameDe": "Bayern"
+        },
+        {
+          "id": "Produktgruppen_5.52",
+          "key": "Produktgruppen_5.52",
+          "orderkey": "00000005.00000052",
+          "orderkeyDe": "00000005.00000052",
+          "name": "Van bodies",
+          "nameDe": "Kofferfahrzeuge/ -aufbauten"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        },
+        {
+          "id": "Produktgruppen_5.9",
+          "key": "Produktgruppen_5.9",
+          "orderkey": "00000005.00000009",
+          "orderkeyDe": "00000005.00000009",
+          "name": "Body structures, general",
+          "nameDe": "Aufbauten, allgemein"
+        },
+        {
+          "id": "Trailers___Bodies",
+          "key": "Trailers___Bodies",
+          "orderkey": "005",
+          "orderkeyDe": "005",
+          "name": "Trailers & Bodies",
+          "nameDe": "Anhänger & Aufbauten"
+        },
+        {
+          "id": "Produktgruppen_5",
+          "key": "Produktgruppen_5",
+          "orderkey": "00000005",
+          "orderkeyDe": "00000005",
+          "name": "Trailers, bodies and containers for vehicles and Systems from groups 1-4",
+          "nameDe": "Anhänger, Aufbauten und Behälter für Fahrzeuge und Systeme der Gruppen 1-4"
+        },
+        {
+          "id": "Produktgruppen_5.12",
+          "key": "Produktgruppen_5.12",
+          "orderkey": "00000005.00000012",
+          "orderkeyDe": "00000005.00000012",
+          "name": "Transportation vehicles/body structures for cars",
+          "nameDe": "Autotransportfahrzeuge/ -aufbauten"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3404063",
+      "orderkey": "#actia",
+      "initials": "A",
+      "name": "ACTIA",
+      "country": "France",
+      "city": "Toulouse",
+      "postCode": "31432",
+      "basisPremium": "PREMIUM",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/39ac32ba-bcbe-48aa-8d17-5f593364b0ce-fa38bb8e-9d07-4c63-8d44-3894b1668950",
+      "teaser": "The on-board electronics & services for a connected, safe and sustain ground mobility\n\nSince it was founded in 1986, ACTIA’s R&D centers and electronics manufacturing plants have been developed and produced on-board electronic equipment and systems to address the challenges of ground mobility in ve…",
+      "stands": [
+        {
+          "standNr": "12__B72",
+          "standName": "hall 12 | B72",
+          "standNameShort": "B72",
+          "displayName": "hall 12 | B72",
+          "hallNr": "12",
+          "hallName": "hall 12"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "e994a04a-c2cd-411d-9a65-af25819dd120",
+          "firstName": "Rasmus",
+          "lastName": "ENELING",
+          "position": "CTO ACTIA Nordic",
+          "organization": "ACTIA Nordic AB",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/c5346dbe9931d012fe877a03e7205d89",
+          "categories": []
+        },
+        {
+          "id": "1e89a570-d8e8-4fd5-be1e-9d6761fbcbf2",
+          "firstName": "Petter",
+          "lastName": "NELSON",
+          "position": "sales",
+          "organization": "ACTIA Nordic",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/0bcdcfa8bad6c9ce43889d6a4c138ed5",
+          "categories": []
+        },
+        {
+          "id": "84245982-7636-4080-8c5f-64d8323ff583",
+          "firstName": "Fred",
+          "lastName": "BLUME",
+          "position": "Abteilungsleiter",
+          "organization": "ACTIA",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/82e9d2bd18bd85e90650c021e4d64953",
+          "categories": []
+        },
+        {
+          "id": "845b17c4-1f3c-4c87-bb84-5293edb4984e",
+          "firstName": "Flavien",
+          "lastName": "RACAUD",
+          "position": "Sales manager",
+          "organization": "ACTIA",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/22c4c6dbbe8ca42bf3f8ccd8a6c715d5",
+          "categories": []
+        },
+        {
+          "id": "8f1d875c-a51a-46c6-aa40-333c4d8c6cdc",
+          "firstName": "Xavier",
+          "lastName": "ESPAGNE",
+          "position": "System Solutions",
+          "organization": "ACTIA Automotive",
+          "categories": []
+        },
+        {
+          "id": "b7348ba1-b211-4f6a-b64c-f47c2cdaa564",
+          "firstName": "Frank",
+          "lastName": "Bremeier",
+          "position": "Marketing Manager",
+          "organization": "ACTIA IME GmbH",
+          "categories": []
+        },
+        {
+          "id": "dfdd8dd6-ea3e-440b-aa64-7cae1f7e9e8b",
+          "firstName": "Matthias",
+          "lastName": "MEINEL",
+          "position": "Senior Sales Manager",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "2405b6b3-0127-4817-beb4-5b9c749616a1",
+          "firstName": "Monique",
+          "lastName": "TARKALA",
+          "position": "ACCOUNT MANAGER",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "7ee46db4-ac77-41d3-a9c1-c81d15a959ee",
+          "firstName": "Damien",
+          "lastName": "LACAGE",
+          "position": "Key account manager",
+          "categories": []
+        },
+        {
+          "id": "37a2c42c-4252-4811-8106-80bea73be1b8",
+          "firstName": "Petra",
+          "lastName": "SABAIS",
+          "position": "Keyaccount Manager CCTV",
+          "organization": "ACTIA IME GmbH",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/40c0ad39643a7c6d8737c74ed914013f",
+          "categories": []
+        },
+        {
+          "id": "80d1dd0f-60ce-467c-a662-7d18cd00728e",
+          "firstName": "Franck",
+          "lastName": "SIEGEL",
+          "position": "CEO ACTIA AUTOMOTIVE",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "ebcffb0f-d650-4932-b40c-1777a340bda7",
+          "firstName": "Marcus",
+          "lastName": "ZOLLER",
+          "position": "Key Account und Business Development Manager",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "afb13053-7afc-411f-a9b5-0c0e5e70664d",
+          "firstName": "Laura",
+          "lastName": "HAMMAN",
+          "position": "Key Account Manager",
+          "organization": "ACTIA",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/bfb2e106418e30da73fe78729cd539ac",
+          "categories": []
+        },
+        {
+          "id": "eb8800fe-6efa-4943-a803-57fa67416d44",
+          "firstName": "Tim",
+          "lastName": "WALDMANN",
+          "position": "Key Account Manager",
+          "organization": "ACTIA",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/3ea77f9745023d817fb3f2b7f24bdd47",
+          "categories": []
+        },
+        {
+          "id": "3d6eb25c-148a-4e99-bc72-a4a2eb5ced3b",
+          "firstName": "Jürgen",
+          "lastName": "Hartig",
+          "position": "Businessman/Partner/Proprietor/Freelancer",
+          "organization": "Actia IME GmbH",
+          "categories": []
+        },
+        {
+          "id": "c9539bb8-71a5-4031-92a3-99ed6431e8a6",
+          "firstName": "Henning",
+          "lastName": "POHL",
+          "organization": "ACTIA Automotive Site de Pouvourville",
+          "categories": []
+        },
+        {
+          "id": "9a1762ad-47ad-4107-b9c8-8d170ae0d848",
+          "firstName": "Pascal",
+          "lastName": "PERHIRIN",
+          "position": "Off Highway MArket Manger",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "acd8c07cf13bd9a08f01d4db51dcf4cb01bb8e012ce28c75eebf51327f7d5289",
+          "firstName": "Vaiana",
+          "lastName": "Krieger",
+          "position": "Communication Officer",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "8aecc10e-b8ff-4157-8fe8-a768521f7156",
+          "firstName": "Catherine",
+          "lastName": "LEDEUIL",
+          "position": "Marketing & Sales",
+          "organization": "ACTIA",
+          "categories": []
+        },
+        {
+          "id": "54e93746-5859-40d6-ae6f-0a63575afffc",
+          "firstName": "Kévin",
+          "lastName": "ALONSO",
+          "position": "Sales Manager",
+          "organization": "ACTIA",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/2270467c9ed5cba2bc7ade09bb2f3d81",
+          "categories": []
+        },
+        {
+          "id": "5d326ef0-3d2e-4d7c-959a-4e0612140b2a",
+          "firstName": "Fabien",
+          "lastName": "TRINITE",
+          "position": "Head of Automation ECU",
+          "organization": "ACTIA Automotive",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_15",
+          "key": "Produktgruppen_15",
+          "orderkey": "00000015",
+          "orderkeyDe": "00000015",
+          "name": "Engineering services (construction, vehicle development, testing, type approval, quality management)",
+          "nameDe": "Entwicklungsdienstleistungen (Konstruktion, Fahrzeugentwicklung, Prüfung, Genehmigung, Qualitätssicherung)"
+        },
+        {
+          "id": "Produktgruppen_12",
+          "key": "Produktgruppen_12",
+          "orderkey": "00000012",
+          "orderkeyDe": "00000012",
+          "name": "Digital infrastructure products and services (telecommunications, IT-Consulting, IT-Services, software, hardware, cloud servi...",
+          "nameDe": "Digitale Infrastrukturprodukte und -Dienstleistungen (Telekommunikation, IT-Consulting, IT-Services, Software, Hardware, Clou..."
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Artificial_Intelligence",
+          "key": "Artificial_Intelligence",
+          "orderkey": "012",
+          "orderkeyDe": "012",
+          "name": "Artificial Intelligence",
+          "nameDe": "Künstliche Intelligenz"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Driving_Safety",
+          "key": "Driving_Safety",
+          "orderkey": "015",
+          "orderkeyDe": "015",
+          "name": "Driving Safety",
+          "nameDe": "Fahrsicherheit"
+        }
+      ],
+      "eventdates": [
+        {
+          "id": "b6bad3a9-22af-415d-8617-7f3d875242dc"
+        }
+      ],
+      "entityType": "organization"
+    },
+    {
+      "id": "3001289",
+      "orderkey": "#actuall",
+      "initials": "A",
+      "name": "Actuall",
+      "country": "Germany",
+      "city": "Emmerich am Rhein",
+      "postCode": "46446",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/4c66ae8d-bf7a-4f37-a657-5a4cd8323dd7-b7dffac3-d4c1-42e3-b4ee-a6eccc452593",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "26__A45",
+          "standName": "hall 26 | A45",
+          "standNameShort": "A45",
+          "displayName": "hall 26 | A45",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "d9cb1f1698355a2f545b39fe0f9f7838a631ae7c4e7992aa0789d9696a37a648",
+          "firstName": "Ron",
+          "lastName": "Houtveen",
+          "organization": "Actuall Deutschland GmbH",
+          "categories": []
+        },
+        {
+          "id": "347928cd1ec73325501302fc17dec2c3081a6d0085170bd74634ea41234dee9a",
+          "firstName": "Rik",
+          "lastName": "Broekmaat",
+          "position": "Product Ambassador",
+          "organization": "Actuall",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "NW",
+          "key": "NW",
+          "orderkey": "North Rhine-Westphalia",
+          "orderkeyDe": "Nordrhein-Westfalen",
+          "name": "North Rhine-Westphalia",
+          "nameDe": "Nordrhein-Westfalen"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7.13.156",
+          "key": "Produktgruppen_7.13.156",
+          "orderkey": "00000007.00000013.00000156",
+          "orderkeyDe": "00000007.00000013.00000156",
+          "name": "Doors",
+          "nameDe": "Türen"
+        },
+        {
+          "id": "Produktgruppen_7.13",
+          "key": "Produktgruppen_7.13",
+          "orderkey": "00000007.00000013",
+          "orderkeyDe": "00000007.00000013",
+          "name": "Bodywork components and equipment",
+          "nameDe": "Aufbautenteile und -ausrüstungen"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809804",
+      "orderkey": "#acv suspansiyon sistemleri",
+      "initials": "A",
+      "name": "ACV SÜSPANSIYON SISTEMLERI",
+      "country": "Türkiye",
+      "city": "SELCUKLU - KONYA",
+      "postCode": "42280",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "26__D42",
+          "standName": "hall 26 | D42",
+          "standNameShort": "D42",
+          "displayName": "hall 26 | D42",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "85756a13759a99d0ea543540f8f51d8c5e684e06ee1270d8ae5591244adb8881",
+          "firstName": "Hasan",
+          "lastName": "Özgür",
+          "categories": []
+        },
+        {
+          "id": "50010041de166aa47126674f298b2b5bd2a40c50880307c49d30579519dc93f9",
+          "firstName": "Meltem",
+          "lastName": "Özbek",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_7.8",
+          "key": "Produktgruppen_7.8",
+          "orderkey": "00000007.00000008",
+          "orderkeyDe": "00000007.00000008",
+          "name": "Springs and shock absorbers",
+          "nameDe": "Federung und Schwingungsdämpfung"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_7.10",
+          "key": "Produktgruppen_7.10",
+          "orderkey": "00000007.00000010",
+          "orderkeyDe": "00000007.00000010",
+          "name": "Steering system",
+          "nameDe": "Lenkanlage"
+        },
+        {
+          "id": "Produktgruppen_7.8.20",
+          "key": "Produktgruppen_7.8.20",
+          "orderkey": "00000007.00000008.00000020",
+          "orderkeyDe": "00000007.00000008.00000020",
+          "name": "Air spring bellows",
+          "nameDe": "Luftfederbälge"
+        },
+        {
+          "id": "Produktgruppen_7.10.10",
+          "key": "Produktgruppen_7.10.10",
+          "orderkey": "00000007.00000010.00000010",
+          "orderkeyDe": "00000007.00000010.00000010",
+          "name": "Steering systems",
+          "nameDe": "Lenkungen"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7.8.14",
+          "key": "Produktgruppen_7.8.14",
+          "orderkey": "00000007.00000008.00000014",
+          "orderkeyDe": "00000007.00000008.00000014",
+          "name": "Springs",
+          "nameDe": "Federn"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3804459",
+      "orderkey": "#adaico",
+      "initials": "A",
+      "name": "ADAICO",
+      "country": "Spain",
+      "city": "AMOREBIETA",
+      "postCode": "48340",
+      "basisPremium": "BASIC",
+      "teaser": "SLIDING PILLARS\nSIDE GUARD SYSTEMS ( DPL )\nREAR BUMPERS\nCURTAIN TENSIONERS\nROOF ELEVATION FOR SEMI-TRAILERS\nTOOL BOXES\nTWIST-LOCKS FOR CONTAINER TRANSPORTATION\nDOUBLE-DECK SYSTEMS\nLOAD FASTENING SYSTEMS\nADA SLIDER ( FAST CURTAIN SYSTEM )\nADA LIFTER\nHYDROPNEUMATIC SYSTEMS\nSTEEL AND ALUMINIUM PROFILES",
+      "stands": [
+        {
+          "standNr": "26__C42",
+          "standName": "hall 26 | C42",
+          "standNameShort": "C42",
+          "displayName": "hall 26 | C42",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "dd147b10cbedc2d42e1b255f6004cf7bc19b02499124ca2cf28017b1d0e8ec80",
+          "firstName": "Cristina",
+          "lastName": "Osés",
+          "categories": []
+        },
+        {
+          "id": "e830b3ba0d5dd6727ff163bfa11123a0e49bbaa4f8fdad2510f1f08285872ea6",
+          "firstName": "Antonio",
+          "lastName": "Ballester",
+          "position": "Export Director",
+          "organization": "ADAICO TRUCK & TRAILER S.L.",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7.23",
+          "key": "Produktgruppen_7.23",
+          "orderkey": "00000007.00000023",
+          "orderkeyDe": "00000007.00000023",
+          "name": "Components made of certain materials",
+          "nameDe": "Teile aus bestimmten Werkstoffen"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_7.23.19",
+          "key": "Produktgruppen_7.23.19",
+          "orderkey": "00000007.00000023.00000019",
+          "orderkeyDe": "00000007.00000023.00000019",
+          "name": "Plastic parts",
+          "nameDe": "Kunststoffteile"
+        },
+        {
+          "id": "Produktgruppen_7.23.18",
+          "key": "Produktgruppen_7.23.18",
+          "orderkey": "00000007.00000023.00000018",
+          "orderkeyDe": "00000007.00000023.00000018",
+          "name": "Injection-molded plastic parts",
+          "nameDe": "Kunststoff-Spritzgussteile"
+        },
+        {
+          "id": "Produktgruppen_7.24.18",
+          "key": "Produktgruppen_7.24.18",
+          "orderkey": "00000007.00000024.00000018",
+          "orderkeyDe": "00000007.00000024.00000018",
+          "name": "Body sheet-metal parts",
+          "nameDe": "Karosserie-Blechteile"
+        },
+        {
+          "id": "Produktgruppen_7.24",
+          "key": "Produktgruppen_7.24",
+          "orderkey": "00000007.00000024",
+          "orderkeyDe": "00000007.00000024",
+          "name": "Semi-finished products",
+          "nameDe": "Halbfertigprodukte"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809812",
+      "orderkey": "#adakon treyler",
+      "initials": "A",
+      "name": "ADAKON TREYLER",
+      "country": "Türkiye",
+      "city": "ADANA",
+      "postCode": "01358",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "25__B01",
+          "standName": "hall 25 | B01",
+          "standNameShort": "B01",
+          "displayName": "hall 25 | B01",
+          "hallNr": "25",
+          "hallName": "hall 25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "8ab3376b15150d1c92be199273fb5b76981745fc5b0b4b10e479047650e4c532",
+          "firstName": "Fırat",
+          "lastName": "Yalcın",
+          "position": "Export Sales Authorized",
+          "organization": "Adakon Trailer",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/20adae99b1e683cb8490ab35ab3c0158",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_5.80",
+          "key": "Produktgruppen_5.80",
+          "orderkey": "00000005.00000080",
+          "orderkeyDe": "00000005.00000080",
+          "name": "Platformtrailers",
+          "nameDe": "Pritschenanhänger"
+        },
+        {
+          "id": "Produktgruppen_5",
+          "key": "Produktgruppen_5",
+          "orderkey": "00000005",
+          "orderkeyDe": "00000005",
+          "name": "Trailers, bodies and containers for vehicles and Systems from groups 1-4",
+          "nameDe": "Anhänger, Aufbauten und Behälter für Fahrzeuge und Systeme der Gruppen 1-4"
+        },
+        {
+          "id": "Trailers___Bodies",
+          "key": "Trailers___Bodies",
+          "orderkey": "005",
+          "orderkeyDe": "005",
+          "name": "Trailers & Bodies",
+          "nameDe": "Anhänger & Aufbauten"
+        },
+        {
+          "id": "Produktgruppen_5.22",
+          "key": "Produktgruppen_5.22",
+          "orderkey": "00000005.00000022",
+          "orderkeyDe": "00000005.00000022",
+          "name": "Container transport vehicles",
+          "nameDe": "Container-Transportfahrzeuge"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_5.6",
+          "key": "Produktgruppen_5.6",
+          "orderkey": "00000005.00000006",
+          "orderkeyDe": "00000005.00000006",
+          "name": "Trailers, general",
+          "nameDe": "Anhänger, allgemein"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3804245",
+      "orderkey": "#adasky",
+      "initials": "A",
+      "name": "ADASKY",
+      "country": "Israel",
+      "city": "Yokneam",
+      "postCode": "2069206",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/445d92bc-408d-44e3-b04c-879f9b063386-76ac79e7-01e6-4b62-a430-6de4b32b11dc",
+      "teaser": "Adasky, an 8 year company, well funded,  develops and provides innovative thermal-based ADAS cameras. They enhance existing AEB (Automatic Emergency Brakes) to become PAEB (Pedestrian Automatic Emergency Brakes). The Adasky cameras operate in the LWIR wavelength, allowing them to be totally passive…",
+      "stands": [
+        {
+          "standNr": "12__SA06",
+          "standName": "hall 12 | SA06",
+          "standNameShort": "SA06",
+          "displayName": "hall 12 | SA06",
+          "hallNr": "12",
+          "hallName": "hall 12"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "60171d594f3a6641c3df19aa1d5ff9e63e867797c4109670d84a4829cf606b48",
+          "firstName": "Hendrik",
+          "lastName": "Borgmeier",
+          "position": "Marketing Manager",
+          "organization": "Gentex Corporation",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/4c29e1c5cabb4a3614e18f4b13248958",
+          "categories": []
+        },
+        {
+          "id": "3ba001d033e69695db3c28e09f708730aa5d825150d444701ccfce2125c863f1",
+          "firstName": "Sharon",
+          "lastName": "Fiss",
+          "position": "Director of Sales Engineering",
+          "organization": "Adasky",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/e966a461dcabaaa288f99917f3506b88",
+          "categories": []
+        },
+        {
+          "id": "373b1466ec3262f161caf21c904016d79133068dc773f0a5c255b31ed12b4ad3",
+          "firstName": "Raz",
+          "lastName": "Peleg",
+          "position": "Department head / Group head",
+          "organization": "ADASKY Ltd.",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_14.6",
+          "key": "Produktgruppen_14.6",
+          "orderkey": "00000014.00000006",
+          "orderkeyDe": "00000014.00000006",
+          "name": "Driver Assistant Systems (Advanced)",
+          "nameDe": "Fahrerassistenzsysteme"
+        },
+        {
+          "id": "Produktgruppen_14.6.7",
+          "key": "Produktgruppen_14.6.7",
+          "orderkey": "00000014.00000006.00000007",
+          "orderkeyDe": "00000014.00000006.00000007",
+          "name": "Camera monitor systems",
+          "nameDe": "Kamera Monitor Systeme"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_14.6.10",
+          "key": "Produktgruppen_14.6.10",
+          "orderkey": "00000014.00000006.00000010",
+          "orderkeyDe": "00000014.00000006.00000010",
+          "name": "Emergency brake assistance systems",
+          "nameDe": "Notbremssysteme / Bremsassistenzsysteme"
+        },
+        {
+          "id": "startUp",
+          "key": "startUp",
+          "orderkey": "Startup",
+          "orderkeyDe": "Startup",
+          "badgeName": "Startup",
+          "badgeType": "A",
+          "colorBorder": "#FF5100",
+          "colorFill": "#FF5100",
+          "colorText": "#FFFFFF",
+          "name": "Startup",
+          "nameDe": "Startup"
+        },
+        {
+          "id": "Produktgruppen_14.6.9",
+          "key": "Produktgruppen_14.6.9",
+          "orderkey": "00000014.00000006.00000009",
+          "orderkeyDe": "00000014.00000006.00000009",
+          "name": "Night view assistance systems",
+          "nameDe": "Nachtsichtassistenzsysteme"
+        },
+        {
+          "id": "Autonomous_Driving",
+          "key": "Autonomous_Driving",
+          "orderkey": "014",
+          "orderkeyDe": "014",
+          "name": "Autonomous Driving",
+          "nameDe": "Autonomes Fahren"
+        },
+        {
+          "id": "Produktgruppen_14",
+          "key": "Produktgruppen_14",
+          "orderkey": "00000014",
+          "orderkeyDe": "00000014",
+          "name": "Services and products for automated and autonomous driving, driver assistance systems",
+          "nameDe": "Dienste und Produkte für automatisiertes und autonomes Fahren, Fahrerassistenzsysteme"
+        }
+      ],
+      "eventdates": [
+        {
+          "id": "0556fb89-5739-468e-8af6-9470fe460bfb"
+        }
+      ],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809541",
+      "orderkey": "#additive drives",
+      "initials": "A",
+      "name": "Additive Drives",
+      "country": "Germany",
+      "city": "Dresden",
+      "postCode": "01189",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/85c9ee17-19b1-4876-9835-279983acaa07-17138b88-035f-4398-a545-28b4d814eee0",
+      "teaser": "Electric drives are the future. We support our partners from the initial idea to the finished product: electromagnetic and thermal design, construction, production, testing and industrialisation. \n\nWe develop customised solutions for a wide variety of drives in the automotive, aviation, commercial …",
+      "stands": [
+        {
+          "standNr": "12__SA16",
+          "standName": "hall 12 | SA16",
+          "standNameShort": "SA16",
+          "displayName": "hall 12 | SA16",
+          "hallNr": "12",
+          "hallName": "hall 12"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "3e737f71dd69400abad852f1968f48370ce6debbbaa367963dd75312417b81a9",
+          "firstName": "Tobias",
+          "lastName": "Glaser",
+          "organization": "Additive Drives GmbH",
+          "categories": []
+        },
+        {
+          "id": "71570af6026f03f1a782dfc7564bc2a08dc55219349404d51e4da4ab0a2bbdcf",
+          "firstName": "Lukas",
+          "lastName": "Günther",
+          "position": "Head of Marketing",
+          "organization": "Additive Drives",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/5253c0c8ebbad38e233ea2e28e7ccc92",
+          "categories": []
+        },
+        {
+          "id": "f261669172ed11869d19eb4a2704f9aeb618c9c35fa6ccb2db79d8d46ad53890",
+          "firstName": "Philipp",
+          "lastName": "Arnold",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "startUp",
+          "key": "startUp",
+          "orderkey": "Startup",
+          "orderkeyDe": "Startup",
+          "badgeName": "Startup",
+          "badgeType": "A",
+          "colorBorder": "#FF5100",
+          "colorFill": "#FF5100",
+          "colorText": "#FFFFFF",
+          "name": "Startup",
+          "nameDe": "Startup"
+        },
+        {
+          "id": "Produktgruppen_7.1.3.4",
+          "key": "Produktgruppen_7.1.3.4",
+          "orderkey": "00000007.00000001.00000003.00000004",
+          "orderkeyDe": "00000007.00000001.00000003.00000004",
+          "name": "Permanent-magnet synchronous motors",
+          "nameDe": "Permanenterregter Synchronantrieb"
+        },
+        {
+          "id": "Produktgruppen_7.1.3",
+          "key": "Produktgruppen_7.1.3",
+          "orderkey": "00000007.00000001.00000003",
+          "orderkeyDe": "00000007.00000001.00000003",
+          "name": "Electric drive systems for vehicles",
+          "nameDe": "Elektro-Antriebe f. Fahrzeuge"
+        },
+        {
+          "id": "Produktgruppen_7.1",
+          "key": "Produktgruppen_7.1",
+          "orderkey": "00000007.00000001",
+          "orderkeyDe": "00000007.00000001",
+          "name": "Engines",
+          "nameDe": "Motoren"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        },
+        {
+          "id": "SN",
+          "key": "SN",
+          "orderkey": "Saxony",
+          "orderkeyDe": "Sachsen",
+          "name": "Saxony",
+          "nameDe": "Sachsen"
+        },
+        {
+          "id": "Produktgruppen_7.1.3.6",
+          "key": "Produktgruppen_7.1.3.6",
+          "orderkey": "00000007.00000001.00000003.00000006",
+          "orderkeyDe": "00000007.00000001.00000003.00000006",
+          "name": "Electrical motors for powertrain, others",
+          "nameDe": "Elektrische Antriebsmotoren, andere"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7.1.3.5",
+          "key": "Produktgruppen_7.1.3.5",
+          "orderkey": "00000007.00000001.00000003.00000005",
+          "orderkeyDe": "00000007.00000001.00000003.00000005",
+          "name": "Wheel hub motors",
+          "nameDe": "Radnabenmotoren"
+        }
+      ],
+      "eventdates": [
+        {
+          "id": "403d5d2b-499f-4a73-ae8d-a4d42e5644a7"
+        }
+      ],
+      "entityType": "organization"
+    },
+    {
+      "id": "3714117",
+      "orderkey": "#addsecure",
+      "initials": "A",
+      "name": "AddSecure",
+      "country": "Germany",
+      "city": "Mülheim an der Ruhr",
+      "postCode": "45472",
+      "basisPremium": "BASIC",
+      "teaser": "We are a leading European provider of premium IT solutions for secure data and critical communication.",
+      "stands": [
+        {
+          "standNr": "25__C53",
+          "standName": "hall 25 | C53",
+          "standNameShort": "C53",
+          "displayName": "hall 25 | C53",
+          "hallNr": "25",
+          "hallName": "hall 25"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "ffb0b65f01ef1755480d66dc5a220f182761e088e5e485b1f0c6a11bbf0eba54",
+          "firstName": "Constantin",
+          "lastName": "Kugel",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Artificial_Intelligence",
+          "key": "Artificial_Intelligence",
+          "orderkey": "012",
+          "orderkeyDe": "012",
+          "name": "Artificial Intelligence",
+          "nameDe": "Künstliche Intelligenz"
+        },
+        {
+          "id": "NW",
+          "key": "NW",
+          "orderkey": "North Rhine-Westphalia",
+          "orderkeyDe": "Nordrhein-Westfalen",
+          "name": "North Rhine-Westphalia",
+          "nameDe": "Nordrhein-Westfalen"
+        },
+        {
+          "id": "bundeslaender",
+          "key": "bundeslaender",
+          "orderkey": "Bundeslaender",
+          "orderkeyDe": "Bundeslaender",
+          "name": "Bundeslaender",
+          "nameDe": "Bundeslaender"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_12.5",
+          "key": "Produktgruppen_12.5",
+          "orderkey": "00000012.00000005",
+          "orderkeyDe": "00000012.00000005",
+          "name": "Cybersecurity",
+          "nameDe": "Cybersecurity"
+        },
+        {
+          "id": "Produktgruppen_12",
+          "key": "Produktgruppen_12",
+          "orderkey": "00000012",
+          "orderkeyDe": "00000012",
+          "name": "Digital infrastructure products and services (telecommunications, IT-Consulting, IT-Services, software, hardware, cloud servi...",
+          "nameDe": "Digitale Infrastrukturprodukte und -Dienstleistungen (Telekommunikation, IT-Consulting, IT-Services, Software, Hardware, Clou..."
+        },
+        {
+          "id": "Produktgruppen_12.7",
+          "key": "Produktgruppen_12.7",
+          "orderkey": "00000012.00000007",
+          "orderkeyDe": "00000012.00000007",
+          "name": "Data communication",
+          "nameDe": "Datenkommunikation"
+        },
+        {
+          "id": "Produktgruppen_12.48",
+          "key": "Produktgruppen_12.48",
+          "orderkey": "00000012.00000048",
+          "orderkeyDe": "00000012.00000048",
+          "name": "Telematic and Telecommunication",
+          "nameDe": "Telematik und Telekommunikation"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3802428",
+      "orderkey": "#addvolt",
+      "initials": "A",
+      "name": "AddVolt",
+      "country": "Portugal",
+      "city": "São Mamede Infesta",
+      "postCode": "4465-255",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/52753d61-d4ce-4461-98ad-b3425b7eb54f-1e793008-1854-40b9-aef9-e7d0685bbec9",
+      "teaser": "Addvolt is the world’s 1st company to develop a patented solution to electrify any refrigeration vehicles such as Trailers, Trucks, Vans and Containers, avoiding 20 tons of CO2/year per vehicle.",
+      "stands": [
+        {
+          "standNr": "27__B32",
+          "standName": "hall 27 | B32",
+          "standNameShort": "B32",
+          "displayName": "hall 27 | B32",
+          "hallNr": "27",
+          "hallName": "hall 27"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "6f240abe3185a9ad3d5f7a110b5e23fb7034a620429577dfb19fa9d99f16ab8c",
+          "firstName": "Catarina",
+          "lastName": "Silva",
+          "position": "Department head / Group head",
+          "organization": "Addvolt",
+          "categories": []
+        },
+        {
+          "id": "08dcc5de779ec94a2af3f953d1b4a481e6059c3671a7360454dedc63409f9343",
+          "firstName": "Bruna",
+          "lastName": "Silva",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Trucks",
+          "key": "Trucks",
+          "orderkey": "001",
+          "orderkeyDe": "001",
+          "name": "Trucks",
+          "nameDe": "LKW"
+        },
+        {
+          "id": "Bus",
+          "key": "Bus",
+          "orderkey": "003",
+          "orderkeyDe": "003",
+          "name": "Bus",
+          "nameDe": "Bus"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_12",
+          "key": "Produktgruppen_12",
+          "orderkey": "00000012",
+          "orderkeyDe": "00000012",
+          "name": "Digital infrastructure products and services (telecommunications, IT-Consulting, IT-Services, software, hardware, cloud servi...",
+          "nameDe": "Digitale Infrastrukturprodukte und -Dienstleistungen (Telekommunikation, IT-Consulting, IT-Services, Software, Hardware, Clou..."
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_8",
+          "key": "Produktgruppen_8",
+          "orderkey": "00000008",
+          "orderkeyDe": "00000008",
+          "name": "Services for the operation of vehicles in groups 1-4 and transport logistic",
+          "nameDe": "Dienstleistungen zum Betrieb von Fahrzeugen der Gruppen 1 - 4 und Transportlogistik (z.B. Flottenmanagement und -finanzierung)"
+        },
+        {
+          "id": "Produktgruppen_5",
+          "key": "Produktgruppen_5",
+          "orderkey": "00000005",
+          "orderkeyDe": "00000005",
+          "name": "Trailers, bodies and containers for vehicles and Systems from groups 1-4",
+          "nameDe": "Anhänger, Aufbauten und Behälter für Fahrzeuge und Systeme der Gruppen 1-4"
+        },
+        {
+          "id": "Trailers___Bodies",
+          "key": "Trailers___Bodies",
+          "orderkey": "005",
+          "orderkeyDe": "005",
+          "name": "Trailers & Bodies",
+          "nameDe": "Anhänger & Aufbauten"
+        },
+        {
+          "id": "Produktgruppen_3",
+          "key": "Produktgruppen_3",
+          "orderkey": "00000003",
+          "orderkeyDe": "00000003",
+          "name": "Buses/Minibuses",
+          "nameDe": "Omnibusse/Minibusse"
+        },
+        {
+          "id": "Produktgruppen_4",
+          "key": "Produktgruppen_4",
+          "orderkey": "00000004",
+          "orderkeyDe": "00000004",
+          "name": "Special motor vehicles",
+          "nameDe": "Sonderkraftwagen"
+        },
+        {
+          "id": "Produktgruppen_7.6",
+          "key": "Produktgruppen_7.6",
+          "orderkey": "00000007.00000006",
+          "orderkeyDe": "00000007.00000006",
+          "name": "Axles",
+          "nameDe": "Achsen"
+        },
+        {
+          "id": "Produktgruppen_1",
+          "key": "Produktgruppen_1",
+          "orderkey": "00000001",
+          "orderkeyDe": "00000001",
+          "name": "Trucks / Truck tractors",
+          "nameDe": "Lastkraftwagen/Sattelzugmaschinen"
+        },
+        {
+          "id": "Networked_Mobility___Fleet_Management",
+          "key": "Networked_Mobility___Fleet_Management",
+          "orderkey": "008",
+          "orderkeyDe": "008",
+          "name": "Networked Mobility & Fleet Management",
+          "nameDe": "Vernetzte Mobilität / Fleet Management"
+        },
+        {
+          "id": "Special_Vehicles",
+          "key": "Special_Vehicles",
+          "orderkey": "004",
+          "orderkeyDe": "004",
+          "name": "Special Vehicles",
+          "nameDe": "Spezialfahrzeuge"
+        },
+        {
+          "id": "Produktgruppen_8.9",
+          "key": "Produktgruppen_8.9",
+          "orderkey": "00000008.00000009",
+          "orderkeyDe": "00000008.00000009",
+          "name": "Fleet information systems",
+          "nameDe": "Fuhrpark-Informationssysteme"
+        },
+        {
+          "id": "Artificial_Intelligence",
+          "key": "Artificial_Intelligence",
+          "orderkey": "012",
+          "orderkeyDe": "012",
+          "name": "Artificial Intelligence",
+          "nameDe": "Künstliche Intelligenz"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809887",
+      "orderkey": "#advanced electric machines",
+      "initials": "A",
+      "name": "Advanced Electric Machines",
+      "country": "United Kingdom",
+      "city": "Washington",
+      "postCode": "NE38 8BG",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/685f56f0-0d77-4720-9165-a45954d2b305-a45b473b-f3ce-444a-97f1-f627f43129ee",
+      "backgroundImageURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/d02e4fbe-7cb4-46b6-8f7b-979fe63f1e8a-89a9a396-0f91-45bd-9668-21d9e97f6927",
+      "teaser": "Advanced Electric Machines (AEM) designs and manufactures truly sustainable, high-performing electric motors. \n\nAEM motors are magnet-free to improve safety, performance, and efficiency. Our range of motor solutions meet the demands for commercial vehicles, buses, trailer-driven axles and more.",
+      "stands": [
+        {
+          "standNr": "23__A28",
+          "standName": "hall 23 | A28",
+          "standNameShort": "A28",
+          "displayName": "hall 23 | A28",
+          "hallNr": "23",
+          "hallName": "hall 23"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "bd1a3ddd1716adaaaa5e6fbcc530a56b610d1cb532c3b22424c92b506b18e543",
+          "firstName": "Paige",
+          "lastName": "Almack",
+          "position": "Marketing Executive",
+          "organization": "Advanced Electric Machines",
+          "categories": []
+        },
+        {
+          "id": "8c2f922e5fcdafa72f9ea08f15f0b8136df75172686308b283593d29125a57a4",
+          "firstName": "Tom",
+          "lastName": "Elliott",
+          "position": "Global Business Development Director",
+          "organization": "Advanced Electric Machines Ltd.",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/52f55190bc038e2d1695e9c30dc865b3",
+          "categories": []
+        },
+        {
+          "id": "5ab5e9caa6405ef8a364e46fc3911dbfb50bbca7ed1336c79eb8f2c7e55177e3",
+          "firstName": "Richard",
+          "lastName": "Lidstone-Scott",
+          "position": "Business Development",
+          "organization": "Advanced Electric Machines",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/b1182e14176adced2d934fde2ed4b116",
+          "categories": []
+        },
+        {
+          "id": "611996be5f51d68e7d4044d79cdcaeaa509564d1d19426b6f5ecd64397815875",
+          "firstName": "Renato",
+          "lastName": "Sisternes",
+          "position": "Customer Technical Support Engineering Manager",
+          "organization": "Advanced Electric Machines",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/cfa4d807924a41cadb58f8ce1c129c02",
+          "categories": []
+        },
+        {
+          "id": "e597ecb124ee9dbc2f1e9410971cefe4cdd8e12648fd88a69866ba34a8ea22e0",
+          "firstName": "Aaron",
+          "lastName": "Middleton",
+          "position": "Principal Design Engineer - Applications and Integration",
+          "organization": "Advanced Electric Machines",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/0705c76cffe3e6f74a3f2ba8b5695eb8",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_3.5",
+          "key": "Produktgruppen_3.5",
+          "orderkey": "00000003.00000005",
+          "orderkeyDe": "00000003.00000005",
+          "name": "Buses",
+          "nameDe": "Omnibusse"
+        },
+        {
+          "id": "Produktgruppen_2.6",
+          "key": "Produktgruppen_2.6",
+          "orderkey": "00000002.00000006",
+          "orderkeyDe": "00000002.00000006",
+          "name": "Commercial vehicles",
+          "nameDe": "Leichte Kraftwagen"
+        },
+        {
+          "id": "Produktgruppen_7.1",
+          "key": "Produktgruppen_7.1",
+          "orderkey": "00000007.00000001",
+          "orderkeyDe": "00000007.00000001",
+          "name": "Engines",
+          "nameDe": "Motoren"
+        },
+        {
+          "id": "Produktgruppen_7.1.3.6",
+          "key": "Produktgruppen_7.1.3.6",
+          "orderkey": "00000007.00000001.00000003.00000006",
+          "orderkeyDe": "00000007.00000001.00000003.00000006",
+          "name": "Electrical motors for powertrain, others",
+          "nameDe": "Elektrische Antriebsmotoren, andere"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_3",
+          "key": "Produktgruppen_3",
+          "orderkey": "00000003",
+          "orderkeyDe": "00000003",
+          "name": "Buses/Minibuses",
+          "nameDe": "Omnibusse/Minibusse"
+        },
+        {
+          "id": "Vans___Transporters",
+          "key": "Vans___Transporters",
+          "orderkey": "002",
+          "orderkeyDe": "002",
+          "name": "Vans & Transporters",
+          "nameDe": "Transporter & Vans"
+        },
+        {
+          "id": "Bus",
+          "key": "Bus",
+          "orderkey": "003",
+          "orderkeyDe": "003",
+          "name": "Bus",
+          "nameDe": "Bus"
+        },
+        {
+          "id": "Produktgruppen_7.1.3",
+          "key": "Produktgruppen_7.1.3",
+          "orderkey": "00000007.00000001.00000003",
+          "orderkeyDe": "00000007.00000001.00000003",
+          "name": "Electric drive systems for vehicles",
+          "nameDe": "Elektro-Antriebe f. Fahrzeuge"
+        },
+        {
+          "id": "Produktgruppen_2",
+          "key": "Produktgruppen_2",
+          "orderkey": "00000002",
+          "orderkeyDe": "00000002",
+          "name": "Light commercial vehicles up to 3.5 tons (delivery vans)",
+          "nameDe": "Leichte Nutzkraftwagen bis zu 3,5 Tonnen (Lieferwagen/Transporter)"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3714607",
+      "orderkey": "#aec",
+      "initials": "A",
+      "name": "AEC",
+      "country": "Italy",
+      "city": "Bertinoro",
+      "postCode": "47032",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "26__E46",
+          "standName": "hall 26 | E46",
+          "standNameShort": "E46",
+          "displayName": "hall 26 | E46",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "123503a4f47a1fcb4fd651f6a861548d1f065a1ed3a53b1f77894d7d8159d02b",
+          "firstName": "Veronica",
+          "lastName": "Aec",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7.9.12",
+          "key": "Produktgruppen_7.9.12",
+          "orderkey": "00000007.00000009.00000012",
+          "orderkeyDe": "00000007.00000009.00000012",
+          "name": "Brake components, hydraulic",
+          "nameDe": "Bremsenteile, hydraulisch"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_7.9",
+          "key": "Produktgruppen_7.9",
+          "orderkey": "00000007.00000009",
+          "orderkeyDe": "00000007.00000009",
+          "name": "Braking and Chassis Systems",
+          "nameDe": "Brems- und Fahrwerksysteme"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3809447",
+      "orderkey": "#ae system",
+      "initials": "A",
+      "name": "AE System",
+      "country": "China",
+      "city": "HangZhou",
+      "postCode": "310000",
+      "basisPremium": "BASIC",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/ccbe05ad-b63a-4495-a8d1-6157484550d6-4c9fdd7d-ec7d-4111-841c-866dd02c012f",
+      "teaser": "AE System acomplished over 10 years of experience in the advancement of new energy vehicles and related solutions both in China and internationally. Leveraging our extensive industry expertise, we are adapt at identifying prevailing technology trends to assist clients in creating cutting-edge produ…",
+      "stands": [
+        {
+          "standNr": "21__D68",
+          "standName": "hall 21 | D68",
+          "standNameShort": "D68",
+          "displayName": "hall 21 | D68",
+          "hallNr": "21",
+          "hallName": "hall 21"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "1f6db5b33ebf22b9b325007e0df8dac7eca9986a01d079ebfbb7e6821a9db82c",
+          "firstName": "Cherry",
+          "lastName": "Duan",
+          "position": "sales manager",
+          "organization": "AE System",
+          "categories": []
+        },
+        {
+          "id": "573f808123d959a10ec964fe01df0b55d43f25b69e8d31942c91c684caf0b01d",
+          "firstName": "Miranda",
+          "lastName": "Cao",
+          "position": "Project manager",
+          "organization": "AE System",
+          "categories": []
+        },
+        {
+          "id": "dd9b1881548fb0037e63b22613fb4dd775ef52c31c2ca1558a82fe2c0cbcbabf",
+          "firstName": "Renee",
+          "lastName": "Zhang",
+          "position": "Assistant to CEO",
+          "organization": "AE System",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_13",
+          "key": "Produktgruppen_13",
+          "orderkey": "00000013",
+          "orderkeyDe": "00000013",
+          "name": "Products and solutions for tank and charging infrastructure (e.g. charging systems, Hydrogen refueling stations, bidirectiona...",
+          "nameDe": "Produkte und Lösungen zur Lade- & Tankinfrastruktur (z.B. Ladesysteme, Wasserstofftankstellen, bidirektionales Laden, Bezahls..."
+        },
+        {
+          "id": "Produktgruppen_7.1",
+          "key": "Produktgruppen_7.1",
+          "orderkey": "00000007.00000001",
+          "orderkeyDe": "00000007.00000001",
+          "name": "Engines",
+          "nameDe": "Motoren"
+        },
+        {
+          "id": "Produktgruppen_7.1.3",
+          "key": "Produktgruppen_7.1.3",
+          "orderkey": "00000007.00000001.00000003",
+          "orderkeyDe": "00000007.00000001.00000003",
+          "name": "Electric drive systems for vehicles",
+          "nameDe": "Elektro-Antriebe f. Fahrzeuge"
+        },
+        {
+          "id": "Produktgruppen_7.10.11",
+          "key": "Produktgruppen_7.10.11",
+          "orderkey": "00000007.00000010.00000011",
+          "orderkeyDe": "00000007.00000010.00000011",
+          "name": "Steering systems, electric",
+          "nameDe": "Lenkungen, elektrisch"
+        },
+        {
+          "id": "Produktgruppen_7.10",
+          "key": "Produktgruppen_7.10",
+          "orderkey": "00000007.00000010",
+          "orderkeyDe": "00000007.00000010",
+          "name": "Steering system",
+          "nameDe": "Lenkanlage"
+        },
+        {
+          "id": "Produktgruppen_13.8.4",
+          "key": "Produktgruppen_13.8.4",
+          "orderkey": "00000013.00000008.00000004",
+          "orderkeyDe": "00000013.00000008.00000004",
+          "name": "DC fast-charging stations (CCS)",
+          "nameDe": "Ladestationen, Schnellladen (CCS)"
+        },
+        {
+          "id": "Produktgruppen_7.1.3.6",
+          "key": "Produktgruppen_7.1.3.6",
+          "orderkey": "00000007.00000001.00000003.00000006",
+          "orderkeyDe": "00000007.00000001.00000003.00000006",
+          "name": "Electrical motors for powertrain, others",
+          "nameDe": "Elektrische Antriebsmotoren, andere"
+        },
+        {
+          "id": "Charging_Infrastructure",
+          "key": "Charging_Infrastructure",
+          "orderkey": "013",
+          "orderkeyDe": "013",
+          "name": "Charging Infrastructure",
+          "nameDe": "Ladeinfrastruktur"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Produktgruppen_13.8",
+          "key": "Produktgruppen_13.8",
+          "orderkey": "00000013.00000008",
+          "orderkeyDe": "00000013.00000008",
+          "name": "EV Charging stations",
+          "nameDe": "Ladestationen"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3808327",
+      "orderkey": "#aeva",
+      "initials": "A",
+      "name": "Aeva",
+      "country": "United States of America",
+      "city": "Mountain View",
+      "postCode": "94043",
+      "basisPremium": "PREMIUM",
+      "pictureURL": "https://static.event-cloud.com/2024_iaa_transportation/uploads/f90a0dc0-5178-47c6-a315-401264a45b0f-d4325157-94b9-41f4-8572-4b86fa272e74",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "12__C48",
+          "standName": "hall 12 | C48",
+          "standNameShort": "C48",
+          "displayName": "hall 12 | C48",
+          "hallNr": "12",
+          "hallName": "hall 12"
+        },
+        {
+          "standNr": "F__T90",
+          "standName": "Open-Air Section | T90",
+          "standNameShort": "T90",
+          "displayName": "Open-Air Section | T90",
+          "hallNr": "F",
+          "hallName": "Open-Air Section"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "da35555f716ffe0b712e88c9e6e2ed56a96756ddca3693d4989fb9408d7b9d9a",
+          "firstName": "Michelle",
+          "lastName": "Chang",
+          "position": "Chief of Staff",
+          "organization": "Aeva",
+          "logoUrl": "https://static.event-cloud.com/seriesoftopics/IAA+Transportation/personImages/6269b6dd0e54395fac6aee8ee5ee0d31",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7.18",
+          "key": "Produktgruppen_7.18",
+          "orderkey": "00000007.00000018",
+          "orderkeyDe": "00000007.00000018",
+          "name": "Electrical equipment",
+          "nameDe": "Elektrische Ausrüstung"
+        },
+        {
+          "id": "Autonomous_Driving",
+          "key": "Autonomous_Driving",
+          "orderkey": "014",
+          "orderkeyDe": "014",
+          "name": "Autonomous Driving",
+          "nameDe": "Autonomes Fahren"
+        },
+        {
+          "id": "Produktgruppen_14",
+          "key": "Produktgruppen_14",
+          "orderkey": "00000014",
+          "orderkeyDe": "00000014",
+          "name": "Services and products for automated and autonomous driving, driver assistance systems",
+          "nameDe": "Dienste und Produkte für automatisiertes und autonomes Fahren, Fahrerassistenzsysteme"
+        },
+        {
+          "id": "Produktgruppen_14.10.2",
+          "key": "Produktgruppen_14.10.2",
+          "orderkey": "00000014.00000010.00000002",
+          "orderkeyDe": "00000014.00000010.00000002",
+          "name": "Lidar (light detection and ranging)",
+          "nameDe": "Lidar (light detection and ranging)"
+        },
+        {
+          "id": "Produktgruppen_7.18.37",
+          "key": "Produktgruppen_7.18.37",
+          "orderkey": "00000007.00000018.00000037",
+          "orderkeyDe": "00000007.00000018.00000037",
+          "name": "Sensors",
+          "nameDe": "Sensoren"
+        },
+        {
+          "id": "Produktgruppen_14.10",
+          "key": "Produktgruppen_14.10",
+          "orderkey": "00000014.00000010",
+          "orderkeyDe": "00000014.00000010",
+          "name": "Sensors",
+          "nameDe": "Sensoren"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "excite",
+          "key": "excite",
+          "orderkey": "excite",
+          "orderkeyDe": "excite",
+          "name": "excite",
+          "nameDe": "excite"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3404188",
+      "orderkey": "#afhymat",
+      "initials": "A",
+      "name": "AFHYMAT",
+      "country": "France",
+      "city": "ROYE",
+      "postCode": "80700",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "26__C16",
+          "standName": "hall 26 | C16",
+          "standNameShort": "C16",
+          "displayName": "hall 26 | C16",
+          "hallNr": "26",
+          "hallName": "hall 26"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "6915ae08ed17f1bf1c88adbe0432d8707eab13265e753ce07f35736492af5f46",
+          "firstName": "Severine",
+          "lastName": "Aubert",
+          "position": "Export management",
+          "organization": "AFHYMAT",
+          "categories": []
+        },
+        {
+          "id": "75440ccf4090ed5f76e4f060f1f0870b4eded8cafaccf602a822dada9dec6fc0",
+          "firstName": "Kelly",
+          "lastName": "Leraille",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "Produktgruppen_7.13",
+          "key": "Produktgruppen_7.13",
+          "orderkey": "00000007.00000013",
+          "orderkeyDe": "00000007.00000013",
+          "name": "Bodywork components and equipment",
+          "nameDe": "Aufbautenteile und -ausrüstungen"
+        },
+        {
+          "id": "Produktgruppen_7.13.75",
+          "key": "Produktgruppen_7.13.75",
+          "orderkey": "00000007.00000013.00000075",
+          "orderkeyDe": "00000007.00000013.00000075",
+          "name": "Hydraulic systems",
+          "nameDe": "Hydraulik-Systeme"
+        },
+        {
+          "id": "Trailers___Bodies",
+          "key": "Trailers___Bodies",
+          "orderkey": "005",
+          "orderkeyDe": "005",
+          "name": "Trailers & Bodies",
+          "nameDe": "Anhänger & Aufbauten"
+        },
+        {
+          "id": "Parts___Accessories",
+          "key": "Parts___Accessories",
+          "orderkey": "007",
+          "orderkeyDe": "007",
+          "name": "Parts & Accessories",
+          "nameDe": "Teile & Zubehör"
+        },
+        {
+          "id": "Produktgruppen_5.49",
+          "key": "Produktgruppen_5.49",
+          "orderkey": "00000005.00000049",
+          "orderkeyDe": "00000005.00000049",
+          "name": "Tippers",
+          "nameDe": "Kipperfahrzeuge/ -aufbauten"
+        },
+        {
+          "id": "Produktgruppen_5",
+          "key": "Produktgruppen_5",
+          "orderkey": "00000005",
+          "orderkeyDe": "00000005",
+          "name": "Trailers, bodies and containers for vehicles and Systems from groups 1-4",
+          "nameDe": "Anhänger, Aufbauten und Behälter für Fahrzeuge und Systeme der Gruppen 1-4"
+        },
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_5.71",
+          "key": "Produktgruppen_5.71",
+          "orderkey": "00000005.00000071",
+          "orderkeyDe": "00000005.00000071",
+          "name": "Dumpers / body structures",
+          "nameDe": "Muldenkipper/ -aufbauten"
+        },
+        {
+          "id": "Produktgruppen_7",
+          "key": "Produktgruppen_7",
+          "orderkey": "00000007",
+          "orderkeyDe": "00000007",
+          "name": "Suppliers: Parts and accessories; partly finished products",
+          "nameDe": "Zulieferer: Teile und Zubehör; Vorerzeugnisse"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    },
+    {
+      "id": "3801195",
+      "orderkey": "#air compressor mpc",
+      "initials": "A",
+      "name": "Air Compressor MPC",
+      "country": "Spain",
+      "city": "LA PUEBLA DE ALFINDEN",
+      "postCode": "50171",
+      "basisPremium": "BASIC",
+      "teaser": "",
+      "stands": [
+        {
+          "standNr": "13__A69",
+          "standName": "hall 13 | A69",
+          "standNameShort": "A69",
+          "displayName": "hall 13 | A69",
+          "hallNr": "13",
+          "hallName": "hall 13"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "fc85625683ca6e79fb14e0c0535d8d4684d88e9cf2e026fa5e8919c3d3d0d60e",
+          "firstName": "Jose Miguel",
+          "lastName": "Martinez",
+          "categories": []
+        }
+      ],
+      "categories": [
+        {
+          "id": "productGroups",
+          "key": "productGroups",
+          "orderkey": "productGroups",
+          "orderkeyDe": "productGroups",
+          "name": "Product groups",
+          "nameDe": "Produktgruppen"
+        },
+        {
+          "id": "Produktgruppen_9.15.8",
+          "key": "Produktgruppen_9.15.8",
+          "orderkey": "00000009.00000015.00000008",
+          "orderkeyDe": "00000009.00000015.00000008",
+          "name": "Tools",
+          "nameDe": "Werkzeuge"
+        },
+        {
+          "id": "Produktgruppen_9.15",
+          "key": "Produktgruppen_9.15",
+          "orderkey": "00000009.00000015",
+          "orderkeyDe": "00000009.00000015",
+          "name": "Tools",
+          "nameDe": "Werkzeuge"
+        },
+        {
+          "id": "Produktgruppen_9",
+          "key": "Produktgruppen_9",
+          "orderkey": "00000009",
+          "orderkeyDe": "00000009",
+          "name": "Servicing, repair and maintenance (repair shop installation)",
+          "nameDe": "Instandsetzung, Pflege und Wartung (Werkstattausrüstung)"
+        },
+        {
+          "id": "Sustainability",
+          "key": "Sustainability",
+          "orderkey": "009",
+          "orderkeyDe": "009",
+          "name": "Sustainability",
+          "nameDe": "Nachhaltigkeit"
+        }
+      ],
+      "eventdates": [],
+      "entityType": "organization"
+    }
+  ]
+}
