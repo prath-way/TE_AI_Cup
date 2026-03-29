@@ -705,9 +705,14 @@ app.get('/', (req, res) => {
 });
 
 // Start server
-app.listen(PORT, () => {
-    console.log('\n🚀 Server is running!');
-    console.log(`📍 URL: http://localhost:${PORT}`);
-    console.log(`📊 Total companies loaded: ${companiesData.length}`);
-    console.log('\n✨ Ready to search and download company data!\n');
-});
+if (process.env.NODE_ENV !== 'production') {
+    app.listen(PORT, () => {
+        console.log('\n🚀 Server is running!');
+        console.log(`📍 URL: http://localhost:${PORT}`);
+        console.log(`📊 Total companies loaded: ${companiesData.length}`);
+        console.log('\n✨ Ready to search and download company data!\n');
+    });
+}
+
+export default app;
+

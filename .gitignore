@@ -17,8 +17,22 @@ node_modules/
 !package.json
 !package-lock.json
 !render.yaml
+!vercel.json
+!companies_full.json
+!imtex_companies_simple.json
+!plasteurasia_data.json
+!k_online_data.json
+!arabplast_data.json
+!iaa_data_final.json
+!emo_data.json
+!blechexpo_data.json
+!globalchem_data.json
+!himtex_data.json
+!chinaplas_data.json
 
 # OS files
+
+
 Thumbs.db
 .DS_Store
 
