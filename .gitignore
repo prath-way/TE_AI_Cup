@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Debug & temp files
+*.log
+*.html
+!index.html
+!demo-enrichment.html
+*.png
+*.xlsx
+
+# Data files
+*.json
+!package.json
+!package-lock.json
+!render.yaml
+
+# OS files
+Thumbs.db
+.DS_Store
+
