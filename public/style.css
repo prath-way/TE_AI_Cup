@@ -50,13 +50,19 @@ body {
     color: var(--text-main);
     transition: background-color 0.3s ease, color 0.3s ease;
     min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
 }
+
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    position: relative;
+    z-index: 10;
 }
+
 
 /* Header */
 .header {
@@ -739,8 +745,10 @@ body.dark-theme .toggle-icon.moon {
     z-index: -1;
     border-radius: 50%;
     filter: blur(80px);
-    opacity: 0.4;
+    opacity: 0.3;
+    pointer-events: none;
 }
+
 
 .decoration-1 {
     width: 300px;

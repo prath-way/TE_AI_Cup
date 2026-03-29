@@ -8,10 +8,11 @@ import dotenv from 'dotenv';
 dotenv.config();
 import { createObjectCsvWriter } from 'csv-writer';
 import ExcelJS from 'exceljs';
-import { enrichAllCompanies } from './enrichment-service.js';
-import { scrapeContactPage } from './data-sources.js';
-import { startBackgroundContactScraping } from './data-sources.js';
-import { cleanCompanyRecords } from './utils/dataCleaner.js';
+import { enrichAllCompanies } from '../enrichment-service.js';
+import { scrapeContactPage } from '../data-sources.js';
+import { startBackgroundContactScraping } from '../data-sources.js';
+import { cleanCompanyRecords } from '../utils/dataCleaner.js';
+
 
 /**
  * Run scrapeContactPage concurrently with a pool limit.
@@ -58,7 +59,8 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json({ limit: '100mb' }));
 app.use(express.urlencoded({ limit: '100mb', extended: true }));
-app.use(express.static(__dirname));
+// app.use(express.static(__dirname));
+
 
 // Log request size for debugging
 app.use((req, res, next) => {
@@ -83,7 +85,8 @@ let chinaplasCompanies = [];
 
 try {
     // Load Plastindia companies
-    const plastindiaData = fs.readFileSync(path.join(__dirname, 'companies_full.json'), 'utf-8');
+    const plastindiaData = fs.readFileSync(path.join(__dirname, '..', 'companies_full.json'), 'utf-8');
+
     plastindiaCompanies = JSON.parse(plastindiaData);
 
     // Add source tag to Plastindia companies
@@ -101,7 +104,8 @@ try {
 
 try {
     // Load IMTEX companies
-    const imtexData = fs.readFileSync(path.join(__dirname, 'imtex_companies_simple.json'), 'utf-8');
+    const imtexData = fs.readFileSync(path.join(__dirname, '..', 'imtex_companies_simple.json'), 'utf-8');
+
     imtexCompanies = JSON.parse(imtexData);
 
     // Normalize IMTEX data to match Plastindia format
@@ -121,7 +125,8 @@ try {
 
 try {
     // Load PlastEurasia companies
-    const plasteurasiaData = fs.readFileSync(path.join(__dirname, 'plasteurasia_data.json'), 'utf-8');
+    const plasteurasiaData = fs.readFileSync(path.join(__dirname, '..', 'plasteurasia_data.json'), 'utf-8');
+
     plasteurasiaCompanies = JSON.parse(plasteurasiaData);
 
     // Normalize PlastEurasia data
@@ -142,7 +147,8 @@ try {
 let kOnlineCompanies = [];
 try {
     // Load K-Online companies
-    const kOnlineData = fs.readFileSync(path.join(__dirname, 'k_online_data.json'), 'utf-8');
+    const kOnlineData = fs.readFileSync(path.join(__dirname, '..', 'k_online_data.json'), 'utf-8');
+
     kOnlineCompanies = JSON.parse(kOnlineData);
 
     // Normalize K-Online data
@@ -162,7 +168,8 @@ try {
 
 let arabPlastCompanies = [];
 try {
-    const arabData = fs.readFileSync(path.join(__dirname, 'arabplast_data.json'), 'utf-8');
+    const arabData = fs.readFileSync(path.join(__dirname, '..', 'arabplast_data.json'), 'utf-8');
+
     arabPlastCompanies = JSON.parse(arabData);
 
     // Normalize ArabPlast data
@@ -182,7 +189,8 @@ try {
 
 let iaaCompanies = [];
 try {
-    const iaaData = fs.readFileSync(path.join(__dirname, 'iaa_data_final.json'), 'utf-8');
+    const iaaData = fs.readFileSync(path.join(__dirname, '..', 'iaa_data_final.json'), 'utf-8');
+
     iaaCompanies = JSON.parse(iaaData);
 
     // Normalize IAA data
@@ -216,7 +224,8 @@ try {
 
 let emoCompanies = [];
 try {
-    const emoData = fs.readFileSync(path.join(__dirname, 'emo_data.json'), 'utf-8');
+    const emoData = fs.readFileSync(path.join(__dirname, '..', 'emo_data.json'), 'utf-8');
+
     emoCompanies = JSON.parse(emoData);
 
     // Normalize EMO data
@@ -235,7 +244,8 @@ try {
 }
 
 try {
-    const blechData = fs.readFileSync(path.join(__dirname, 'blechexpo_data.json'), 'utf-8');
+    const blechData = fs.readFileSync(path.join(__dirname, '..', 'blechexpo_data.json'), 'utf-8');
+
     blechexpoCompanies = JSON.parse(blechData);
 
     // Normalize Blechexpo data
@@ -254,7 +264,8 @@ try {
 }
 
 try {
-    const globalchemData = fs.readFileSync(path.join(__dirname, 'globalchem_data.json'), 'utf-8');
+    const globalchemData = fs.readFileSync(path.join(__dirname, '..', 'globalchem_data.json'), 'utf-8');
+
     globalchemCompanies = JSON.parse(globalchemData);
 
     // Normalize Global Chem Expo data
@@ -282,7 +293,8 @@ try {
 
 // Load HIMTEX data
 try {
-    const himtexData = fs.readFileSync(path.join(__dirname, 'himtex_data.json'), 'utf-8');
+    const himtexData = fs.readFileSync(path.join(__dirname, '..', 'himtex_data.json'), 'utf-8');
+
     himtexCompanies = JSON.parse(himtexData);
 
     himtexCompanies = himtexCompanies.map(company => {
@@ -308,7 +320,8 @@ try {
 
 // Load Chinaplas data
 try {
-    const chinaplasPath = path.join(__dirname, 'chinaplas_data.json');
+    const chinaplasPath = path.join(__dirname, '..', 'chinaplas_data.json');
+
     if (fs.existsSync(chinaplasPath)) {
         const chinaplasData = fs.readFileSync(chinaplasPath, 'utf-8');
         chinaplasCompanies = JSON.parse(chinaplasData);
@@ -427,7 +440,8 @@ app.post('/api/enrich-contacts', async (req, res) => {
 
         console.log(`\n📞 Contact enrichment requested for ${companies.length} companies`);
 
-        const { scrapeContactPage } = await import('./data-sources.js');
+        const { scrapeContactPage } = await import('../data-sources.js');
+
 
         const enrichedCompanies = [];
 
@@ -481,7 +495,8 @@ app.post('/api/enrich-real-data', async (req, res) => {
         console.log(`\n🌐 Real-time enrichment requested for ${companies.length} companies`);
 
         // Use the async enrichment with real data
-        const { enrichAllCompaniesWithRealData } = await import('./enrichment-service.js');
+        const { enrichAllCompaniesWithRealData } = await import('../enrichment-service.js');
+
 
         const enrichedCompanies = await enrichAllCompaniesWithRealData(
             companies,
@@ -513,7 +528,8 @@ app.post('/api/download/csv', async (req, res) => {
 
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5);
         const filename = `companies_${timestamp}.csv`;
-        const filepath = path.join(__dirname, filename);
+        const filepath = path.join('/tmp', filename);
+
 
         // Create CSV writer
         const csvWriter = createObjectCsvWriter({
@@ -580,7 +596,8 @@ app.post('/api/download/excel', async (req, res) => {
 
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, -5);
         const filename = `companies_${timestamp}.xlsx`;
-        const filepath = path.join(__dirname, filename);
+        const filepath = path.join('/tmp', filename);
+
 
         // Create workbook
         const workbook = new ExcelJS.Workbook();
@@ -701,8 +718,9 @@ app.post('/api/download/excel', async (req, res) => {
 
 // Serve index.html for root route
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
+    res.sendFile(path.join(__dirname, '..', 'public', 'index.html'));
 });
+
 
 // Start server
 if (process.env.NODE_ENV !== 'production') {
